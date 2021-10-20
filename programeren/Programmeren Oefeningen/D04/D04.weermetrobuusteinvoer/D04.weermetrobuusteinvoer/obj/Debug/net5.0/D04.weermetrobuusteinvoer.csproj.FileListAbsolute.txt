@@ -1,0 +1,16 @@
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weermetrobuusteinvoer\D04.weermetrobuusteinvoer\bin\Debug\net5.0\D04.weermetrobuusteinvoer.exe
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weermetrobuusteinvoer\D04.weermetrobuusteinvoer\bin\Debug\net5.0\D04.weermetrobuusteinvoer.deps.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weermetrobuusteinvoer\D04.weermetrobuusteinvoer\bin\Debug\net5.0\D04.weermetrobuusteinvoer.runtimeconfig.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weermetrobuusteinvoer\D04.weermetrobuusteinvoer\bin\Debug\net5.0\D04.weermetrobuusteinvoer.runtimeconfig.dev.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weermetrobuusteinvoer\D04.weermetrobuusteinvoer\bin\Debug\net5.0\D04.weermetrobuusteinvoer.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weermetrobuusteinvoer\D04.weermetrobuusteinvoer\bin\Debug\net5.0\ref\D04.weermetrobuusteinvoer.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weermetrobuusteinvoer\D04.weermetrobuusteinvoer\bin\Debug\net5.0\D04.weermetrobuusteinvoer.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weermetrobuusteinvoer\D04.weermetrobuusteinvoer\obj\Debug\net5.0\D04.weermetrobuusteinvoer.csproj.AssemblyReference.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weermetrobuusteinvoer\D04.weermetrobuusteinvoer\obj\Debug\net5.0\D04.weermetrobuusteinvoer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weermetrobuusteinvoer\D04.weermetrobuusteinvoer\obj\Debug\net5.0\D04.weermetrobuusteinvoer.AssemblyInfoInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weermetrobuusteinvoer\D04.weermetrobuusteinvoer\obj\Debug\net5.0\D04.weermetrobuusteinvoer.AssemblyInfo.cs
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weermetrobuusteinvoer\D04.weermetrobuusteinvoer\obj\Debug\net5.0\D04.weermetrobuusteinvoer.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weermetrobuusteinvoer\D04.weermetrobuusteinvoer\obj\Debug\net5.0\D04.weermetrobuusteinvoer.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weermetrobuusteinvoer\D04.weermetrobuusteinvoer\obj\Debug\net5.0\ref\D04.weermetrobuusteinvoer.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weermetrobuusteinvoer\D04.weermetrobuusteinvoer\obj\Debug\net5.0\D04.weermetrobuusteinvoer.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weermetrobuusteinvoer\D04.weermetrobuusteinvoer\obj\Debug\net5.0\D04.weermetrobuusteinvoer.genruntimeconfig.cache

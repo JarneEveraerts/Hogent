@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\leeftijdvolgendjaar\leeftijdvolgendjaar\bin\Debug\net5.0\leeftijdvolgendjaar.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\leeftijdvolgendjaar\leeftijdvolgendjaar\bin\Debug\net5.0\leeftijdvolgendjaar.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\leeftijdvolgendjaar\leeftijdvolgendjaar\bin\Debug\net5.0\leeftijdvolgendjaar.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\leeftijdvolgendjaar\leeftijdvolgendjaar\bin\Debug\net5.0\leeftijdvolgendjaar.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\leeftijdvolgendjaar\leeftijdvolgendjaar\bin\Debug\net5.0\leeftijdvolgendjaar.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\leeftijdvolgendjaar\leeftijdvolgendjaar\bin\Debug\net5.0\ref\leeftijdvolgendjaar.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\leeftijdvolgendjaar\leeftijdvolgendjaar\bin\Debug\net5.0\leeftijdvolgendjaar.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\leeftijdvolgendjaar\leeftijdvolgendjaar\obj\Debug\net5.0\leeftijdvolgendjaar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\leeftijdvolgendjaar\leeftijdvolgendjaar\obj\Debug\net5.0\leeftijdvolgendjaar.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\leeftijdvolgendjaar\leeftijdvolgendjaar\obj\Debug\net5.0\leeftijdvolgendjaar.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\leeftijdvolgendjaar\leeftijdvolgendjaar\obj\Debug\net5.0\leeftijdvolgendjaar.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\leeftijdvolgendjaar\leeftijdvolgendjaar\obj\Debug\net5.0\leeftijdvolgendjaar.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\leeftijdvolgendjaar\leeftijdvolgendjaar\obj\Debug\net5.0\ref\leeftijdvolgendjaar.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\leeftijdvolgendjaar\leeftijdvolgendjaar\obj\Debug\net5.0\leeftijdvolgendjaar.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\leeftijdvolgendjaar\leeftijdvolgendjaar\obj\Debug\net5.0\leeftijdvolgendjaar.genruntimeconfig.cache

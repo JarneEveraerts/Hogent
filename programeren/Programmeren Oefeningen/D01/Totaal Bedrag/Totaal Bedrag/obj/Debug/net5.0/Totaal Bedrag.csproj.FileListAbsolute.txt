@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Totaal Bedrag\Totaal Bedrag\obj\Debug\net5.0\Totaal Bedrag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Totaal Bedrag\Totaal Bedrag\obj\Debug\net5.0\Totaal Bedrag.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Totaal Bedrag\Totaal Bedrag\obj\Debug\net5.0\Totaal Bedrag.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Totaal Bedrag\Totaal Bedrag\obj\Debug\net5.0\Totaal Bedrag.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Totaal Bedrag\Totaal Bedrag\bin\Debug\net5.0\Totaal Bedrag.exe
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Totaal Bedrag\Totaal Bedrag\bin\Debug\net5.0\Totaal Bedrag.deps.json
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Totaal Bedrag\Totaal Bedrag\bin\Debug\net5.0\Totaal Bedrag.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Totaal Bedrag\Totaal Bedrag\bin\Debug\net5.0\Totaal Bedrag.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Totaal Bedrag\Totaal Bedrag\bin\Debug\net5.0\Totaal Bedrag.dll
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Totaal Bedrag\Totaal Bedrag\bin\Debug\net5.0\ref\Totaal Bedrag.dll
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Totaal Bedrag\Totaal Bedrag\bin\Debug\net5.0\Totaal Bedrag.pdb
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Totaal Bedrag\Totaal Bedrag\obj\Debug\net5.0\Totaal Bedrag.dll
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Totaal Bedrag\Totaal Bedrag\obj\Debug\net5.0\ref\Totaal Bedrag.dll
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Totaal Bedrag\Totaal Bedrag\obj\Debug\net5.0\Totaal Bedrag.pdb
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Totaal Bedrag\Totaal Bedrag\obj\Debug\net5.0\Totaal Bedrag.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\evera\source\repos\gemiddelde\gemiddelde\bin\Debug\net5.0\gemiddelde.exe
+C:\Users\evera\source\repos\gemiddelde\gemiddelde\bin\Debug\net5.0\gemiddelde.deps.json
+C:\Users\evera\source\repos\gemiddelde\gemiddelde\bin\Debug\net5.0\gemiddelde.runtimeconfig.json
+C:\Users\evera\source\repos\gemiddelde\gemiddelde\bin\Debug\net5.0\gemiddelde.runtimeconfig.dev.json
+C:\Users\evera\source\repos\gemiddelde\gemiddelde\bin\Debug\net5.0\gemiddelde.dll
+C:\Users\evera\source\repos\gemiddelde\gemiddelde\bin\Debug\net5.0\ref\gemiddelde.dll
+C:\Users\evera\source\repos\gemiddelde\gemiddelde\bin\Debug\net5.0\gemiddelde.pdb
+C:\Users\evera\source\repos\gemiddelde\gemiddelde\obj\Debug\net5.0\gemiddelde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\source\repos\gemiddelde\gemiddelde\obj\Debug\net5.0\gemiddelde.AssemblyInfoInputs.cache
+C:\Users\evera\source\repos\gemiddelde\gemiddelde\obj\Debug\net5.0\gemiddelde.AssemblyInfo.cs
+C:\Users\evera\source\repos\gemiddelde\gemiddelde\obj\Debug\net5.0\gemiddelde.csproj.CoreCompileInputs.cache
+C:\Users\evera\source\repos\gemiddelde\gemiddelde\obj\Debug\net5.0\gemiddelde.dll
+C:\Users\evera\source\repos\gemiddelde\gemiddelde\obj\Debug\net5.0\ref\gemiddelde.dll
+C:\Users\evera\source\repos\gemiddelde\gemiddelde\obj\Debug\net5.0\gemiddelde.pdb
+C:\Users\evera\source\repos\gemiddelde\gemiddelde\obj\Debug\net5.0\gemiddelde.genruntimeconfig.cache

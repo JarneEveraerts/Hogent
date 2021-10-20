@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\Muntstukken\Muntstukken\bin\Debug\net5.0\Muntstukken.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\Muntstukken\Muntstukken\bin\Debug\net5.0\Muntstukken.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\Muntstukken\Muntstukken\bin\Debug\net5.0\Muntstukken.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\Muntstukken\Muntstukken\bin\Debug\net5.0\Muntstukken.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\Muntstukken\Muntstukken\bin\Debug\net5.0\Muntstukken.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\Muntstukken\Muntstukken\bin\Debug\net5.0\ref\Muntstukken.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\Muntstukken\Muntstukken\bin\Debug\net5.0\Muntstukken.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\Muntstukken\Muntstukken\obj\Debug\net5.0\Muntstukken.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\Muntstukken\Muntstukken\obj\Debug\net5.0\Muntstukken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\Muntstukken\Muntstukken\obj\Debug\net5.0\Muntstukken.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\Muntstukken\Muntstukken\obj\Debug\net5.0\Muntstukken.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\Muntstukken\Muntstukken\obj\Debug\net5.0\Muntstukken.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\Muntstukken\Muntstukken\obj\Debug\net5.0\Muntstukken.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\Muntstukken\Muntstukken\obj\Debug\net5.0\ref\Muntstukken.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\Muntstukken\Muntstukken\obj\Debug\net5.0\Muntstukken.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\Muntstukken\Muntstukken\obj\Debug\net5.0\Muntstukken.genruntimeconfig.cache

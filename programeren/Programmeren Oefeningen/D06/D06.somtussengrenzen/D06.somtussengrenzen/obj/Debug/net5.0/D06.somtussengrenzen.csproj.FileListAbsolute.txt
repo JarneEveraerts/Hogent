@@ -1,0 +1,15 @@
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.somtussengrenzen\D06.somtussengrenzen\bin\Debug\net5.0\D06.somtussengrenzen.exe
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.somtussengrenzen\D06.somtussengrenzen\bin\Debug\net5.0\D06.somtussengrenzen.deps.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.somtussengrenzen\D06.somtussengrenzen\bin\Debug\net5.0\D06.somtussengrenzen.runtimeconfig.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.somtussengrenzen\D06.somtussengrenzen\bin\Debug\net5.0\D06.somtussengrenzen.runtimeconfig.dev.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.somtussengrenzen\D06.somtussengrenzen\bin\Debug\net5.0\D06.somtussengrenzen.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.somtussengrenzen\D06.somtussengrenzen\bin\Debug\net5.0\ref\D06.somtussengrenzen.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.somtussengrenzen\D06.somtussengrenzen\bin\Debug\net5.0\D06.somtussengrenzen.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.somtussengrenzen\D06.somtussengrenzen\obj\Debug\net5.0\D06.somtussengrenzen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.somtussengrenzen\D06.somtussengrenzen\obj\Debug\net5.0\D06.somtussengrenzen.AssemblyInfoInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.somtussengrenzen\D06.somtussengrenzen\obj\Debug\net5.0\D06.somtussengrenzen.AssemblyInfo.cs
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.somtussengrenzen\D06.somtussengrenzen\obj\Debug\net5.0\D06.somtussengrenzen.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.somtussengrenzen\D06.somtussengrenzen\obj\Debug\net5.0\D06.somtussengrenzen.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.somtussengrenzen\D06.somtussengrenzen\obj\Debug\net5.0\ref\D06.somtussengrenzen.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.somtussengrenzen\D06.somtussengrenzen\obj\Debug\net5.0\D06.somtussengrenzen.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.somtussengrenzen\D06.somtussengrenzen\obj\Debug\net5.0\D06.somtussengrenzen.genruntimeconfig.cache

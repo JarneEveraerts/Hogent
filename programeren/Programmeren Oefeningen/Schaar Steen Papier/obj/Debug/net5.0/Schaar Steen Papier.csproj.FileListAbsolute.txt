@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Schaar Steen Papier\bin\Debug\net5.0\Schaar Steen Papier.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Schaar Steen Papier\bin\Debug\net5.0\Schaar Steen Papier.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Schaar Steen Papier\bin\Debug\net5.0\Schaar Steen Papier.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Schaar Steen Papier\bin\Debug\net5.0\Schaar Steen Papier.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Schaar Steen Papier\bin\Debug\net5.0\Schaar Steen Papier.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Schaar Steen Papier\bin\Debug\net5.0\ref\Schaar Steen Papier.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Schaar Steen Papier\bin\Debug\net5.0\Schaar Steen Papier.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Schaar Steen Papier\obj\Debug\net5.0\Schaar Steen Papier.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Schaar Steen Papier\obj\Debug\net5.0\Schaar Steen Papier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Schaar Steen Papier\obj\Debug\net5.0\Schaar Steen Papier.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Schaar Steen Papier\obj\Debug\net5.0\Schaar Steen Papier.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Schaar Steen Papier\obj\Debug\net5.0\Schaar Steen Papier.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Schaar Steen Papier\obj\Debug\net5.0\Schaar Steen Papier.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Schaar Steen Papier\obj\Debug\net5.0\ref\Schaar Steen Papier.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Schaar Steen Papier\obj\Debug\net5.0\Schaar Steen Papier.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Schaar Steen Papier\obj\Debug\net5.0\Schaar Steen Papier.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Wisselkoers\Wisselkoers\bin\Debug\net5.0\Wisselkoers.exe
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Wisselkoers\Wisselkoers\bin\Debug\net5.0\Wisselkoers.deps.json
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Wisselkoers\Wisselkoers\bin\Debug\net5.0\Wisselkoers.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Wisselkoers\Wisselkoers\bin\Debug\net5.0\Wisselkoers.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Wisselkoers\Wisselkoers\bin\Debug\net5.0\Wisselkoers.dll
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Wisselkoers\Wisselkoers\bin\Debug\net5.0\ref\Wisselkoers.dll
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Wisselkoers\Wisselkoers\bin\Debug\net5.0\Wisselkoers.pdb
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Wisselkoers\Wisselkoers\obj\Debug\net5.0\Wisselkoers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Wisselkoers\Wisselkoers\obj\Debug\net5.0\Wisselkoers.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Wisselkoers\Wisselkoers\obj\Debug\net5.0\Wisselkoers.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Wisselkoers\Wisselkoers\obj\Debug\net5.0\Wisselkoers.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Wisselkoers\Wisselkoers\obj\Debug\net5.0\Wisselkoers.dll
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Wisselkoers\Wisselkoers\obj\Debug\net5.0\ref\Wisselkoers.dll
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Wisselkoers\Wisselkoers\obj\Debug\net5.0\Wisselkoers.pdb
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Wisselkoers\Wisselkoers\obj\Debug\net5.0\Wisselkoers.genruntimeconfig.cache
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Wisselkoers\Wisselkoers\obj\Debug\net5.0\Wisselkoers.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\yarik\source\repos\D05_13\D05_13\obj\Debug\net5.0\D05_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarik\source\repos\D05_13\D05_13\obj\Debug\net5.0\D05_13.AssemblyInfoInputs.cache
+C:\Users\yarik\source\repos\D05_13\D05_13\obj\Debug\net5.0\D05_13.AssemblyInfo.cs
+C:\Users\yarik\source\repos\D05_13\D05_13\obj\Debug\net5.0\D05_13.csproj.CoreCompileInputs.cache
+C:\Users\yarik\source\repos\D05_13\D05_13\bin\Debug\net5.0\D05_13.exe
+C:\Users\yarik\source\repos\D05_13\D05_13\bin\Debug\net5.0\D05_13.deps.json
+C:\Users\yarik\source\repos\D05_13\D05_13\bin\Debug\net5.0\D05_13.runtimeconfig.json
+C:\Users\yarik\source\repos\D05_13\D05_13\bin\Debug\net5.0\D05_13.runtimeconfig.dev.json
+C:\Users\yarik\source\repos\D05_13\D05_13\bin\Debug\net5.0\D05_13.dll
+C:\Users\yarik\source\repos\D05_13\D05_13\bin\Debug\net5.0\ref\D05_13.dll
+C:\Users\yarik\source\repos\D05_13\D05_13\bin\Debug\net5.0\D05_13.pdb
+C:\Users\yarik\source\repos\D05_13\D05_13\obj\Debug\net5.0\D05_13.dll
+C:\Users\yarik\source\repos\D05_13\D05_13\obj\Debug\net5.0\ref\D05_13.dll
+C:\Users\yarik\source\repos\D05_13\D05_13\obj\Debug\net5.0\D05_13.pdb
+C:\Users\yarik\source\repos\D05_13\D05_13\obj\Debug\net5.0\D05_13.genruntimeconfig.cache

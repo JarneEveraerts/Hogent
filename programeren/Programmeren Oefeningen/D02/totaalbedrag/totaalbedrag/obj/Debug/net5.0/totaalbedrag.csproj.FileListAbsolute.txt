@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\totaalbedrag\totaalbedrag\bin\Debug\net5.0\totaalbedrag.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\totaalbedrag\totaalbedrag\bin\Debug\net5.0\totaalbedrag.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\totaalbedrag\totaalbedrag\bin\Debug\net5.0\totaalbedrag.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\totaalbedrag\totaalbedrag\bin\Debug\net5.0\totaalbedrag.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\totaalbedrag\totaalbedrag\bin\Debug\net5.0\totaalbedrag.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\totaalbedrag\totaalbedrag\bin\Debug\net5.0\ref\totaalbedrag.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\totaalbedrag\totaalbedrag\bin\Debug\net5.0\totaalbedrag.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\totaalbedrag\totaalbedrag\obj\Debug\net5.0\totaalbedrag.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\totaalbedrag\totaalbedrag\obj\Debug\net5.0\totaalbedrag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\totaalbedrag\totaalbedrag\obj\Debug\net5.0\totaalbedrag.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\totaalbedrag\totaalbedrag\obj\Debug\net5.0\totaalbedrag.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\totaalbedrag\totaalbedrag\obj\Debug\net5.0\totaalbedrag.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\totaalbedrag\totaalbedrag\obj\Debug\net5.0\totaalbedrag.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\totaalbedrag\totaalbedrag\obj\Debug\net5.0\ref\totaalbedrag.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\totaalbedrag\totaalbedrag\obj\Debug\net5.0\totaalbedrag.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\totaalbedrag\totaalbedrag\obj\Debug\net5.0\totaalbedrag.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallenuitrij\D06.getallenuitrij\bin\Debug\net5.0\D06.getallenuitrij.exe
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallenuitrij\D06.getallenuitrij\bin\Debug\net5.0\D06.getallenuitrij.deps.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallenuitrij\D06.getallenuitrij\bin\Debug\net5.0\D06.getallenuitrij.runtimeconfig.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallenuitrij\D06.getallenuitrij\bin\Debug\net5.0\D06.getallenuitrij.runtimeconfig.dev.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallenuitrij\D06.getallenuitrij\bin\Debug\net5.0\D06.getallenuitrij.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallenuitrij\D06.getallenuitrij\bin\Debug\net5.0\ref\D06.getallenuitrij.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallenuitrij\D06.getallenuitrij\bin\Debug\net5.0\D06.getallenuitrij.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallenuitrij\D06.getallenuitrij\obj\Debug\net5.0\D06.getallenuitrij.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallenuitrij\D06.getallenuitrij\obj\Debug\net5.0\D06.getallenuitrij.AssemblyInfoInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallenuitrij\D06.getallenuitrij\obj\Debug\net5.0\D06.getallenuitrij.AssemblyInfo.cs
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallenuitrij\D06.getallenuitrij\obj\Debug\net5.0\D06.getallenuitrij.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallenuitrij\D06.getallenuitrij\obj\Debug\net5.0\D06.getallenuitrij.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallenuitrij\D06.getallenuitrij\obj\Debug\net5.0\ref\D06.getallenuitrij.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallenuitrij\D06.getallenuitrij\obj\Debug\net5.0\D06.getallenuitrij.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallenuitrij\D06.getallenuitrij\obj\Debug\net5.0\D06.getallenuitrij.genruntimeconfig.cache

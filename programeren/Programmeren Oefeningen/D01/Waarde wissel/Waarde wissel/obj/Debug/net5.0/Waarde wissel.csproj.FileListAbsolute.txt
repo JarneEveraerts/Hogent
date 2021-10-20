@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Waarde wissel\Waarde wissel\bin\Debug\net5.0\Waarde wissel.exe
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Waarde wissel\Waarde wissel\bin\Debug\net5.0\Waarde wissel.deps.json
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Waarde wissel\Waarde wissel\bin\Debug\net5.0\Waarde wissel.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Waarde wissel\Waarde wissel\bin\Debug\net5.0\Waarde wissel.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Waarde wissel\Waarde wissel\bin\Debug\net5.0\Waarde wissel.dll
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Waarde wissel\Waarde wissel\bin\Debug\net5.0\ref\Waarde wissel.dll
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Waarde wissel\Waarde wissel\bin\Debug\net5.0\Waarde wissel.pdb
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Waarde wissel\Waarde wissel\obj\Debug\net5.0\Waarde wissel.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Waarde wissel\Waarde wissel\obj\Debug\net5.0\Waarde wissel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Waarde wissel\Waarde wissel\obj\Debug\net5.0\Waarde wissel.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Waarde wissel\Waarde wissel\obj\Debug\net5.0\Waarde wissel.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Waarde wissel\Waarde wissel\obj\Debug\net5.0\Waarde wissel.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Waarde wissel\Waarde wissel\obj\Debug\net5.0\Waarde wissel.dll
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Waarde wissel\Waarde wissel\obj\Debug\net5.0\ref\Waarde wissel.dll
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Waarde wissel\Waarde wissel\obj\Debug\net5.0\Waarde wissel.pdb
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\Waarde wissel\Waarde wissel\obj\Debug\net5.0\Waarde wissel.genruntimeconfig.cache

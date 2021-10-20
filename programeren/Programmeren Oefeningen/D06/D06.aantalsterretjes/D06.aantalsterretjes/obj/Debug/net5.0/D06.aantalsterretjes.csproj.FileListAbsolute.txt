@@ -1,0 +1,16 @@
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.aantalsterretjes\D06.aantalsterretjes\bin\Debug\net5.0\D06.aantalsterretjes.exe
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.aantalsterretjes\D06.aantalsterretjes\bin\Debug\net5.0\D06.aantalsterretjes.deps.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.aantalsterretjes\D06.aantalsterretjes\bin\Debug\net5.0\D06.aantalsterretjes.runtimeconfig.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.aantalsterretjes\D06.aantalsterretjes\bin\Debug\net5.0\D06.aantalsterretjes.runtimeconfig.dev.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.aantalsterretjes\D06.aantalsterretjes\bin\Debug\net5.0\D06.aantalsterretjes.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.aantalsterretjes\D06.aantalsterretjes\bin\Debug\net5.0\ref\D06.aantalsterretjes.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.aantalsterretjes\D06.aantalsterretjes\bin\Debug\net5.0\D06.aantalsterretjes.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.aantalsterretjes\D06.aantalsterretjes\obj\Debug\net5.0\D06.aantalsterretjes.csproj.AssemblyReference.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.aantalsterretjes\D06.aantalsterretjes\obj\Debug\net5.0\D06.aantalsterretjes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.aantalsterretjes\D06.aantalsterretjes\obj\Debug\net5.0\D06.aantalsterretjes.AssemblyInfoInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.aantalsterretjes\D06.aantalsterretjes\obj\Debug\net5.0\D06.aantalsterretjes.AssemblyInfo.cs
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.aantalsterretjes\D06.aantalsterretjes\obj\Debug\net5.0\D06.aantalsterretjes.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.aantalsterretjes\D06.aantalsterretjes\obj\Debug\net5.0\D06.aantalsterretjes.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.aantalsterretjes\D06.aantalsterretjes\obj\Debug\net5.0\ref\D06.aantalsterretjes.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.aantalsterretjes\D06.aantalsterretjes\obj\Debug\net5.0\D06.aantalsterretjes.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.aantalsterretjes\D06.aantalsterretjes\obj\Debug\net5.0\D06.aantalsterretjes.genruntimeconfig.cache

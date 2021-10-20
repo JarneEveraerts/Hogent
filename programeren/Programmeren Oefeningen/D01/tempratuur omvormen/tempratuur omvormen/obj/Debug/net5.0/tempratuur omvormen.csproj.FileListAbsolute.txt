@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\tempratuur omvormen\tempratuur omvormen\bin\Debug\net5.0\tempratuur omvormen.exe
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\tempratuur omvormen\tempratuur omvormen\bin\Debug\net5.0\tempratuur omvormen.deps.json
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\tempratuur omvormen\tempratuur omvormen\bin\Debug\net5.0\tempratuur omvormen.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\tempratuur omvormen\tempratuur omvormen\bin\Debug\net5.0\tempratuur omvormen.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\tempratuur omvormen\tempratuur omvormen\bin\Debug\net5.0\tempratuur omvormen.dll
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\tempratuur omvormen\tempratuur omvormen\bin\Debug\net5.0\ref\tempratuur omvormen.dll
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\tempratuur omvormen\tempratuur omvormen\bin\Debug\net5.0\tempratuur omvormen.pdb
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\tempratuur omvormen\tempratuur omvormen\obj\Debug\net5.0\tempratuur omvormen.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\tempratuur omvormen\tempratuur omvormen\obj\Debug\net5.0\tempratuur omvormen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\tempratuur omvormen\tempratuur omvormen\obj\Debug\net5.0\tempratuur omvormen.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\tempratuur omvormen\tempratuur omvormen\obj\Debug\net5.0\tempratuur omvormen.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\tempratuur omvormen\tempratuur omvormen\obj\Debug\net5.0\tempratuur omvormen.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\tempratuur omvormen\tempratuur omvormen\obj\Debug\net5.0\tempratuur omvormen.dll
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\tempratuur omvormen\tempratuur omvormen\obj\Debug\net5.0\ref\tempratuur omvormen.dll
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\tempratuur omvormen\tempratuur omvormen\obj\Debug\net5.0\tempratuur omvormen.pdb
+C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\tempratuur omvormen\tempratuur omvormen\obj\Debug\net5.0\tempratuur omvormen.genruntimeconfig.cache

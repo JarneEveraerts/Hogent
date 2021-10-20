@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\GroterDan\obj\Debug\net5.0\GroterDan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\GroterDan\obj\Debug\net5.0\GroterDan.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\GroterDan\obj\Debug\net5.0\GroterDan.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\GroterDan\obj\Debug\net5.0\GroterDan.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\GroterDan\bin\Debug\net5.0\GroterDan.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\GroterDan\bin\Debug\net5.0\GroterDan.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\GroterDan\bin\Debug\net5.0\GroterDan.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\GroterDan\bin\Debug\net5.0\GroterDan.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\GroterDan\bin\Debug\net5.0\GroterDan.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\GroterDan\bin\Debug\net5.0\ref\GroterDan.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\GroterDan\bin\Debug\net5.0\GroterDan.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\GroterDan\obj\Debug\net5.0\GroterDan.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\GroterDan\obj\Debug\net5.0\ref\GroterDan.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\GroterDan\obj\Debug\net5.0\GroterDan.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\GroterDan\obj\Debug\net5.0\GroterDan.genruntimeconfig.cache

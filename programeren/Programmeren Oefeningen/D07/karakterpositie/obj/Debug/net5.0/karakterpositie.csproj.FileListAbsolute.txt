@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\karakterpositie\bin\Debug\net5.0\karakterpositie.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\karakterpositie\bin\Debug\net5.0\karakterpositie.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\karakterpositie\bin\Debug\net5.0\karakterpositie.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\karakterpositie\bin\Debug\net5.0\karakterpositie.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\karakterpositie\bin\Debug\net5.0\karakterpositie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\karakterpositie\bin\Debug\net5.0\ref\karakterpositie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\karakterpositie\bin\Debug\net5.0\karakterpositie.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\karakterpositie\obj\Debug\net5.0\karakterpositie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\karakterpositie\obj\Debug\net5.0\karakterpositie.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\karakterpositie\obj\Debug\net5.0\karakterpositie.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\karakterpositie\obj\Debug\net5.0\karakterpositie.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\karakterpositie\obj\Debug\net5.0\karakterpositie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\karakterpositie\obj\Debug\net5.0\ref\karakterpositie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\karakterpositie\obj\Debug\net5.0\karakterpositie.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\karakterpositie\obj\Debug\net5.0\karakterpositie.genruntimeconfig.cache

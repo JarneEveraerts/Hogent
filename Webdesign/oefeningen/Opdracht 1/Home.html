@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">	
+        &#129045;</button>
+    <div class="Wrap">
+        <div class="Internal_Wrap">
+            <div class="Header">Introduction</div>
+            <div class="Menu">
+                <div class="Menu_Item">
+                    <div class="Menu_Dropdown">
+                        Menu
+                        <div class="Menu_Dropdown_Content">
+                            <a href="#persoon">Persoonlijke informatie</a>
+                            <a href="#huisdier">Huisdieren</a>
+                            <a href="">Favoriete Muziek</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="Menu_Item"style="border-left:5px solid #381F20"><a class="Link" href="https://youtu.be/ub82Xb1C8os?autoplay=1" target="_blank">FAMILIEBOOM</a></div>
+            </div>
+        </div>
+        <div class="Internal_Wrap" >
+            <div class="Internal_Header" id="persoon">Persoonlijke Informatie</div>
+            <div class="Persoonlijk_Info">
+                    <li style="list-style-type: none;">Naam: Jarne Everaerts </li>
+                    <li class="Persoonlijk">Adres: Houtenkruisstraat 32</li>
+                    <li class="Persoonlijk">Geboortedatum: 29/08/1999</li>
+                    <li class="Persoonlijk">Telefoon: +32471672823</li>
+                    <li class="Persoonlijk">Email: <a href="mailto:jarne.everaerts@studetn.hogent.be">jarne.everaerts@student.hogent.be</a></li>
+            </div>
+        </div>
+        <div class="Internal_Wrap">
+            <div class="Internal_Header"id="huisdier">Huisdieren</div>
+            <div class="Huisdier">
+                <div class="Huisdier_Img"><img src="img/Fleur.png" alt=""></div>
+                <div class="Huisdier_Info">Fleur: Oma</div>
+            </div>
+            <div class="Huisdier">
+                <div class="Huisdier_Img"><img src="img/Peppa.png" alt=""></div>
+                <div class="Huisdier_Info">Pepa: Moeder</div>
+            </div>
+            <div class="Huisdier">
+                <div class="Huisdier_Img"><img src="img/George.png" alt=""></div>
+                <div class="Huisdier_Info">George: Zoon</div>
+            </div>
+            <div class="Huisdier">
+                <div class="Huisdier_Img"><img src="img/Suzzy.png" alt=""></div>
+                <div class="Huisdier_Info">Suzzy: Dochter</div>
+            </div>
+        </div>
+        <div class="Internal_Wrap">
+            <div class="Internal_Header">Favoriete Muziek</div>
+            <div class="Muziek">
+                        <li class="Muziek">
+                            <iframe src="https://open.spotify.com/embed/track/1v1oIWf2Xgh54kIWuKsDf6" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+                        </li>
+                        <li class="Muziek">
+                            <iframe src="https://open.spotify.com/embed/track/0uCgk2VjuKxXL5byHAZ0yJ" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+                        </li>
+                        <li class="Muziek">
+                            <iframe src="https://open.spotify.com/embed/track/1liZ6b5Pb9MImC8Ia2v7qE" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+                        </li>
+                        <li class="Muziek">
+                            <iframe src="https://open.spotify.com/embed/track/0cwEvwz7syhgHKXX1z4puc" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+                        </li>
+                        <li class="Muziek">
+                            <iframe src="https://open.spotify.com/embed/track/6R5JpLDVRgRI6P2OQCjA4n" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+                        </li>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
+<script>
+    //Get the button:
+mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
+</script>

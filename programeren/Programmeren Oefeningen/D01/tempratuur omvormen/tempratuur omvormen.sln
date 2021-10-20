@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tempratuur omvormen", "tempratuur omvormen\tempratuur omvormen.csproj", "{C45B546E-8C5F-4184-84A1-D58CAC51C9D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C45B546E-8C5F-4184-84A1-D58CAC51C9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45B546E-8C5F-4184-84A1-D58CAC51C9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45B546E-8C5F-4184-84A1-D58CAC51C9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45B546E-8C5F-4184-84A1-D58CAC51C9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4855719-2085-4052-91ED-96577CD61F34}
+	EndGlobalSection
+EndGlobal

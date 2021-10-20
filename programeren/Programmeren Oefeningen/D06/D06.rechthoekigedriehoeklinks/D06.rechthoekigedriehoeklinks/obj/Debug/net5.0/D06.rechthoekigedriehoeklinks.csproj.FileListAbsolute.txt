@@ -1,0 +1,16 @@
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoeklinks\D06.rechthoekigedriehoeklinks\bin\Debug\net5.0\D06.rechthoekigedriehoeklinks.exe
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoeklinks\D06.rechthoekigedriehoeklinks\bin\Debug\net5.0\D06.rechthoekigedriehoeklinks.deps.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoeklinks\D06.rechthoekigedriehoeklinks\bin\Debug\net5.0\D06.rechthoekigedriehoeklinks.runtimeconfig.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoeklinks\D06.rechthoekigedriehoeklinks\bin\Debug\net5.0\D06.rechthoekigedriehoeklinks.runtimeconfig.dev.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoeklinks\D06.rechthoekigedriehoeklinks\bin\Debug\net5.0\D06.rechthoekigedriehoeklinks.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoeklinks\D06.rechthoekigedriehoeklinks\bin\Debug\net5.0\ref\D06.rechthoekigedriehoeklinks.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoeklinks\D06.rechthoekigedriehoeklinks\bin\Debug\net5.0\D06.rechthoekigedriehoeklinks.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoeklinks\D06.rechthoekigedriehoeklinks\obj\Debug\net5.0\D06.rechthoekigedriehoeklinks.csproj.AssemblyReference.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoeklinks\D06.rechthoekigedriehoeklinks\obj\Debug\net5.0\D06.rechthoekigedriehoeklinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoeklinks\D06.rechthoekigedriehoeklinks\obj\Debug\net5.0\D06.rechthoekigedriehoeklinks.AssemblyInfoInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoeklinks\D06.rechthoekigedriehoeklinks\obj\Debug\net5.0\D06.rechthoekigedriehoeklinks.AssemblyInfo.cs
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoeklinks\D06.rechthoekigedriehoeklinks\obj\Debug\net5.0\D06.rechthoekigedriehoeklinks.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoeklinks\D06.rechthoekigedriehoeklinks\obj\Debug\net5.0\D06.rechthoekigedriehoeklinks.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoeklinks\D06.rechthoekigedriehoeklinks\obj\Debug\net5.0\ref\D06.rechthoekigedriehoeklinks.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoeklinks\D06.rechthoekigedriehoeklinks\obj\Debug\net5.0\D06.rechthoekigedriehoeklinks.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoeklinks\D06.rechthoekigedriehoeklinks\obj\Debug\net5.0\D06.rechthoekigedriehoeklinks.genruntimeconfig.cache

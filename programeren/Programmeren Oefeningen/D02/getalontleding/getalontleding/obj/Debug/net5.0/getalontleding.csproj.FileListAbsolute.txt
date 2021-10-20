@@ -1,0 +1,30 @@
+C:\Users\evera\source\repos\getalontleding\getalontleding\bin\Debug\net5.0\getalontleding.exe
+C:\Users\evera\source\repos\getalontleding\getalontleding\bin\Debug\net5.0\getalontleding.deps.json
+C:\Users\evera\source\repos\getalontleding\getalontleding\bin\Debug\net5.0\getalontleding.runtimeconfig.json
+C:\Users\evera\source\repos\getalontleding\getalontleding\bin\Debug\net5.0\getalontleding.runtimeconfig.dev.json
+C:\Users\evera\source\repos\getalontleding\getalontleding\bin\Debug\net5.0\getalontleding.dll
+C:\Users\evera\source\repos\getalontleding\getalontleding\bin\Debug\net5.0\ref\getalontleding.dll
+C:\Users\evera\source\repos\getalontleding\getalontleding\bin\Debug\net5.0\getalontleding.pdb
+C:\Users\evera\source\repos\getalontleding\getalontleding\obj\Debug\net5.0\getalontleding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\source\repos\getalontleding\getalontleding\obj\Debug\net5.0\getalontleding.AssemblyInfoInputs.cache
+C:\Users\evera\source\repos\getalontleding\getalontleding\obj\Debug\net5.0\getalontleding.AssemblyInfo.cs
+C:\Users\evera\source\repos\getalontleding\getalontleding\obj\Debug\net5.0\getalontleding.csproj.CoreCompileInputs.cache
+C:\Users\evera\source\repos\getalontleding\getalontleding\obj\Debug\net5.0\getalontleding.dll
+C:\Users\evera\source\repos\getalontleding\getalontleding\obj\Debug\net5.0\ref\getalontleding.dll
+C:\Users\evera\source\repos\getalontleding\getalontleding\obj\Debug\net5.0\getalontleding.pdb
+C:\Users\evera\source\repos\getalontleding\getalontleding\obj\Debug\net5.0\getalontleding.genruntimeconfig.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\getalontleding\getalontleding\bin\Debug\net5.0\getalontleding.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\getalontleding\getalontleding\bin\Debug\net5.0\getalontleding.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\getalontleding\getalontleding\bin\Debug\net5.0\getalontleding.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\getalontleding\getalontleding\bin\Debug\net5.0\getalontleding.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\getalontleding\getalontleding\bin\Debug\net5.0\getalontleding.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\getalontleding\getalontleding\bin\Debug\net5.0\ref\getalontleding.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\getalontleding\getalontleding\bin\Debug\net5.0\getalontleding.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\getalontleding\getalontleding\obj\Debug\net5.0\getalontleding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\getalontleding\getalontleding\obj\Debug\net5.0\getalontleding.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\getalontleding\getalontleding\obj\Debug\net5.0\getalontleding.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\getalontleding\getalontleding\obj\Debug\net5.0\getalontleding.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\getalontleding\getalontleding\obj\Debug\net5.0\getalontleding.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\getalontleding\getalontleding\obj\Debug\net5.0\ref\getalontleding.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\getalontleding\getalontleding\obj\Debug\net5.0\getalontleding.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\getalontleding\getalontleding\obj\Debug\net5.0\getalontleding.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\dotdotdot\obj\Debug\net5.0\dotdotdot.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\dotdotdot\obj\Debug\net5.0\dotdotdot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\dotdotdot\obj\Debug\net5.0\dotdotdot.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\dotdotdot\obj\Debug\net5.0\dotdotdot.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\dotdotdot\obj\Debug\net5.0\dotdotdot.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\dotdotdot\bin\Debug\net5.0\dotdotdot.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\dotdotdot\bin\Debug\net5.0\dotdotdot.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\dotdotdot\bin\Debug\net5.0\dotdotdot.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\dotdotdot\bin\Debug\net5.0\dotdotdot.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\dotdotdot\bin\Debug\net5.0\dotdotdot.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\dotdotdot\bin\Debug\net5.0\ref\dotdotdot.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\dotdotdot\bin\Debug\net5.0\dotdotdot.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\dotdotdot\obj\Debug\net5.0\dotdotdot.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\dotdotdot\obj\Debug\net5.0\ref\dotdotdot.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\dotdotdot\obj\Debug\net5.0\dotdotdot.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\dotdotdot\obj\Debug\net5.0\dotdotdot.genruntimeconfig.cache

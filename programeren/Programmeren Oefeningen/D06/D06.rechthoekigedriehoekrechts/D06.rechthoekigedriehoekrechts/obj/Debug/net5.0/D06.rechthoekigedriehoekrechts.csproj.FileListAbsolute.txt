@@ -1,0 +1,32 @@
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\bin\Debug\net5.0\D06.rechthoekigedriehoekrechts.exe
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\bin\Debug\net5.0\D06.rechthoekigedriehoekrechts.deps.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\bin\Debug\net5.0\D06.rechthoekigedriehoekrechts.runtimeconfig.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\bin\Debug\net5.0\D06.rechthoekigedriehoekrechts.runtimeconfig.dev.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\bin\Debug\net5.0\D06.rechthoekigedriehoekrechts.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\bin\Debug\net5.0\ref\D06.rechthoekigedriehoekrechts.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\bin\Debug\net5.0\D06.rechthoekigedriehoekrechts.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\obj\Debug\net5.0\D06.rechthoekigedriehoekrechts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\obj\Debug\net5.0\D06.rechthoekigedriehoekrechts.AssemblyInfoInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\obj\Debug\net5.0\D06.rechthoekigedriehoekrechts.AssemblyInfo.cs
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\obj\Debug\net5.0\D06.rechthoekigedriehoekrechts.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\obj\Debug\net5.0\D06.rechthoekigedriehoekrechts.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\obj\Debug\net5.0\ref\D06.rechthoekigedriehoekrechts.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\obj\Debug\net5.0\D06.rechthoekigedriehoekrechts.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\obj\Debug\net5.0\D06.rechthoekigedriehoekrechts.genruntimeconfig.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\obj\Debug\net5.0\D06.rechthoekigedriehoekrechts.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D06\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\bin\Debug\net5.0\D06.rechthoekigedriehoekrechts.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D06\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\bin\Debug\net5.0\D06.rechthoekigedriehoekrechts.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D06\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\bin\Debug\net5.0\D06.rechthoekigedriehoekrechts.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D06\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\bin\Debug\net5.0\D06.rechthoekigedriehoekrechts.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D06\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\bin\Debug\net5.0\D06.rechthoekigedriehoekrechts.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D06\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\bin\Debug\net5.0\ref\D06.rechthoekigedriehoekrechts.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D06\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\bin\Debug\net5.0\D06.rechthoekigedriehoekrechts.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D06\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\obj\Debug\net5.0\D06.rechthoekigedriehoekrechts.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D06\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\obj\Debug\net5.0\D06.rechthoekigedriehoekrechts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D06\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\obj\Debug\net5.0\D06.rechthoekigedriehoekrechts.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D06\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\obj\Debug\net5.0\D06.rechthoekigedriehoekrechts.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D06\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\obj\Debug\net5.0\D06.rechthoekigedriehoekrechts.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D06\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\obj\Debug\net5.0\D06.rechthoekigedriehoekrechts.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D06\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\obj\Debug\net5.0\ref\D06.rechthoekigedriehoekrechts.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D06\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\obj\Debug\net5.0\D06.rechthoekigedriehoekrechts.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D06\D06.rechthoekigedriehoekrechts\D06.rechthoekigedriehoekrechts\obj\Debug\net5.0\D06.rechthoekigedriehoekrechts.genruntimeconfig.cache

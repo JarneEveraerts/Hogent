@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Commisie\Commisie\obj\Debug\net5.0\Commisie.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Commisie\Commisie\obj\Debug\net5.0\Commisie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Commisie\Commisie\obj\Debug\net5.0\Commisie.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Commisie\Commisie\obj\Debug\net5.0\Commisie.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Commisie\Commisie\obj\Debug\net5.0\Commisie.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Commisie\Commisie\bin\Debug\net5.0\Commisie.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Commisie\Commisie\bin\Debug\net5.0\Commisie.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Commisie\Commisie\bin\Debug\net5.0\Commisie.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Commisie\Commisie\bin\Debug\net5.0\Commisie.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Commisie\Commisie\bin\Debug\net5.0\Commisie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Commisie\Commisie\bin\Debug\net5.0\ref\Commisie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Commisie\Commisie\bin\Debug\net5.0\Commisie.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Commisie\Commisie\obj\Debug\net5.0\Commisie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Commisie\Commisie\obj\Debug\net5.0\ref\Commisie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Commisie\Commisie\obj\Debug\net5.0\Commisie.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Commisie\Commisie\obj\Debug\net5.0\Commisie.genruntimeconfig.cache

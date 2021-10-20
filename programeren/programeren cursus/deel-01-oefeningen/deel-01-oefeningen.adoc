@@ -1,0 +1,201 @@
+= Programmeren Basis - Deel 01 - Oefeningen
+Frederiek De Wolf
+v2020.09.18.12.00
+// toc and section numbering
+:toc: preamble
+:toclevels: 4
+:sectnums: 
+:sectlinks:
+:sectnumlevels: 4
+// source code formatting
+:prewrap!:
+:source-highlighter: rouge
+:source-language: csharp
+:rouge-style: github
+:rouge-css: class
+// inject css for highlights using docinfo
+:docinfodir: ../common
+:docinfo: shared-head
+// folders
+:imagesdir: images
+:url-verdieping: ../{docname}-verdieping/{docname}-verdieping.adoc
+
+//preamble
+[.text-right]
+versie {revnumber}
+
+== Oefening D01.01
+
+In de cursus wordt aangegeven waar je code moet plaatsen om ze uit te voeren.  Probeer het eens uit met volgende code... . 
+
+Kopieer ze en plak ze in op de juist plaats.
+
+[source,csharp,linenums]
+----
+Random r = new Random();
+int getal = r.Next(1, 101);
+int gok = 0;
+Console.WriteLine("De computer denkt aan een getal van 1 tem 100, kun je raden welk?");
+do
+{
+	Console.Write("Wat gok je?: ");
+	string input = Console.ReadLine();
+	gok = int.Parse(input);
+	if (gok < getal)
+	{
+		Console.WriteLine("Hoger!");
+	}
+	else if (gok > getal)
+	{
+		Console.WriteLine("Lager!");
+	}
+	else
+	{
+		Console.WriteLine("Disco!");
+	}
+} while (gok != getal);
+----
+
+Test nu uit, door het programma uit te voeren, wat die code voor ons doet.
+
+[NOTE]
+==============================
+Het programma illustreert wat je over een aantal lessen zelf kan schrijven.  Naast uitvoer op de console, werken we binnenkort ook met invoer.
+
+Bepaalde code gaan we meermaals laten uitvoeren, en sommige stukjes code zijn voorwaardelijk. Ze worden enkel uitgevoerd indien voldaan is aan bepaalde condities.
+
+In het voorbeeld wordt met een willekeurig getal gewerkt, het eerste gegenereerde willekeurige getal is gebaseerd op de systeemklok.  Verderop in de cursus komen we hierop terug.
+
+Zelfs zonder dat we al die onderwerpen hebben behandeld, kan je allicht inschatten welk stukjes code hiervoor verantwoordelijk zijn.
+
+Broncode, of althans grote stukken ervan, is veel programmeertalen vrij goed leesbaar, ook in C# is dat het geval.  De set aan gebruikte symbolen is echter indrukwekkend, `=`, (`, `)`, `;`, `,`, `"`, `{`, `}`, `<`, `>`, `!`, ... .  Laat je hierdoor niet intimideren, van elk zal snel duidelijk worden wat hun betekennis is.
+==============================
+
+== Oefening D01.02
+
+Vul volgend programma aan met de ontbrekende code.  De code die je toevoegt berekent het volledig aantal meters en het aantal resterende centimers. 
+
+[source,csharp,linenums]
+----
+int lengteInCm = 456;
+Console.WriteLine(lengteInCm);
+Console.WriteLine("cm = ");
+
+int volledigAantalMeters = <1>
+int aantalResterendeCm = <2>
+
+Console.WriteLine(volledigAantalMeters);
+Console.WriteLine("m en ");
+Console.WriteLine(aantalResterendeCm);
+Console.WriteLine("cm");
+----
+<1> bedenk de nodige formule om de lengte in cm om te zetten naar een volledig aantal meters (uitgedrukt in een geheel getal)
+<2> plaats hier de formule die bepaald hoeveel er overschiet nadat het totaal aantal cm verminderd werd met alle volledige meters
+
+De uitvoer van het programma zou moeten zijn...
+
+[source, shell]
+----
+456
+cm =
+4
+m en 
+56
+cm
+----
+
+Wijzig je de __456__ in __713__ dan krijgen we...
+
+[source, shell]
+----
+713
+cm =
+7
+m en 
+13
+cm
+----
+
+== Oefening D01.03
+
+Vul volgend programma aan met de ontbrekende code.  De code die je toevoegt berekent eerst het totale bedrag, daarna wordt dit bedrag op de console afgedrukt. 
+
+[source,csharp,linenums]
+----
+int biljettenVan10Euro = 7;
+int biljettenVan5Euro = 6;
+int munstukkenVan2Euro = 5;
+int munstukkenVan1Euro = 4;
+int munstukkenVan50Cent = 3;
+
+<1>
+
+<2>
+----
+<1> bereken het totale bedrag, en schrijf die weg in een nieuwe variabele
+<2> druk hier de inhoud van deze variabele af op de console
+
+
+De uitvoer van het programma zou moeten zijn...
+
+[source, shell]
+----
+115,5
+----
+
+Uiteraard krijg je een ander getal te zien indien je de waardes __7__, __6__, __5__, __4__ of __3__ zou aanpassen.
+
+== Oefening D01.04
+
+Vul volgend programma aan met de ontbrekende code.  De code die je toevoegt berekent de __body mass index__ op basis van een lengte uitgedrukt in cm, en gewicht uitgedrukt in kg. 
+
+[NOTE]
+========================
+De body mass index (__bmi__) kan je bepalen door het gewicht in kilogram te delen door het kwadraat van de lengte uitgedrukt in meters.
+
+Het kwadraat van een bepaald getal kan je uiteraard bepalen door dat getal met zichzelf te vermenigvuldigen.
+========================
+
+[source,csharp,linenums]
+----
+int lengteInCm = 182;
+int gewichtInKg = 72;
+
+<1>
+
+Console.WriteLine(bmi);
+----
+<1> bereken het bmi, maak eventueel gebruik van extra variabelen, en zorg ervoor dat de bmi waarde in de juist variabele terechtkomt
+
+De uitvoer van het programma zou moeten zijn...
+
+[source, shell]
+----
+21,7365052529888
+----
+
+== Oefening D01.05
+
+Vul volgend programma aan met de ontbrekende code.  De code die je toevoegt wisselt de inhoud van de variabelen om. 
+
+[source,csharp,linenums]
+----
+int a = 5;
+int b = 13;
+
+<1>
+
+Console.WriteLine(a);
+Console.WriteLine(b);
+----
+<1> verwissel hier de inhoud van de variabelen `a` en `b`
+
+De bedoeling is dat wel degelijk eerst __13__ wordt afgedrukt (de nieuwe inhoud van de `a` variabele, pas daarna __5__ (de nieuwe inhoud van de `b` variabele.
+
+[source, shell]
+----
+13
+5
+----
+
+TIP: Maak eventueel gebruik van extra variabelen.

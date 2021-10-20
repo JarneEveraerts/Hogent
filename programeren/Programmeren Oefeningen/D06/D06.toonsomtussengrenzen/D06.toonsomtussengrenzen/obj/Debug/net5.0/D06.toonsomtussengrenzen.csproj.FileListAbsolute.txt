@@ -1,0 +1,15 @@
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.toonsomtussengrenzen\D06.toonsomtussengrenzen\bin\Debug\net5.0\D06.toonsomtussengrenzen.exe
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.toonsomtussengrenzen\D06.toonsomtussengrenzen\bin\Debug\net5.0\D06.toonsomtussengrenzen.deps.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.toonsomtussengrenzen\D06.toonsomtussengrenzen\bin\Debug\net5.0\D06.toonsomtussengrenzen.runtimeconfig.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.toonsomtussengrenzen\D06.toonsomtussengrenzen\bin\Debug\net5.0\D06.toonsomtussengrenzen.runtimeconfig.dev.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.toonsomtussengrenzen\D06.toonsomtussengrenzen\bin\Debug\net5.0\D06.toonsomtussengrenzen.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.toonsomtussengrenzen\D06.toonsomtussengrenzen\bin\Debug\net5.0\ref\D06.toonsomtussengrenzen.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.toonsomtussengrenzen\D06.toonsomtussengrenzen\bin\Debug\net5.0\D06.toonsomtussengrenzen.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.toonsomtussengrenzen\D06.toonsomtussengrenzen\obj\Debug\net5.0\D06.toonsomtussengrenzen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.toonsomtussengrenzen\D06.toonsomtussengrenzen\obj\Debug\net5.0\D06.toonsomtussengrenzen.AssemblyInfoInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.toonsomtussengrenzen\D06.toonsomtussengrenzen\obj\Debug\net5.0\D06.toonsomtussengrenzen.AssemblyInfo.cs
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.toonsomtussengrenzen\D06.toonsomtussengrenzen\obj\Debug\net5.0\D06.toonsomtussengrenzen.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.toonsomtussengrenzen\D06.toonsomtussengrenzen\obj\Debug\net5.0\D06.toonsomtussengrenzen.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.toonsomtussengrenzen\D06.toonsomtussengrenzen\obj\Debug\net5.0\ref\D06.toonsomtussengrenzen.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.toonsomtussengrenzen\D06.toonsomtussengrenzen\obj\Debug\net5.0\D06.toonsomtussengrenzen.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.toonsomtussengrenzen\D06.toonsomtussengrenzen\obj\Debug\net5.0\D06.toonsomtussengrenzen.genruntimeconfig.cache

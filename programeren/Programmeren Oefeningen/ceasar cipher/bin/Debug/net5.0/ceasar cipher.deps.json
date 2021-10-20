@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ceasar cipher/1.0.0": {
+        "runtime": {
+          "ceasar cipher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ceasar cipher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

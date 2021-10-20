@@ -1,0 +1,15 @@
+C:\Users\evera\source\repos\temperatuur\temperatuur\bin\Debug\net5.0\temperatuur.exe
+C:\Users\evera\source\repos\temperatuur\temperatuur\bin\Debug\net5.0\temperatuur.deps.json
+C:\Users\evera\source\repos\temperatuur\temperatuur\bin\Debug\net5.0\temperatuur.runtimeconfig.json
+C:\Users\evera\source\repos\temperatuur\temperatuur\bin\Debug\net5.0\temperatuur.runtimeconfig.dev.json
+C:\Users\evera\source\repos\temperatuur\temperatuur\bin\Debug\net5.0\temperatuur.dll
+C:\Users\evera\source\repos\temperatuur\temperatuur\bin\Debug\net5.0\ref\temperatuur.dll
+C:\Users\evera\source\repos\temperatuur\temperatuur\bin\Debug\net5.0\temperatuur.pdb
+C:\Users\evera\source\repos\temperatuur\temperatuur\obj\Debug\net5.0\temperatuur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\source\repos\temperatuur\temperatuur\obj\Debug\net5.0\temperatuur.AssemblyInfoInputs.cache
+C:\Users\evera\source\repos\temperatuur\temperatuur\obj\Debug\net5.0\temperatuur.AssemblyInfo.cs
+C:\Users\evera\source\repos\temperatuur\temperatuur\obj\Debug\net5.0\temperatuur.csproj.CoreCompileInputs.cache
+C:\Users\evera\source\repos\temperatuur\temperatuur\obj\Debug\net5.0\temperatuur.dll
+C:\Users\evera\source\repos\temperatuur\temperatuur\obj\Debug\net5.0\ref\temperatuur.dll
+C:\Users\evera\source\repos\temperatuur\temperatuur\obj\Debug\net5.0\temperatuur.pdb
+C:\Users\evera\source\repos\temperatuur\temperatuur\obj\Debug\net5.0\temperatuur.genruntimeconfig.cache

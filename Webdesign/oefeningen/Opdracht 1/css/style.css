@@ -1,0 +1,160 @@
+/*Main Body*/
+.Wrap{
+    width:75%;
+    height:80%;
+    margin:auto;
+}
+body{
+    background-color:#ECEBE6 ;
+    color:#381F20;
+    font-family: Comic Sans MS;
+    margin:0;
+    
+}
+/*Repeat Use*/
+.Internal_Wrap{
+    margin-top:50px;
+    border-radius: 5px;
+    border:5px solid #381F20;
+}
+.Internal_Header{
+    width:100%;
+    font-weight: bolder;
+    font-size: 25px;
+    border-bottom: #381F20 solid 5px;
+}
+/*Menu*/
+.Menu{
+    height:50px;
+    width:100%;
+}
+.Menu_Item{
+    width:49%;
+    height:100%;
+    display: inline-block;
+    text-align:center;
+    margin:auto;
+    line-height: 50px;
+    
+}
+.Menu_Dropdown {
+    position: relative;
+    display: inline-block;
+    color:#381F20;
+    font-size: 25px;
+    font-weight: bold;  
+    width: 100%; 
+  }
+  
+  .Menu_Dropdown_Content {
+    display: none;
+    position: absolute;
+    background-color: #ECEBE6;
+    border:5px solid #381F20;   
+    width: 100%;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    margin-left:-5px;
+    padding-right:5px;
+    z-index: 1;
+  }
+  .Menu_Dropdown_Content a{
+    display: block;
+  }
+  .Menu_Dropdown:hover .Menu_Dropdown_Content {
+    display:block;
+    position:absolute;
+  }
+/*Links*/
+.Link{
+    color:#381F20;
+    font-size: 25px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color:#381F20;
+}
+a:hover{
+    color:#381F20;
+}
+/*Main Header*/
+.Header{
+    height:150px;
+    width:auto;
+    overflow:hidden;
+    border-bottom: 5px solid #381F20;
+    background-image: url(../img/header.png);
+    background-size:100%;
+    background-position: center;
+    text-align: center;
+    color:#ECEBE6;
+    line-height:150px;
+    font-size: 50px;
+
+}
+/*Persoonlijk*/
+.Persoonlijk_Wrap{
+    margin-top:25px;
+    border-radius: 5px;
+    border:5px solid #381F20;
+}
+li.Persoonlijk{
+    border-top:2.5px dashed #381F20;
+    list-style-type: none;
+}
+/*Huisdier*/
+.Huisdier{
+    display:inline-block;
+    width:40%;
+    height:40%;
+    padding-left:6%;
+    padding-top:1.5%;
+    padding-bottom: 1.5%;
+    
+}
+.Huisdier_Img{
+    display:block;
+    text-align: center;
+    width:100%;
+    height: 499px;
+    border:2.5px solid #381F20;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+}
+.Huisdier_Info{
+    display:block;
+    text-align: center;
+    width:100%;
+    border:2.5px solid #381F20;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+}
+.Huisdier_Img img{
+    width:100%;
+    height:500px;
+    line-height: 0px;
+}
+/*Muziek*/
+li.Muziek{
+    list-style-type: none;
+    height:80px;
+}
+/*Button*/
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    color: #381F20; /* Text color */
+    background: #ECEBE6;
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 100px; /* Increase font size */
+    font-weight: bolder;
+    
+  }
+

@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\beginmethoofdletter\bin\Debug\net5.0\beginmethoofdletter.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\beginmethoofdletter\bin\Debug\net5.0\beginmethoofdletter.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\beginmethoofdletter\bin\Debug\net5.0\beginmethoofdletter.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\beginmethoofdletter\bin\Debug\net5.0\beginmethoofdletter.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\beginmethoofdletter\bin\Debug\net5.0\beginmethoofdletter.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\beginmethoofdletter\bin\Debug\net5.0\ref\beginmethoofdletter.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\beginmethoofdletter\bin\Debug\net5.0\beginmethoofdletter.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\beginmethoofdletter\obj\Debug\net5.0\beginmethoofdletter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\beginmethoofdletter\obj\Debug\net5.0\beginmethoofdletter.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\beginmethoofdletter\obj\Debug\net5.0\beginmethoofdletter.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\beginmethoofdletter\obj\Debug\net5.0\beginmethoofdletter.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\beginmethoofdletter\obj\Debug\net5.0\beginmethoofdletter.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\beginmethoofdletter\obj\Debug\net5.0\ref\beginmethoofdletter.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\beginmethoofdletter\obj\Debug\net5.0\beginmethoofdletter.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\beginmethoofdletter\obj\Debug\net5.0\beginmethoofdletter.genruntimeconfig.cache

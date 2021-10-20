@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\klinkerenmedeklinkers\bin\Debug\net5.0\klinkerenmedeklinkers.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\klinkerenmedeklinkers\bin\Debug\net5.0\klinkerenmedeklinkers.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\klinkerenmedeklinkers\bin\Debug\net5.0\klinkerenmedeklinkers.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\klinkerenmedeklinkers\bin\Debug\net5.0\klinkerenmedeklinkers.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\klinkerenmedeklinkers\bin\Debug\net5.0\klinkerenmedeklinkers.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\klinkerenmedeklinkers\bin\Debug\net5.0\ref\klinkerenmedeklinkers.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\klinkerenmedeklinkers\bin\Debug\net5.0\klinkerenmedeklinkers.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\klinkerenmedeklinkers\obj\Debug\net5.0\klinkerenmedeklinkers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\klinkerenmedeklinkers\obj\Debug\net5.0\klinkerenmedeklinkers.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\klinkerenmedeklinkers\obj\Debug\net5.0\klinkerenmedeklinkers.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\klinkerenmedeklinkers\obj\Debug\net5.0\klinkerenmedeklinkers.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\klinkerenmedeklinkers\obj\Debug\net5.0\klinkerenmedeklinkers.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\klinkerenmedeklinkers\obj\Debug\net5.0\ref\klinkerenmedeklinkers.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\klinkerenmedeklinkers\obj\Debug\net5.0\klinkerenmedeklinkers.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\klinkerenmedeklinkers\obj\Debug\net5.0\klinkerenmedeklinkers.genruntimeconfig.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\klinkerenmedeklinkers\obj\Debug\net5.0\klinkerenmedeklinkers.csproj.AssemblyReference.cache

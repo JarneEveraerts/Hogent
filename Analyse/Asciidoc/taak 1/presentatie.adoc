@@ -1,0 +1,28 @@
+== Presentatie
+=== Jarne Everaerts jarne.everaerts@student.hogent.be
+
+
+* *Woonplaats*
+** HoutenKruisstraat 32, 9310 Moorsel
+* *Telefoon*
+** +32471672823
+* *Hobby's*
+** Gamen
+** slapen
+** Kittens Opvoeden
+
+image::kittens.png[KITTENS,200,100]
+
+* *Favoriete muziek*
+** link:https://open.spotify.com/track/1tYc6Rem6IXwKOXrJGhuZR?si=e283d54391d54f8a[Drum & Bass]
+** link:https://open.spotify.com/track/5SIJt068nCivJx4X1Zyior?si=8183ec8f5bc8420f[Trance]
+** link:https://open.spotify.com/track/5b6shdfyUhNBW5F2CKw5Sb?si=1fd9e9efa0ed4f6e[Techno]
+** link:https://open.spotify.com/track/6oUjSwtifVaM8iIN01KVzC?si=3199c8b7569c4fe1[Old Music]
+* *Favoriete Film*
+** link:https://www.imdb.com/title/tt9243804/[Green Knight]
+
+
+
+==== _klik_ hier link:prognose.adoc[prognose] om naar de volgende file te gaan
+
+

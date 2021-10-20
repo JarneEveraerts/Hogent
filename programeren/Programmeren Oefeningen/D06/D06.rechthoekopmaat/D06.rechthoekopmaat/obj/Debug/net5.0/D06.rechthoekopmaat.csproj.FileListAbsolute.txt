@@ -1,0 +1,16 @@
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekopmaat\D06.rechthoekopmaat\bin\Debug\net5.0\D06.rechthoekopmaat.exe
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekopmaat\D06.rechthoekopmaat\bin\Debug\net5.0\D06.rechthoekopmaat.deps.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekopmaat\D06.rechthoekopmaat\bin\Debug\net5.0\D06.rechthoekopmaat.runtimeconfig.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekopmaat\D06.rechthoekopmaat\bin\Debug\net5.0\D06.rechthoekopmaat.runtimeconfig.dev.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekopmaat\D06.rechthoekopmaat\bin\Debug\net5.0\D06.rechthoekopmaat.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekopmaat\D06.rechthoekopmaat\bin\Debug\net5.0\ref\D06.rechthoekopmaat.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekopmaat\D06.rechthoekopmaat\bin\Debug\net5.0\D06.rechthoekopmaat.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekopmaat\D06.rechthoekopmaat\obj\Debug\net5.0\D06.rechthoekopmaat.csproj.AssemblyReference.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekopmaat\D06.rechthoekopmaat\obj\Debug\net5.0\D06.rechthoekopmaat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekopmaat\D06.rechthoekopmaat\obj\Debug\net5.0\D06.rechthoekopmaat.AssemblyInfoInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekopmaat\D06.rechthoekopmaat\obj\Debug\net5.0\D06.rechthoekopmaat.AssemblyInfo.cs
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekopmaat\D06.rechthoekopmaat\obj\Debug\net5.0\D06.rechthoekopmaat.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekopmaat\D06.rechthoekopmaat\obj\Debug\net5.0\D06.rechthoekopmaat.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekopmaat\D06.rechthoekopmaat\obj\Debug\net5.0\ref\D06.rechthoekopmaat.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekopmaat\D06.rechthoekopmaat\obj\Debug\net5.0\D06.rechthoekopmaat.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.rechthoekopmaat\D06.rechthoekopmaat\obj\Debug\net5.0\D06.rechthoekopmaat.genruntimeconfig.cache

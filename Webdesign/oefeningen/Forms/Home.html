@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="Home.html" method="get">
+        <label for="Vnaam">Voornaam:</label>
+        <input type="text"id="Vnaam"name="Vnaam" pattern="[A-Za-z]{1-25}" required></input><br>
+        <label for="Fnaam">Familienaam:</label>
+        <input type="text"id="Fnaam"name="Fnaam" pattern="[A-Za-z]{1-25}" required></input><br>
+        <label for="Straat">Straat:</label>
+        <input type="text"id="Straat"name="Straat" ></input><br>
+        <label for="Hnummer">Huisnummer:</label>
+        <input type="number"id="Hnummer"name="Hnummer" ></input><br>
+        <label for="Pcode">Postcode:</label>
+        <input type="number"id="Pcode"name="Pcode" pattern="[0-9]{4}" ></input><br>
+        <label for="Gemeente">Gemeente:</label>
+        <input type="text"id="Gemeente"name="Gemeente" ></input><br>
+        <label for="Email">Email-adress:</label>
+        <input type="email"id="Email"name="Email" ></input><br>
+        <label for="Fcolor">Favoriet kleur:</label>
+        <input type="color"id="Fcolor"name="Fcolor"></input><br>
+        <label for="Fweb">Favoriete Website:</label>
+        <input type="text"id="fweb"name="Fweb" ></input><br>
+        <label for="Fgroenten">Favoriete groente:</label>
+        <input list="Fgroenten">
+            <datalist id="Fgroenten">
+                <option value="Aardappel">
+                <option value="Bloemkool">
+                <option value="Spruiten">
+                <option value="Brocoli">
+            </datalist>
+        </input><br>
+        <label for="Gdatum">Geboorte Datum</label>
+        <input type="date" name="Gdatum" id="Gdatum"></input><br>
+        <p>Geboorte Datum  
+        <label for="Man">Man:</label>
+        <input type="radio" name="Geslacht" id="Man"></input>
+        <label for="Vrouw">Vrouw</label>
+        <input type="radio" name="Geslacht" id="Vrouw"></input></p>
+        <label for="Pass">Paswoord:</label>
+        <input type="password" name="Pass" id="Pass"></input>
+        <input type="submit" value="Submit">
+    </form>
+    
+</body>
+</html>

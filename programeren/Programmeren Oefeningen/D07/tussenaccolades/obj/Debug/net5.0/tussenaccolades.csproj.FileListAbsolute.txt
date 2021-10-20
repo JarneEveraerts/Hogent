@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\tussenaccolades\bin\Debug\net5.0\tussenaccolades.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\tussenaccolades\bin\Debug\net5.0\tussenaccolades.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\tussenaccolades\bin\Debug\net5.0\tussenaccolades.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\tussenaccolades\bin\Debug\net5.0\tussenaccolades.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\tussenaccolades\bin\Debug\net5.0\tussenaccolades.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\tussenaccolades\bin\Debug\net5.0\ref\tussenaccolades.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\tussenaccolades\bin\Debug\net5.0\tussenaccolades.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\tussenaccolades\obj\Debug\net5.0\tussenaccolades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\tussenaccolades\obj\Debug\net5.0\tussenaccolades.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\tussenaccolades\obj\Debug\net5.0\tussenaccolades.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\tussenaccolades\obj\Debug\net5.0\tussenaccolades.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\tussenaccolades\obj\Debug\net5.0\tussenaccolades.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\tussenaccolades\obj\Debug\net5.0\ref\tussenaccolades.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\tussenaccolades\obj\Debug\net5.0\tussenaccolades.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\tussenaccolades\obj\Debug\net5.0\tussenaccolades.genruntimeconfig.cache

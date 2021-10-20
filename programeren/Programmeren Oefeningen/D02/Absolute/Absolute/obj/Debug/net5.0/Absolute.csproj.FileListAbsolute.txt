@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Absolute\Absolute\bin\Debug\net5.0\Absolute.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Absolute\Absolute\bin\Debug\net5.0\Absolute.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Absolute\Absolute\bin\Debug\net5.0\Absolute.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Absolute\Absolute\bin\Debug\net5.0\Absolute.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Absolute\Absolute\bin\Debug\net5.0\Absolute.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Absolute\Absolute\bin\Debug\net5.0\ref\Absolute.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Absolute\Absolute\bin\Debug\net5.0\Absolute.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Absolute\Absolute\obj\Debug\net5.0\Absolute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Absolute\Absolute\obj\Debug\net5.0\Absolute.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Absolute\Absolute\obj\Debug\net5.0\Absolute.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Absolute\Absolute\obj\Debug\net5.0\Absolute.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Absolute\Absolute\obj\Debug\net5.0\Absolute.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Absolute\Absolute\obj\Debug\net5.0\ref\Absolute.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Absolute\Absolute\obj\Debug\net5.0\Absolute.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Absolute\Absolute\obj\Debug\net5.0\Absolute.genruntimeconfig.cache

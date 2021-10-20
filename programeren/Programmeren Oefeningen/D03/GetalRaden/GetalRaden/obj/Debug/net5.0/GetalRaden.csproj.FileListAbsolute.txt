@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\GetalRaden\GetalRaden\bin\Debug\net5.0\GetalRaden.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\GetalRaden\GetalRaden\bin\Debug\net5.0\GetalRaden.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\GetalRaden\GetalRaden\bin\Debug\net5.0\GetalRaden.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\GetalRaden\GetalRaden\bin\Debug\net5.0\GetalRaden.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\GetalRaden\GetalRaden\bin\Debug\net5.0\GetalRaden.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\GetalRaden\GetalRaden\bin\Debug\net5.0\ref\GetalRaden.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\GetalRaden\GetalRaden\bin\Debug\net5.0\GetalRaden.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\GetalRaden\GetalRaden\obj\Debug\net5.0\GetalRaden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\GetalRaden\GetalRaden\obj\Debug\net5.0\GetalRaden.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\GetalRaden\GetalRaden\obj\Debug\net5.0\GetalRaden.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\GetalRaden\GetalRaden\obj\Debug\net5.0\GetalRaden.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\GetalRaden\GetalRaden\obj\Debug\net5.0\GetalRaden.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\GetalRaden\GetalRaden\obj\Debug\net5.0\ref\GetalRaden.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\GetalRaden\GetalRaden\obj\Debug\net5.0\GetalRaden.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\GetalRaden\GetalRaden\obj\Debug\net5.0\GetalRaden.genruntimeconfig.cache

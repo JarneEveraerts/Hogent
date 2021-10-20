@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Programmeren Oefeningen\Les 1 Variabelen\Les 1 Variabelen\bin\Debug\net5.0\Les 1 Variabelen.exe
+C:\Users\evera\OneDrive\Documents\Programmeren Oefeningen\Les 1 Variabelen\Les 1 Variabelen\bin\Debug\net5.0\Les 1 Variabelen.deps.json
+C:\Users\evera\OneDrive\Documents\Programmeren Oefeningen\Les 1 Variabelen\Les 1 Variabelen\bin\Debug\net5.0\Les 1 Variabelen.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Programmeren Oefeningen\Les 1 Variabelen\Les 1 Variabelen\bin\Debug\net5.0\Les 1 Variabelen.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Programmeren Oefeningen\Les 1 Variabelen\Les 1 Variabelen\bin\Debug\net5.0\Les 1 Variabelen.dll
+C:\Users\evera\OneDrive\Documents\Programmeren Oefeningen\Les 1 Variabelen\Les 1 Variabelen\bin\Debug\net5.0\ref\Les 1 Variabelen.dll
+C:\Users\evera\OneDrive\Documents\Programmeren Oefeningen\Les 1 Variabelen\Les 1 Variabelen\bin\Debug\net5.0\Les 1 Variabelen.pdb
+C:\Users\evera\OneDrive\Documents\Programmeren Oefeningen\Les 1 Variabelen\Les 1 Variabelen\obj\Debug\net5.0\Les 1 Variabelen.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Programmeren Oefeningen\Les 1 Variabelen\Les 1 Variabelen\obj\Debug\net5.0\Les 1 Variabelen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Programmeren Oefeningen\Les 1 Variabelen\Les 1 Variabelen\obj\Debug\net5.0\Les 1 Variabelen.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Programmeren Oefeningen\Les 1 Variabelen\Les 1 Variabelen\obj\Debug\net5.0\Les 1 Variabelen.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Programmeren Oefeningen\Les 1 Variabelen\Les 1 Variabelen\obj\Debug\net5.0\Les 1 Variabelen.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Programmeren Oefeningen\Les 1 Variabelen\Les 1 Variabelen\obj\Debug\net5.0\Les 1 Variabelen.dll
+C:\Users\evera\OneDrive\Documents\Programmeren Oefeningen\Les 1 Variabelen\Les 1 Variabelen\obj\Debug\net5.0\ref\Les 1 Variabelen.dll
+C:\Users\evera\OneDrive\Documents\Programmeren Oefeningen\Les 1 Variabelen\Les 1 Variabelen\obj\Debug\net5.0\Les 1 Variabelen.pdb
+C:\Users\evera\OneDrive\Documents\Programmeren Oefeningen\Les 1 Variabelen\Les 1 Variabelen\obj\Debug\net5.0\Les 1 Variabelen.genruntimeconfig.cache

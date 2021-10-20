@@ -1,0 +1,16 @@
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.twister\D06.twister\bin\Debug\net5.0\D06.twister.exe
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.twister\D06.twister\bin\Debug\net5.0\D06.twister.deps.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.twister\D06.twister\bin\Debug\net5.0\D06.twister.runtimeconfig.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.twister\D06.twister\bin\Debug\net5.0\D06.twister.runtimeconfig.dev.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.twister\D06.twister\bin\Debug\net5.0\D06.twister.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.twister\D06.twister\bin\Debug\net5.0\ref\D06.twister.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.twister\D06.twister\bin\Debug\net5.0\D06.twister.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.twister\D06.twister\obj\Debug\net5.0\D06.twister.csproj.AssemblyReference.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.twister\D06.twister\obj\Debug\net5.0\D06.twister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.twister\D06.twister\obj\Debug\net5.0\D06.twister.AssemblyInfoInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.twister\D06.twister\obj\Debug\net5.0\D06.twister.AssemblyInfo.cs
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.twister\D06.twister\obj\Debug\net5.0\D06.twister.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.twister\D06.twister\obj\Debug\net5.0\D06.twister.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.twister\D06.twister\obj\Debug\net5.0\ref\D06.twister.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.twister\D06.twister\obj\Debug\net5.0\D06.twister.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.twister\D06.twister\obj\Debug\net5.0\D06.twister.genruntimeconfig.cache

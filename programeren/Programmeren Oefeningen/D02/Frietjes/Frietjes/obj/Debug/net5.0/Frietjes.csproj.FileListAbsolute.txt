@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Frietjes\Frietjes\bin\Debug\net5.0\Frietjes.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Frietjes\Frietjes\bin\Debug\net5.0\Frietjes.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Frietjes\Frietjes\bin\Debug\net5.0\Frietjes.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Frietjes\Frietjes\bin\Debug\net5.0\Frietjes.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Frietjes\Frietjes\bin\Debug\net5.0\Frietjes.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Frietjes\Frietjes\bin\Debug\net5.0\ref\Frietjes.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Frietjes\Frietjes\bin\Debug\net5.0\Frietjes.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Frietjes\Frietjes\obj\Debug\net5.0\Frietjes.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Frietjes\Frietjes\obj\Debug\net5.0\Frietjes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Frietjes\Frietjes\obj\Debug\net5.0\Frietjes.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Frietjes\Frietjes\obj\Debug\net5.0\Frietjes.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Frietjes\Frietjes\obj\Debug\net5.0\Frietjes.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Frietjes\Frietjes\obj\Debug\net5.0\Frietjes.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Frietjes\Frietjes\obj\Debug\net5.0\ref\Frietjes.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Frietjes\Frietjes\obj\Debug\net5.0\Frietjes.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\Frietjes\Frietjes\obj\Debug\net5.0\Frietjes.genruntimeconfig.cache

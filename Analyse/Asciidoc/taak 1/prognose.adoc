@@ -1,0 +1,25 @@
+= Prognose 2021/2022
+
+*Jarne Everaerts*
+[%header,cols="5,2"] 
+|===
+|OLOD
+|Punten /20
+|Programmeren
+|19/20
+|Databanken
+|16/20
+|Analyse
+|17/20
+|Webdesign
+|12/20
+|Werkveld Contact
+|14/20
+|Digitale werkomgeving
+|15/20
+|===
+
+
+
+
+link:presentatie.adoc[terug naar de vorige pagina]

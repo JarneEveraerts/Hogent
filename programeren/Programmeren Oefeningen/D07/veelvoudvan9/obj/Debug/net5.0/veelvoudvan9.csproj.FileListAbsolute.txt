@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\veelvoudvan9\bin\Debug\net5.0\veelvoudvan9.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\veelvoudvan9\bin\Debug\net5.0\veelvoudvan9.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\veelvoudvan9\bin\Debug\net5.0\veelvoudvan9.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\veelvoudvan9\bin\Debug\net5.0\veelvoudvan9.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\veelvoudvan9\bin\Debug\net5.0\veelvoudvan9.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\veelvoudvan9\bin\Debug\net5.0\ref\veelvoudvan9.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\veelvoudvan9\bin\Debug\net5.0\veelvoudvan9.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\veelvoudvan9\obj\Debug\net5.0\veelvoudvan9.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\veelvoudvan9\obj\Debug\net5.0\veelvoudvan9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\veelvoudvan9\obj\Debug\net5.0\veelvoudvan9.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\veelvoudvan9\obj\Debug\net5.0\veelvoudvan9.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\veelvoudvan9\obj\Debug\net5.0\veelvoudvan9.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\veelvoudvan9\obj\Debug\net5.0\veelvoudvan9.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\veelvoudvan9\obj\Debug\net5.0\ref\veelvoudvan9.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\veelvoudvan9\obj\Debug\net5.0\veelvoudvan9.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\veelvoudvan9\obj\Debug\net5.0\veelvoudvan9.genruntimeconfig.cache

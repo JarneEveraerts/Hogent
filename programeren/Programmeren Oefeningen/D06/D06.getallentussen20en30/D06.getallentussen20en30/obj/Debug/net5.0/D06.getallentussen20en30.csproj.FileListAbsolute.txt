@@ -1,0 +1,16 @@
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallentussen20en30\D06.getallentussen20en30\bin\Debug\net5.0\D06.getallentussen20en30.exe
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallentussen20en30\D06.getallentussen20en30\bin\Debug\net5.0\D06.getallentussen20en30.deps.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallentussen20en30\D06.getallentussen20en30\bin\Debug\net5.0\D06.getallentussen20en30.runtimeconfig.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallentussen20en30\D06.getallentussen20en30\bin\Debug\net5.0\D06.getallentussen20en30.runtimeconfig.dev.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallentussen20en30\D06.getallentussen20en30\bin\Debug\net5.0\D06.getallentussen20en30.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallentussen20en30\D06.getallentussen20en30\bin\Debug\net5.0\ref\D06.getallentussen20en30.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallentussen20en30\D06.getallentussen20en30\bin\Debug\net5.0\D06.getallentussen20en30.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallentussen20en30\D06.getallentussen20en30\obj\Debug\net5.0\D06.getallentussen20en30.csproj.AssemblyReference.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallentussen20en30\D06.getallentussen20en30\obj\Debug\net5.0\D06.getallentussen20en30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallentussen20en30\D06.getallentussen20en30\obj\Debug\net5.0\D06.getallentussen20en30.AssemblyInfoInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallentussen20en30\D06.getallentussen20en30\obj\Debug\net5.0\D06.getallentussen20en30.AssemblyInfo.cs
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallentussen20en30\D06.getallentussen20en30\obj\Debug\net5.0\D06.getallentussen20en30.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallentussen20en30\D06.getallentussen20en30\obj\Debug\net5.0\D06.getallentussen20en30.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallentussen20en30\D06.getallentussen20en30\obj\Debug\net5.0\ref\D06.getallentussen20en30.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallentussen20en30\D06.getallentussen20en30\obj\Debug\net5.0\D06.getallentussen20en30.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.getallentussen20en30\D06.getallentussen20en30\obj\Debug\net5.0\D06.getallentussen20en30.genruntimeconfig.cache

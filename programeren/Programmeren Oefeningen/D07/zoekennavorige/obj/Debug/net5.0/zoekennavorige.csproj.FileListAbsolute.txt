@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\zoekennavorige\bin\Debug\net5.0\zoekennavorige.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\zoekennavorige\bin\Debug\net5.0\zoekennavorige.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\zoekennavorige\bin\Debug\net5.0\zoekennavorige.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\zoekennavorige\bin\Debug\net5.0\zoekennavorige.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\zoekennavorige\bin\Debug\net5.0\zoekennavorige.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\zoekennavorige\bin\Debug\net5.0\ref\zoekennavorige.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\zoekennavorige\bin\Debug\net5.0\zoekennavorige.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\zoekennavorige\obj\Debug\net5.0\zoekennavorige.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\zoekennavorige\obj\Debug\net5.0\zoekennavorige.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\zoekennavorige\obj\Debug\net5.0\zoekennavorige.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\zoekennavorige\obj\Debug\net5.0\zoekennavorige.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\zoekennavorige\obj\Debug\net5.0\zoekennavorige.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\zoekennavorige\obj\Debug\net5.0\zoekennavorige.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\zoekennavorige\obj\Debug\net5.0\ref\zoekennavorige.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\zoekennavorige\obj\Debug\net5.0\zoekennavorige.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\zoekennavorige\obj\Debug\net5.0\zoekennavorige.genruntimeconfig.cache

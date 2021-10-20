@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\Persecondewijzer\Persecondewijzer\bin\Debug\net5.0\Persecondewijzer.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\Persecondewijzer\Persecondewijzer\bin\Debug\net5.0\Persecondewijzer.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\Persecondewijzer\Persecondewijzer\bin\Debug\net5.0\Persecondewijzer.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\Persecondewijzer\Persecondewijzer\bin\Debug\net5.0\Persecondewijzer.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\Persecondewijzer\Persecondewijzer\bin\Debug\net5.0\Persecondewijzer.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\Persecondewijzer\Persecondewijzer\bin\Debug\net5.0\ref\Persecondewijzer.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\Persecondewijzer\Persecondewijzer\bin\Debug\net5.0\Persecondewijzer.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\Persecondewijzer\Persecondewijzer\obj\Debug\net5.0\Persecondewijzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\Persecondewijzer\Persecondewijzer\obj\Debug\net5.0\Persecondewijzer.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\Persecondewijzer\Persecondewijzer\obj\Debug\net5.0\Persecondewijzer.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\Persecondewijzer\Persecondewijzer\obj\Debug\net5.0\Persecondewijzer.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\Persecondewijzer\Persecondewijzer\obj\Debug\net5.0\Persecondewijzer.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\Persecondewijzer\Persecondewijzer\obj\Debug\net5.0\ref\Persecondewijzer.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\Persecondewijzer\Persecondewijzer\obj\Debug\net5.0\Persecondewijzer.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\Persecondewijzer\Persecondewijzer\obj\Debug\net5.0\Persecondewijzer.genruntimeconfig.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\Persecondewijzer\Persecondewijzer\obj\Debug\net5.0\Persecondewijzer.csproj.AssemblyReference.cache

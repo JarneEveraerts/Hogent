@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\KleinerMetIfEnMath\KleinerMetIfEnMath\bin\Debug\net5.0\KleinerMetIfEnMath.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\KleinerMetIfEnMath\KleinerMetIfEnMath\bin\Debug\net5.0\KleinerMetIfEnMath.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\KleinerMetIfEnMath\KleinerMetIfEnMath\bin\Debug\net5.0\KleinerMetIfEnMath.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\KleinerMetIfEnMath\KleinerMetIfEnMath\bin\Debug\net5.0\KleinerMetIfEnMath.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\KleinerMetIfEnMath\KleinerMetIfEnMath\bin\Debug\net5.0\KleinerMetIfEnMath.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\KleinerMetIfEnMath\KleinerMetIfEnMath\bin\Debug\net5.0\ref\KleinerMetIfEnMath.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\KleinerMetIfEnMath\KleinerMetIfEnMath\bin\Debug\net5.0\KleinerMetIfEnMath.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\KleinerMetIfEnMath\KleinerMetIfEnMath\obj\Debug\net5.0\KleinerMetIfEnMath.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\KleinerMetIfEnMath\KleinerMetIfEnMath\obj\Debug\net5.0\KleinerMetIfEnMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\KleinerMetIfEnMath\KleinerMetIfEnMath\obj\Debug\net5.0\KleinerMetIfEnMath.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\KleinerMetIfEnMath\KleinerMetIfEnMath\obj\Debug\net5.0\KleinerMetIfEnMath.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\KleinerMetIfEnMath\KleinerMetIfEnMath\obj\Debug\net5.0\KleinerMetIfEnMath.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\KleinerMetIfEnMath\KleinerMetIfEnMath\obj\Debug\net5.0\KleinerMetIfEnMath.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\KleinerMetIfEnMath\KleinerMetIfEnMath\obj\Debug\net5.0\ref\KleinerMetIfEnMath.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\KleinerMetIfEnMath\KleinerMetIfEnMath\obj\Debug\net5.0\KleinerMetIfEnMath.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DO3\KleinerMetIfEnMath\KleinerMetIfEnMath\obj\Debug\net5.0\KleinerMetIfEnMath.genruntimeconfig.cache

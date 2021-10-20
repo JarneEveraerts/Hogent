@@ -1,0 +1,32 @@
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weer\D04.weer\bin\Debug\net5.0\D04.weer.exe
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weer\D04.weer\bin\Debug\net5.0\D04.weer.deps.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weer\D04.weer\bin\Debug\net5.0\D04.weer.runtimeconfig.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weer\D04.weer\bin\Debug\net5.0\D04.weer.runtimeconfig.dev.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weer\D04.weer\bin\Debug\net5.0\D04.weer.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weer\D04.weer\bin\Debug\net5.0\ref\D04.weer.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weer\D04.weer\bin\Debug\net5.0\D04.weer.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weer\D04.weer\obj\Debug\net5.0\D04.weer.csproj.AssemblyReference.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weer\D04.weer\obj\Debug\net5.0\D04.weer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weer\D04.weer\obj\Debug\net5.0\D04.weer.AssemblyInfoInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weer\D04.weer\obj\Debug\net5.0\D04.weer.AssemblyInfo.cs
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weer\D04.weer\obj\Debug\net5.0\D04.weer.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weer\D04.weer\obj\Debug\net5.0\D04.weer.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weer\D04.weer\obj\Debug\net5.0\ref\D04.weer.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weer\D04.weer\obj\Debug\net5.0\D04.weer.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 4\D04.weer\D04.weer\obj\Debug\net5.0\D04.weer.genruntimeconfig.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\D04.weer\D04.weer\bin\Debug\net5.0\D04.weer.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\D04.weer\D04.weer\bin\Debug\net5.0\D04.weer.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\D04.weer\D04.weer\bin\Debug\net5.0\D04.weer.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\D04.weer\D04.weer\bin\Debug\net5.0\D04.weer.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\D04.weer\D04.weer\bin\Debug\net5.0\D04.weer.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\D04.weer\D04.weer\bin\Debug\net5.0\ref\D04.weer.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\D04.weer\D04.weer\bin\Debug\net5.0\D04.weer.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\D04.weer\D04.weer\obj\Debug\net5.0\D04.weer.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\D04.weer\D04.weer\obj\Debug\net5.0\D04.weer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\D04.weer\D04.weer\obj\Debug\net5.0\D04.weer.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\D04.weer\D04.weer\obj\Debug\net5.0\D04.weer.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\D04.weer\D04.weer\obj\Debug\net5.0\D04.weer.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\D04.weer\D04.weer\obj\Debug\net5.0\D04.weer.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\D04.weer\D04.weer\obj\Debug\net5.0\ref\D04.weer.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\D04.weer\D04.weer\obj\Debug\net5.0\D04.weer.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D04\D04.weer\D04.weer\obj\Debug\net5.0\D04.weer.genruntimeconfig.cache

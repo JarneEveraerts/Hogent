@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\gelijk\gelijk\bin\Debug\net5.0\gelijk.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\gelijk\gelijk\bin\Debug\net5.0\gelijk.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\gelijk\gelijk\bin\Debug\net5.0\gelijk.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\gelijk\gelijk\bin\Debug\net5.0\gelijk.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\gelijk\gelijk\bin\Debug\net5.0\gelijk.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\gelijk\gelijk\bin\Debug\net5.0\ref\gelijk.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\gelijk\gelijk\bin\Debug\net5.0\gelijk.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\gelijk\gelijk\obj\Debug\net5.0\gelijk.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\gelijk\gelijk\obj\Debug\net5.0\gelijk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\gelijk\gelijk\obj\Debug\net5.0\gelijk.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\gelijk\gelijk\obj\Debug\net5.0\gelijk.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\gelijk\gelijk\obj\Debug\net5.0\gelijk.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\gelijk\gelijk\obj\Debug\net5.0\gelijk.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\gelijk\gelijk\obj\Debug\net5.0\ref\gelijk.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\gelijk\gelijk\obj\Debug\net5.0\gelijk.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D02\gelijk\gelijk\obj\Debug\net5.0\gelijk.genruntimeconfig.cache

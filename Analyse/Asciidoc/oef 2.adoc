@@ -1,0 +1,49 @@
+Paragraphs don't require any special markup in AsciiDoc.
+A paragraph is just one or more lines of consecutive text.
+
+= Document Title
+
+== level 2
+
+=== level 3
+
+_Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit placeat reprehenderit natus modi nemo sequi, error officiis alias iste ducimus quibusdam ipsum, debitis quos at consequatur blanditiis libero voluptate doloribus?_
+
+*Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit placeat reprehenderit natus modi nemo sequi, error officiis alias iste ducimus quibusdam ipsum, debitis quos at consequatur blanditiis libero voluptate doloribus?*
+
+[.underline]#Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit placeat reprehenderit natus modi nemo sequi, error officiis alias iste ducimus quibusdam ipsum, debitis quos at consequatur blanditiis libero voluptate doloribus?#
+
+.Unordered list title
+* list item 1
+** nested list item
+*** nested nested list item 1
+*** nested nested list item 2
+* list item 2
+
+.ordered list
+. level 1
+. level 2
+
+image::bbc.png[BBC]
+
+//commentaar
+////
+meer commentaar
+en nog een beeke
+////
+
+= Document Title 
+Kismet R. Lee <kismet@asciidoctor.org> 
+
+[%header,cols="2,2,1"] 
+|===
+|Column 1, header row
+|Column 2, header row
+|Column 3, header row
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|Cell in column 3, row 2
+|===
+
+Refer to link:ascii_test.adoc#section-b[Section B] for more information.

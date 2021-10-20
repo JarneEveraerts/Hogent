@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\bevatleesteken\bin\Debug\net5.0\bevatleesteken.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\bevatleesteken\bin\Debug\net5.0\bevatleesteken.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\bevatleesteken\bin\Debug\net5.0\bevatleesteken.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\bevatleesteken\bin\Debug\net5.0\bevatleesteken.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\bevatleesteken\bin\Debug\net5.0\bevatleesteken.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\bevatleesteken\bin\Debug\net5.0\ref\bevatleesteken.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\bevatleesteken\bin\Debug\net5.0\bevatleesteken.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\bevatleesteken\obj\Debug\net5.0\bevatleesteken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\bevatleesteken\obj\Debug\net5.0\bevatleesteken.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\bevatleesteken\obj\Debug\net5.0\bevatleesteken.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\bevatleesteken\obj\Debug\net5.0\bevatleesteken.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\bevatleesteken\obj\Debug\net5.0\bevatleesteken.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\bevatleesteken\obj\Debug\net5.0\ref\bevatleesteken.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\bevatleesteken\obj\Debug\net5.0\bevatleesteken.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D07\bevatleesteken\obj\Debug\net5.0\bevatleesteken.genruntimeconfig.cache

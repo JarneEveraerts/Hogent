@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gelijk", "gelijk\gelijk.csproj", "{60CD475E-F18D-494A-A8C7-C405554606D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60CD475E-F18D-494A-A8C7-C405554606D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CD475E-F18D-494A-A8C7-C405554606D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CD475E-F18D-494A-A8C7-C405554606D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CD475E-F18D-494A-A8C7-C405554606D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE9200DA-6B48-48BF-9389-509B520A906C}
+	EndGlobalSection
+EndGlobal

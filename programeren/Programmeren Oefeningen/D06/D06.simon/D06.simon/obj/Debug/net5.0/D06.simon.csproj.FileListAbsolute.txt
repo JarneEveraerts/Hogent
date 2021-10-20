@@ -1,0 +1,16 @@
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.simon\D06.simon\bin\Debug\net5.0\D06.simon.exe
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.simon\D06.simon\bin\Debug\net5.0\D06.simon.deps.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.simon\D06.simon\bin\Debug\net5.0\D06.simon.runtimeconfig.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.simon\D06.simon\bin\Debug\net5.0\D06.simon.runtimeconfig.dev.json
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.simon\D06.simon\bin\Debug\net5.0\D06.simon.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.simon\D06.simon\bin\Debug\net5.0\ref\D06.simon.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.simon\D06.simon\bin\Debug\net5.0\D06.simon.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.simon\D06.simon\obj\Debug\net5.0\D06.simon.csproj.AssemblyReference.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.simon\D06.simon\obj\Debug\net5.0\D06.simon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.simon\D06.simon\obj\Debug\net5.0\D06.simon.AssemblyInfoInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.simon\D06.simon\obj\Debug\net5.0\D06.simon.AssemblyInfo.cs
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.simon\D06.simon\obj\Debug\net5.0\D06.simon.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.simon\D06.simon\obj\Debug\net5.0\D06.simon.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.simon\D06.simon\obj\Debug\net5.0\ref\D06.simon.dll
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.simon\D06.simon\obj\Debug\net5.0\D06.simon.pdb
+C:\Users\Jonas Lecaille\Documents\Hogent\Programmeren - Basis\Deel 6\D06.simon\D06.simon\obj\Debug\net5.0\D06.simon.genruntimeconfig.cache
