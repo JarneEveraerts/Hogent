@@ -11,16 +11,32 @@ namespace ceasar_cipher
             Uncoded = Console.ReadLine().ToLower().Trim();
             Console.WriteLine("geef u turns in");
             int Turns = Convert.ToInt16(Console.ReadLine());
+            
             foreach (char c in Uncoded)
             {
-                if ( c ==' ')
+                if (Turns < 0)
                 {
-                    Coded += " ";
+                    if (c == ' ')
+                    {
+                        Coded += " ";
+                    }
+                    else
+                    {
+                        Coded += Cipher.Substring(Cipher.LastIndexOf(c) + Turns, 1);
+                    }
                 }
                 else
                 {
-                    Coded += Cipher.Substring(Cipher.IndexOf(c) + Turns, 1);
+                    if (c == ' ')
+                    {
+                        Coded += " ";
+                    }
+                    else
+                    {
+                        Coded += Cipher.Substring(Cipher.IndexOf(c) + Turns, 1);
+                    }
                 }
+                
                 
             }
             Console.WriteLine(Coded);
