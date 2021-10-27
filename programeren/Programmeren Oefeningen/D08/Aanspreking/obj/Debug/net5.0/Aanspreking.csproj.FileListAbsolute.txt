@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Aanspreking\bin\Debug\net5.0\Aanspreking.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Aanspreking\bin\Debug\net5.0\Aanspreking.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Aanspreking\bin\Debug\net5.0\Aanspreking.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Aanspreking\bin\Debug\net5.0\Aanspreking.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Aanspreking\bin\Debug\net5.0\Aanspreking.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Aanspreking\bin\Debug\net5.0\ref\Aanspreking.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Aanspreking\bin\Debug\net5.0\Aanspreking.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Aanspreking\obj\Debug\net5.0\Aanspreking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Aanspreking\obj\Debug\net5.0\Aanspreking.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Aanspreking\obj\Debug\net5.0\Aanspreking.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Aanspreking\obj\Debug\net5.0\Aanspreking.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Aanspreking\obj\Debug\net5.0\Aanspreking.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Aanspreking\obj\Debug\net5.0\ref\Aanspreking.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Aanspreking\obj\Debug\net5.0\Aanspreking.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Aanspreking\obj\Debug\net5.0\Aanspreking.genruntimeconfig.cache

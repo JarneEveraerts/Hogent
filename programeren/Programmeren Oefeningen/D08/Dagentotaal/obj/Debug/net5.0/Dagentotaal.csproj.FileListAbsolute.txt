@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagentotaal\bin\Debug\net5.0\Dagentotaal.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagentotaal\bin\Debug\net5.0\Dagentotaal.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagentotaal\bin\Debug\net5.0\Dagentotaal.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagentotaal\bin\Debug\net5.0\Dagentotaal.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagentotaal\bin\Debug\net5.0\Dagentotaal.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagentotaal\bin\Debug\net5.0\ref\Dagentotaal.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagentotaal\bin\Debug\net5.0\Dagentotaal.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagentotaal\obj\Debug\net5.0\Dagentotaal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagentotaal\obj\Debug\net5.0\Dagentotaal.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagentotaal\obj\Debug\net5.0\Dagentotaal.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagentotaal\obj\Debug\net5.0\Dagentotaal.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagentotaal\obj\Debug\net5.0\Dagentotaal.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagentotaal\obj\Debug\net5.0\ref\Dagentotaal.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagentotaal\obj\Debug\net5.0\Dagentotaal.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagentotaal\obj\Debug\net5.0\Dagentotaal.genruntimeconfig.cache

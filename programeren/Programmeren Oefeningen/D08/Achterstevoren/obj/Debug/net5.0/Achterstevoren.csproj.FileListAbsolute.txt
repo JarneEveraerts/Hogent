@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Achterstevoren\bin\Debug\net5.0\Achterstevoren.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Achterstevoren\bin\Debug\net5.0\Achterstevoren.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Achterstevoren\bin\Debug\net5.0\Achterstevoren.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Achterstevoren\bin\Debug\net5.0\Achterstevoren.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Achterstevoren\bin\Debug\net5.0\Achterstevoren.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Achterstevoren\bin\Debug\net5.0\ref\Achterstevoren.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Achterstevoren\bin\Debug\net5.0\Achterstevoren.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Achterstevoren\obj\Debug\net5.0\Achterstevoren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Achterstevoren\obj\Debug\net5.0\Achterstevoren.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Achterstevoren\obj\Debug\net5.0\Achterstevoren.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Achterstevoren\obj\Debug\net5.0\Achterstevoren.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Achterstevoren\obj\Debug\net5.0\Achterstevoren.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Achterstevoren\obj\Debug\net5.0\ref\Achterstevoren.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Achterstevoren\obj\Debug\net5.0\Achterstevoren.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Achterstevoren\obj\Debug\net5.0\Achterstevoren.genruntimeconfig.cache

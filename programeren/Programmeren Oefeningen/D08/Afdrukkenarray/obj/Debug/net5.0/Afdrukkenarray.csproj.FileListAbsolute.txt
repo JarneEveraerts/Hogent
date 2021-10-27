@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Afdrukkenarray\bin\Debug\net5.0\Afdrukkenarray.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Afdrukkenarray\bin\Debug\net5.0\Afdrukkenarray.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Afdrukkenarray\bin\Debug\net5.0\Afdrukkenarray.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Afdrukkenarray\bin\Debug\net5.0\Afdrukkenarray.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Afdrukkenarray\bin\Debug\net5.0\Afdrukkenarray.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Afdrukkenarray\bin\Debug\net5.0\ref\Afdrukkenarray.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Afdrukkenarray\bin\Debug\net5.0\Afdrukkenarray.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Afdrukkenarray\obj\Debug\net5.0\Afdrukkenarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Afdrukkenarray\obj\Debug\net5.0\Afdrukkenarray.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Afdrukkenarray\obj\Debug\net5.0\Afdrukkenarray.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Afdrukkenarray\obj\Debug\net5.0\Afdrukkenarray.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Afdrukkenarray\obj\Debug\net5.0\Afdrukkenarray.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Afdrukkenarray\obj\Debug\net5.0\ref\Afdrukkenarray.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Afdrukkenarray\obj\Debug\net5.0\Afdrukkenarray.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Afdrukkenarray\obj\Debug\net5.0\Afdrukkenarray.genruntimeconfig.cache

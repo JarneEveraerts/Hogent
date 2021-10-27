@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Arrayopvullen\bin\Debug\net5.0\Arrayopvullen.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Arrayopvullen\bin\Debug\net5.0\Arrayopvullen.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Arrayopvullen\bin\Debug\net5.0\Arrayopvullen.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Arrayopvullen\bin\Debug\net5.0\Arrayopvullen.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Arrayopvullen\bin\Debug\net5.0\Arrayopvullen.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Arrayopvullen\bin\Debug\net5.0\ref\Arrayopvullen.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Arrayopvullen\bin\Debug\net5.0\Arrayopvullen.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Arrayopvullen\obj\Debug\net5.0\Arrayopvullen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Arrayopvullen\obj\Debug\net5.0\Arrayopvullen.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Arrayopvullen\obj\Debug\net5.0\Arrayopvullen.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Arrayopvullen\obj\Debug\net5.0\Arrayopvullen.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Arrayopvullen\obj\Debug\net5.0\Arrayopvullen.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Arrayopvullen\obj\Debug\net5.0\ref\Arrayopvullen.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Arrayopvullen\obj\Debug\net5.0\Arrayopvullen.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Arrayopvullen\obj\Debug\net5.0\Arrayopvullen.genruntimeconfig.cache

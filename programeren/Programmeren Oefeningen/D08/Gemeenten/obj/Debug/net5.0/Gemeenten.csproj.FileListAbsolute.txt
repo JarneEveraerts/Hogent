@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Gemeenten\bin\Debug\net5.0\Gemeenten.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Gemeenten\bin\Debug\net5.0\Gemeenten.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Gemeenten\bin\Debug\net5.0\Gemeenten.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Gemeenten\bin\Debug\net5.0\Gemeenten.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Gemeenten\bin\Debug\net5.0\Gemeenten.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Gemeenten\bin\Debug\net5.0\ref\Gemeenten.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Gemeenten\bin\Debug\net5.0\Gemeenten.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Gemeenten\obj\Debug\net5.0\Gemeenten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Gemeenten\obj\Debug\net5.0\Gemeenten.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Gemeenten\obj\Debug\net5.0\Gemeenten.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Gemeenten\obj\Debug\net5.0\Gemeenten.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Gemeenten\obj\Debug\net5.0\Gemeenten.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Gemeenten\obj\Debug\net5.0\ref\Gemeenten.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Gemeenten\obj\Debug\net5.0\Gemeenten.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Gemeenten\obj\Debug\net5.0\Gemeenten.genruntimeconfig.cache

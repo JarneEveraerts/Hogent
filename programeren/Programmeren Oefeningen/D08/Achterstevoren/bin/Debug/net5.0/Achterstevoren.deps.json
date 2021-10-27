@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Achterstevoren/1.0.0": {
+        "runtime": {
+          "Achterstevoren.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Achterstevoren/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

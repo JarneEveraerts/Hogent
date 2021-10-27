@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Zoekeninarray\bin\Debug\net5.0\Zoekeninarray.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Zoekeninarray\bin\Debug\net5.0\Zoekeninarray.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Zoekeninarray\bin\Debug\net5.0\Zoekeninarray.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Zoekeninarray\bin\Debug\net5.0\Zoekeninarray.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Zoekeninarray\bin\Debug\net5.0\Zoekeninarray.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Zoekeninarray\bin\Debug\net5.0\ref\Zoekeninarray.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Zoekeninarray\bin\Debug\net5.0\Zoekeninarray.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Zoekeninarray\obj\Debug\net5.0\Zoekeninarray.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Zoekeninarray\obj\Debug\net5.0\Zoekeninarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Zoekeninarray\obj\Debug\net5.0\Zoekeninarray.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Zoekeninarray\obj\Debug\net5.0\Zoekeninarray.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Zoekeninarray\obj\Debug\net5.0\Zoekeninarray.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Zoekeninarray\obj\Debug\net5.0\Zoekeninarray.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Zoekeninarray\obj\Debug\net5.0\ref\Zoekeninarray.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Zoekeninarray\obj\Debug\net5.0\Zoekeninarray.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Zoekeninarray\obj\Debug\net5.0\Zoekeninarray.genruntimeconfig.cache

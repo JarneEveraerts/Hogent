@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagnummer\bin\Debug\net5.0\Dagnummer.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagnummer\bin\Debug\net5.0\Dagnummer.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagnummer\bin\Debug\net5.0\Dagnummer.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagnummer\bin\Debug\net5.0\Dagnummer.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagnummer\bin\Debug\net5.0\Dagnummer.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagnummer\bin\Debug\net5.0\ref\Dagnummer.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagnummer\bin\Debug\net5.0\Dagnummer.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagnummer\obj\Debug\net5.0\Dagnummer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagnummer\obj\Debug\net5.0\Dagnummer.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagnummer\obj\Debug\net5.0\Dagnummer.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagnummer\obj\Debug\net5.0\Dagnummer.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagnummer\obj\Debug\net5.0\Dagnummer.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagnummer\obj\Debug\net5.0\ref\Dagnummer.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagnummer\obj\Debug\net5.0\Dagnummer.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D08\Dagnummer\obj\Debug\net5.0\Dagnummer.genruntimeconfig.cache
