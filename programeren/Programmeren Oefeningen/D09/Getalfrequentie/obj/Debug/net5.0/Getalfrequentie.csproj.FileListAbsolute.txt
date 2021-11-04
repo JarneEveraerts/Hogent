@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Getalfrequentie\bin\Debug\net5.0\Getalfrequentie.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Getalfrequentie\bin\Debug\net5.0\Getalfrequentie.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Getalfrequentie\bin\Debug\net5.0\Getalfrequentie.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Getalfrequentie\bin\Debug\net5.0\Getalfrequentie.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Getalfrequentie\bin\Debug\net5.0\Getalfrequentie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Getalfrequentie\bin\Debug\net5.0\ref\Getalfrequentie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Getalfrequentie\bin\Debug\net5.0\Getalfrequentie.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Getalfrequentie\obj\Debug\net5.0\Getalfrequentie.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Getalfrequentie\obj\Debug\net5.0\Getalfrequentie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Getalfrequentie\obj\Debug\net5.0\Getalfrequentie.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Getalfrequentie\obj\Debug\net5.0\Getalfrequentie.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Getalfrequentie\obj\Debug\net5.0\Getalfrequentie.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Getalfrequentie\obj\Debug\net5.0\Getalfrequentie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Getalfrequentie\obj\Debug\net5.0\ref\Getalfrequentie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Getalfrequentie\obj\Debug\net5.0\Getalfrequentie.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Getalfrequentie\obj\Debug\net5.0\Getalfrequentie.genruntimeconfig.cache

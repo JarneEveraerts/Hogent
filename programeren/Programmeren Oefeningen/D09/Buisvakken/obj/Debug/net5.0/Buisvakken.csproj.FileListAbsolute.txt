@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Buisvakken\bin\Debug\net5.0\Buisvakken.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Buisvakken\bin\Debug\net5.0\Buisvakken.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Buisvakken\bin\Debug\net5.0\Buisvakken.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Buisvakken\bin\Debug\net5.0\Buisvakken.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Buisvakken\bin\Debug\net5.0\Buisvakken.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Buisvakken\bin\Debug\net5.0\ref\Buisvakken.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Buisvakken\bin\Debug\net5.0\Buisvakken.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Buisvakken\obj\Debug\net5.0\Buisvakken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Buisvakken\obj\Debug\net5.0\Buisvakken.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Buisvakken\obj\Debug\net5.0\Buisvakken.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Buisvakken\obj\Debug\net5.0\Buisvakken.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Buisvakken\obj\Debug\net5.0\Buisvakken.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Buisvakken\obj\Debug\net5.0\ref\Buisvakken.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Buisvakken\obj\Debug\net5.0\Buisvakken.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Buisvakken\obj\Debug\net5.0\Buisvakken.genruntimeconfig.cache

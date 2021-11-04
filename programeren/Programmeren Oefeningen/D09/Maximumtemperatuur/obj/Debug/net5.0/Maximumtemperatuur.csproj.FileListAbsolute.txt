@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Maximumtemperatuur\bin\Debug\net5.0\Maximumtemperatuur.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Maximumtemperatuur\bin\Debug\net5.0\Maximumtemperatuur.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Maximumtemperatuur\bin\Debug\net5.0\Maximumtemperatuur.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Maximumtemperatuur\bin\Debug\net5.0\Maximumtemperatuur.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Maximumtemperatuur\bin\Debug\net5.0\Maximumtemperatuur.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Maximumtemperatuur\bin\Debug\net5.0\ref\Maximumtemperatuur.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Maximumtemperatuur\bin\Debug\net5.0\Maximumtemperatuur.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Maximumtemperatuur\obj\Debug\net5.0\Maximumtemperatuur.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Maximumtemperatuur\obj\Debug\net5.0\Maximumtemperatuur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Maximumtemperatuur\obj\Debug\net5.0\Maximumtemperatuur.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Maximumtemperatuur\obj\Debug\net5.0\Maximumtemperatuur.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Maximumtemperatuur\obj\Debug\net5.0\Maximumtemperatuur.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Maximumtemperatuur\obj\Debug\net5.0\Maximumtemperatuur.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Maximumtemperatuur\obj\Debug\net5.0\ref\Maximumtemperatuur.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Maximumtemperatuur\obj\Debug\net5.0\Maximumtemperatuur.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Maximumtemperatuur\obj\Debug\net5.0\Maximumtemperatuur.genruntimeconfig.cache

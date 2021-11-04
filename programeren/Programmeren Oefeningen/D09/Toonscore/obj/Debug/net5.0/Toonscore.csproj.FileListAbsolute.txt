@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Toonscore\bin\Debug\net5.0\Toonscore.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Toonscore\bin\Debug\net5.0\Toonscore.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Toonscore\bin\Debug\net5.0\Toonscore.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Toonscore\bin\Debug\net5.0\Toonscore.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Toonscore\bin\Debug\net5.0\Toonscore.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Toonscore\bin\Debug\net5.0\ref\Toonscore.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Toonscore\bin\Debug\net5.0\Toonscore.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Toonscore\obj\Debug\net5.0\Toonscore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Toonscore\obj\Debug\net5.0\Toonscore.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Toonscore\obj\Debug\net5.0\Toonscore.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Toonscore\obj\Debug\net5.0\Toonscore.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Toonscore\obj\Debug\net5.0\Toonscore.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Toonscore\obj\Debug\net5.0\ref\Toonscore.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Toonscore\obj\Debug\net5.0\Toonscore.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Toonscore\obj\Debug\net5.0\Toonscore.genruntimeconfig.cache

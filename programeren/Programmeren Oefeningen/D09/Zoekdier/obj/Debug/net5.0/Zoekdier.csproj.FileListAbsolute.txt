@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Zoekdier\bin\Debug\net5.0\Zoekdier.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Zoekdier\bin\Debug\net5.0\Zoekdier.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Zoekdier\bin\Debug\net5.0\Zoekdier.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Zoekdier\bin\Debug\net5.0\Zoekdier.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Zoekdier\bin\Debug\net5.0\Zoekdier.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Zoekdier\bin\Debug\net5.0\ref\Zoekdier.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Zoekdier\bin\Debug\net5.0\Zoekdier.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Zoekdier\obj\Debug\net5.0\Zoekdier.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Zoekdier\obj\Debug\net5.0\Zoekdier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Zoekdier\obj\Debug\net5.0\Zoekdier.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Zoekdier\obj\Debug\net5.0\Zoekdier.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Zoekdier\obj\Debug\net5.0\Zoekdier.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Zoekdier\obj\Debug\net5.0\Zoekdier.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Zoekdier\obj\Debug\net5.0\ref\Zoekdier.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Zoekdier\obj\Debug\net5.0\Zoekdier.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Zoekdier\obj\Debug\net5.0\Zoekdier.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Speelkaarten\obj\Debug\net5.0\Speelkaarten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Speelkaarten\obj\Debug\net5.0\Speelkaarten.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Speelkaarten\obj\Debug\net5.0\Speelkaarten.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Speelkaarten\obj\Debug\net5.0\Speelkaarten.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Speelkaarten\bin\Debug\net5.0\Speelkaarten.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Speelkaarten\bin\Debug\net5.0\Speelkaarten.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Speelkaarten\bin\Debug\net5.0\Speelkaarten.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Speelkaarten\bin\Debug\net5.0\Speelkaarten.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Speelkaarten\bin\Debug\net5.0\Speelkaarten.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Speelkaarten\bin\Debug\net5.0\ref\Speelkaarten.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Speelkaarten\bin\Debug\net5.0\Speelkaarten.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Speelkaarten\obj\Debug\net5.0\Speelkaarten.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Speelkaarten\obj\Debug\net5.0\Speelkaarten.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Speelkaarten\obj\Debug\net5.0\ref\Speelkaarten.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Speelkaarten\obj\Debug\net5.0\Speelkaarten.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D09\Speelkaarten\obj\Debug\net5.0\Speelkaarten.genruntimeconfig.cache
