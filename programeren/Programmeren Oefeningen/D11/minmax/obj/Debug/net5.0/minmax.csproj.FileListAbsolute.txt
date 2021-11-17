@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\minmax\bin\Debug\net5.0\minmax.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\minmax\bin\Debug\net5.0\minmax.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\minmax\bin\Debug\net5.0\minmax.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\minmax\bin\Debug\net5.0\minmax.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\minmax\bin\Debug\net5.0\minmax.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\minmax\bin\Debug\net5.0\ref\minmax.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\minmax\bin\Debug\net5.0\minmax.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\minmax\obj\Debug\net5.0\minmax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\minmax\obj\Debug\net5.0\minmax.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\minmax\obj\Debug\net5.0\minmax.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\minmax\obj\Debug\net5.0\minmax.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\minmax\obj\Debug\net5.0\minmax.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\minmax\obj\Debug\net5.0\ref\minmax.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\minmax\obj\Debug\net5.0\minmax.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\minmax\obj\Debug\net5.0\minmax.genruntimeconfig.cache

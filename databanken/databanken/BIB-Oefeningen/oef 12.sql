@@ -1,0 +1,1 @@
+select * from boeken b where b.cat_id like 2 and b.publ_jaar not like 1993

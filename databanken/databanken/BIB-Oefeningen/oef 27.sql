@@ -1,0 +1,1 @@
+select * , soundex(u.uitgever) as 'soundex' from uitgever u where soundex(u.uitgever) = soundex('QUARYTOO') order by u.uitgever desc

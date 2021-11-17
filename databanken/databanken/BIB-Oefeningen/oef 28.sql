@@ -1,0 +1,1 @@
+select curdate(), date_format(curdate(),'%d-%m--%y') as 'nice date'

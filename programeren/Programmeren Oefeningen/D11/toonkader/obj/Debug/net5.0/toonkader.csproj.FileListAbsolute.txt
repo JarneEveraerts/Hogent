@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\toonkader\bin\Debug\net5.0\toonkader.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\toonkader\bin\Debug\net5.0\toonkader.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\toonkader\bin\Debug\net5.0\toonkader.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\toonkader\bin\Debug\net5.0\toonkader.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\toonkader\bin\Debug\net5.0\toonkader.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\toonkader\bin\Debug\net5.0\ref\toonkader.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\toonkader\bin\Debug\net5.0\toonkader.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\toonkader\obj\Debug\net5.0\toonkader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\toonkader\obj\Debug\net5.0\toonkader.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\toonkader\obj\Debug\net5.0\toonkader.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\toonkader\obj\Debug\net5.0\toonkader.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\toonkader\obj\Debug\net5.0\toonkader.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\toonkader\obj\Debug\net5.0\ref\toonkader.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\toonkader\obj\Debug\net5.0\toonkader.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\toonkader\obj\Debug\net5.0\toonkader.genruntimeconfig.cache

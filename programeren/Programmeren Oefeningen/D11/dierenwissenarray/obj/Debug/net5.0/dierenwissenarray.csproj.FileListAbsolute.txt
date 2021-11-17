@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\dierenwissenarray\bin\Debug\net5.0\dierenwissenarray.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\dierenwissenarray\bin\Debug\net5.0\dierenwissenarray.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\dierenwissenarray\bin\Debug\net5.0\dierenwissenarray.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\dierenwissenarray\bin\Debug\net5.0\dierenwissenarray.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\dierenwissenarray\bin\Debug\net5.0\dierenwissenarray.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\dierenwissenarray\bin\Debug\net5.0\ref\dierenwissenarray.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\dierenwissenarray\bin\Debug\net5.0\dierenwissenarray.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\dierenwissenarray\obj\Debug\net5.0\dierenwissenarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\dierenwissenarray\obj\Debug\net5.0\dierenwissenarray.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\dierenwissenarray\obj\Debug\net5.0\dierenwissenarray.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\dierenwissenarray\obj\Debug\net5.0\dierenwissenarray.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\dierenwissenarray\obj\Debug\net5.0\dierenwissenarray.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\dierenwissenarray\obj\Debug\net5.0\ref\dierenwissenarray.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\dierenwissenarray\obj\Debug\net5.0\dierenwissenarray.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\dierenwissenarray\obj\Debug\net5.0\dierenwissenarray.genruntimeconfig.cache

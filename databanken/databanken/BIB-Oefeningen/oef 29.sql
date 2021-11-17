@@ -1,0 +1,1 @@
+select u.uitlnr, u.datum, date_format(u.datum , '%d-%m-%y') as 'formateer datum' from uitleen u

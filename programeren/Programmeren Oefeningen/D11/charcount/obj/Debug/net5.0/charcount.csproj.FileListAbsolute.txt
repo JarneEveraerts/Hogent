@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\charcount\obj\Debug\net5.0\charcount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\charcount\obj\Debug\net5.0\charcount.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\charcount\obj\Debug\net5.0\charcount.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\charcount\obj\Debug\net5.0\charcount.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\charcount\bin\Debug\net5.0\charcount.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\charcount\bin\Debug\net5.0\charcount.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\charcount\bin\Debug\net5.0\charcount.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\charcount\bin\Debug\net5.0\charcount.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\charcount\bin\Debug\net5.0\charcount.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\charcount\bin\Debug\net5.0\ref\charcount.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\charcount\bin\Debug\net5.0\charcount.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\charcount\obj\Debug\net5.0\charcount.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\charcount\obj\Debug\net5.0\ref\charcount.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\charcount\obj\Debug\net5.0\charcount.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\charcount\obj\Debug\net5.0\charcount.genruntimeconfig.cache

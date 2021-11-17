@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\bevatwaarde\obj\Debug\net5.0\bevatwaarde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\bevatwaarde\obj\Debug\net5.0\bevatwaarde.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\bevatwaarde\obj\Debug\net5.0\bevatwaarde.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\bevatwaarde\obj\Debug\net5.0\bevatwaarde.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\bevatwaarde\bin\Debug\net5.0\bevatwaarde.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\bevatwaarde\bin\Debug\net5.0\bevatwaarde.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\bevatwaarde\bin\Debug\net5.0\bevatwaarde.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\bevatwaarde\bin\Debug\net5.0\bevatwaarde.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\bevatwaarde\bin\Debug\net5.0\bevatwaarde.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\bevatwaarde\bin\Debug\net5.0\ref\bevatwaarde.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\bevatwaarde\bin\Debug\net5.0\bevatwaarde.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\bevatwaarde\obj\Debug\net5.0\bevatwaarde.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\bevatwaarde\obj\Debug\net5.0\ref\bevatwaarde.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\bevatwaarde\obj\Debug\net5.0\bevatwaarde.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\bevatwaarde\obj\Debug\net5.0\bevatwaarde.genruntimeconfig.cache

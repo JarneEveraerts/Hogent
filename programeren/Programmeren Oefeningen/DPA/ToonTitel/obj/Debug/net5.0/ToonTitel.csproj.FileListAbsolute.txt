@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\ToonTitel\bin\Debug\net5.0\ToonTitel.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\ToonTitel\bin\Debug\net5.0\ToonTitel.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\ToonTitel\bin\Debug\net5.0\ToonTitel.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\ToonTitel\bin\Debug\net5.0\ToonTitel.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\ToonTitel\bin\Debug\net5.0\ToonTitel.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\ToonTitel\bin\Debug\net5.0\ref\ToonTitel.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\ToonTitel\bin\Debug\net5.0\ToonTitel.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\ToonTitel\obj\Debug\net5.0\ToonTitel.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\ToonTitel\obj\Debug\net5.0\ToonTitel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\ToonTitel\obj\Debug\net5.0\ToonTitel.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\ToonTitel\obj\Debug\net5.0\ToonTitel.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\ToonTitel\obj\Debug\net5.0\ToonTitel.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\ToonTitel\obj\Debug\net5.0\ToonTitel.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\ToonTitel\obj\Debug\net5.0\ref\ToonTitel.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\ToonTitel\obj\Debug\net5.0\ToonTitel.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\ToonTitel\obj\Debug\net5.0\ToonTitel.genruntimeconfig.cache

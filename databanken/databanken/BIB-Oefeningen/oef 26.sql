@@ -1,0 +1,1 @@
+select * , soundex(u.uitgever) as 'soundex' from uitgever u order by u.uitgever desc

@@ -1,0 +1,1 @@
+select upper(b.titel) from boeken b order by replace(b.titel, ' ','') desc

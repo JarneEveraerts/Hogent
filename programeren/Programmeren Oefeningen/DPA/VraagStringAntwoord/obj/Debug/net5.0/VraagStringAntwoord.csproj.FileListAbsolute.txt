@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagStringAntwoord\bin\Debug\net5.0\VraagStringAntwoord.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagStringAntwoord\bin\Debug\net5.0\VraagStringAntwoord.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagStringAntwoord\bin\Debug\net5.0\VraagStringAntwoord.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagStringAntwoord\bin\Debug\net5.0\VraagStringAntwoord.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagStringAntwoord\bin\Debug\net5.0\VraagStringAntwoord.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagStringAntwoord\bin\Debug\net5.0\ref\VraagStringAntwoord.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagStringAntwoord\bin\Debug\net5.0\VraagStringAntwoord.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagStringAntwoord\obj\Debug\net5.0\VraagStringAntwoord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagStringAntwoord\obj\Debug\net5.0\VraagStringAntwoord.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagStringAntwoord\obj\Debug\net5.0\VraagStringAntwoord.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagStringAntwoord\obj\Debug\net5.0\VraagStringAntwoord.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagStringAntwoord\obj\Debug\net5.0\VraagStringAntwoord.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagStringAntwoord\obj\Debug\net5.0\ref\VraagStringAntwoord.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagStringAntwoord\obj\Debug\net5.0\VraagStringAntwoord.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagStringAntwoord\obj\Debug\net5.0\VraagStringAntwoord.genruntimeconfig.cache

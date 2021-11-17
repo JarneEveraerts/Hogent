@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\KeuzeKleur\bin\Debug\net5.0\KeuzeKleur.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\KeuzeKleur\bin\Debug\net5.0\KeuzeKleur.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\KeuzeKleur\bin\Debug\net5.0\KeuzeKleur.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\KeuzeKleur\bin\Debug\net5.0\KeuzeKleur.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\KeuzeKleur\bin\Debug\net5.0\KeuzeKleur.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\KeuzeKleur\bin\Debug\net5.0\ref\KeuzeKleur.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\KeuzeKleur\bin\Debug\net5.0\KeuzeKleur.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\KeuzeKleur\obj\Debug\net5.0\KeuzeKleur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\KeuzeKleur\obj\Debug\net5.0\KeuzeKleur.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\KeuzeKleur\obj\Debug\net5.0\KeuzeKleur.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\KeuzeKleur\obj\Debug\net5.0\KeuzeKleur.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\KeuzeKleur\obj\Debug\net5.0\KeuzeKleur.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\KeuzeKleur\obj\Debug\net5.0\ref\KeuzeKleur.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\KeuzeKleur\obj\Debug\net5.0\KeuzeKleur.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\KeuzeKleur\obj\Debug\net5.0\KeuzeKleur.genruntimeconfig.cache

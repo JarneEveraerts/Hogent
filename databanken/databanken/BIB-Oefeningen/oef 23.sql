@@ -1,0 +1,1 @@
+select * from klant k order by replace(k.klantnaam, ' ','') desc

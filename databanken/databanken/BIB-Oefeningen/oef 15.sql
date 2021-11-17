@@ -1,0 +1,1 @@
+select * from klant k where k.klantnaam like '%v%'

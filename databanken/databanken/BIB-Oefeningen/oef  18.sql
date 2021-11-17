@@ -1,0 +1,1 @@
+select * from boeken b where b.publ_jaar is not null

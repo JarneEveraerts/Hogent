@@ -1,0 +1,48 @@
+body{
+    width: 50%;
+    margin: auto;
+}
+
+img{
+    width: 100%;
+}
+
+a{
+    color: #fe5806;
+    text-decoration: none;
+    border-bottom-width: 1px;
+    border-bottom-style: dotted;
+}
+
+a:hover{
+    color: #fff;
+    text-decoration: none;
+    background-color: #fe5806;
+    border-bottom-width: 0;
+}
+
+#Line{
+    border-bottom: solid #fe5806 3.5px;
+    width: 100%;
+}
+#Color{
+    color: #fe5806;
+}
+
+#Header_Box{
+    margin-left: 0;
+    width: 100%;
+    color: #fff;
+    background-color: #fe5806;
+}
+
+#Subtitle{
+    color: #fe5806;
+    border-bottom: solid #fe5806 2px;
+}
+
+#Bottom{
+    color: #fe5806;
+    border-top: solid #fe5806 2px;
+    text-align: center;
+}

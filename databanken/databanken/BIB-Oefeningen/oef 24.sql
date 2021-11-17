@@ -1,0 +1,1 @@
+select b.titel from boeken b where b.titel like '% %'

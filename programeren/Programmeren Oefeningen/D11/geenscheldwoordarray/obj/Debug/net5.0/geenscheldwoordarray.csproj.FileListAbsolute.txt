@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\geenscheldwoordarray\bin\Debug\net5.0\geenscheldwoordarray.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\geenscheldwoordarray\bin\Debug\net5.0\geenscheldwoordarray.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\geenscheldwoordarray\bin\Debug\net5.0\geenscheldwoordarray.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\geenscheldwoordarray\bin\Debug\net5.0\geenscheldwoordarray.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\geenscheldwoordarray\bin\Debug\net5.0\geenscheldwoordarray.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\geenscheldwoordarray\bin\Debug\net5.0\ref\geenscheldwoordarray.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\geenscheldwoordarray\bin\Debug\net5.0\geenscheldwoordarray.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\geenscheldwoordarray\obj\Debug\net5.0\geenscheldwoordarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\geenscheldwoordarray\obj\Debug\net5.0\geenscheldwoordarray.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\geenscheldwoordarray\obj\Debug\net5.0\geenscheldwoordarray.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\geenscheldwoordarray\obj\Debug\net5.0\geenscheldwoordarray.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\geenscheldwoordarray\obj\Debug\net5.0\geenscheldwoordarray.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\geenscheldwoordarray\obj\Debug\net5.0\ref\geenscheldwoordarray.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\geenscheldwoordarray\obj\Debug\net5.0\geenscheldwoordarray.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\geenscheldwoordarray\obj\Debug\net5.0\geenscheldwoordarray.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "bevatwaarde/1.0.0": {
+        "runtime": {
+          "bevatwaarde.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bevatwaarde/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

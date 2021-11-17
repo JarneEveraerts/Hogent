@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\slicevariant\bin\Debug\net5.0\slicevariant.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\slicevariant\bin\Debug\net5.0\slicevariant.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\slicevariant\bin\Debug\net5.0\slicevariant.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\slicevariant\bin\Debug\net5.0\slicevariant.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\slicevariant\bin\Debug\net5.0\slicevariant.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\slicevariant\bin\Debug\net5.0\ref\slicevariant.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\slicevariant\bin\Debug\net5.0\slicevariant.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\slicevariant\obj\Debug\net5.0\slicevariant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\slicevariant\obj\Debug\net5.0\slicevariant.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\slicevariant\obj\Debug\net5.0\slicevariant.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\slicevariant\obj\Debug\net5.0\slicevariant.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\slicevariant\obj\Debug\net5.0\slicevariant.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\slicevariant\obj\Debug\net5.0\ref\slicevariant.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\slicevariant\obj\Debug\net5.0\slicevariant.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\slicevariant\obj\Debug\net5.0\slicevariant.genruntimeconfig.cache

@@ -1,0 +1,1 @@
+select * from uitleen order by datum desc, uitlnr asc

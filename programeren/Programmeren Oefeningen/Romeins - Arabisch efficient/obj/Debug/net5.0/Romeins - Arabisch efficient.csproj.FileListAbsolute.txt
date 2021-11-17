@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Romeins - Arabisch efficient\bin\Debug\net5.0\Romeins - Arabisch efficient.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Romeins - Arabisch efficient\bin\Debug\net5.0\Romeins - Arabisch efficient.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Romeins - Arabisch efficient\bin\Debug\net5.0\Romeins - Arabisch efficient.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Romeins - Arabisch efficient\bin\Debug\net5.0\Romeins - Arabisch efficient.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Romeins - Arabisch efficient\bin\Debug\net5.0\Romeins - Arabisch efficient.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Romeins - Arabisch efficient\bin\Debug\net5.0\ref\Romeins - Arabisch efficient.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Romeins - Arabisch efficient\bin\Debug\net5.0\Romeins - Arabisch efficient.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Romeins - Arabisch efficient\obj\Debug\net5.0\Romeins - Arabisch efficient.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Romeins - Arabisch efficient\obj\Debug\net5.0\Romeins - Arabisch efficient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Romeins - Arabisch efficient\obj\Debug\net5.0\Romeins - Arabisch efficient.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Romeins - Arabisch efficient\obj\Debug\net5.0\Romeins - Arabisch efficient.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Romeins - Arabisch efficient\obj\Debug\net5.0\Romeins - Arabisch efficient.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Romeins - Arabisch efficient\obj\Debug\net5.0\Romeins - Arabisch efficient.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Romeins - Arabisch efficient\obj\Debug\net5.0\ref\Romeins - Arabisch efficient.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Romeins - Arabisch efficient\obj\Debug\net5.0\Romeins - Arabisch efficient.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\Romeins - Arabisch efficient\obj\Debug\net5.0\Romeins - Arabisch efficient.genruntimeconfig.cache

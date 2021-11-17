@@ -1,0 +1,1 @@
+select b.titel,b.publ_jaar from boeken b

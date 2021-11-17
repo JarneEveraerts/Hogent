@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\concataantalkeren\bin\Debug\net5.0\concataantalkeren.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\concataantalkeren\bin\Debug\net5.0\concataantalkeren.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\concataantalkeren\bin\Debug\net5.0\concataantalkeren.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\concataantalkeren\bin\Debug\net5.0\concataantalkeren.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\concataantalkeren\bin\Debug\net5.0\concataantalkeren.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\concataantalkeren\bin\Debug\net5.0\ref\concataantalkeren.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\concataantalkeren\bin\Debug\net5.0\concataantalkeren.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\concataantalkeren\obj\Debug\net5.0\concataantalkeren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\concataantalkeren\obj\Debug\net5.0\concataantalkeren.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\concataantalkeren\obj\Debug\net5.0\concataantalkeren.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\concataantalkeren\obj\Debug\net5.0\concataantalkeren.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\concataantalkeren\obj\Debug\net5.0\concataantalkeren.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\concataantalkeren\obj\Debug\net5.0\ref\concataantalkeren.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\concataantalkeren\obj\Debug\net5.0\concataantalkeren.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D11\concataantalkeren\obj\Debug\net5.0\concataantalkeren.genruntimeconfig.cache

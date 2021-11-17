@@ -1,0 +1,1 @@
+select distinct k.plaats from klant k

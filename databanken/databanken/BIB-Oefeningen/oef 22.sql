@@ -1,0 +1,1 @@
+select *, year(now()) - year(ui.datum) as "Hoeveel jaar sinds uiitgeleend" from uitleen ui 

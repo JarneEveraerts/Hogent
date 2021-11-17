@@ -1,0 +1,1 @@
+select * from uitleen ui where ui.datum > '2013-05-03' order by ui.datum

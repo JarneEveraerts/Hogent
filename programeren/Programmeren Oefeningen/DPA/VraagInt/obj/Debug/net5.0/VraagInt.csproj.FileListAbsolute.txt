@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagInt\bin\Debug\net5.0\VraagInt.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagInt\bin\Debug\net5.0\VraagInt.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagInt\bin\Debug\net5.0\VraagInt.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagInt\bin\Debug\net5.0\VraagInt.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagInt\bin\Debug\net5.0\VraagInt.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagInt\bin\Debug\net5.0\ref\VraagInt.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagInt\bin\Debug\net5.0\VraagInt.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagInt\obj\Debug\net5.0\VraagInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagInt\obj\Debug\net5.0\VraagInt.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagInt\obj\Debug\net5.0\VraagInt.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagInt\obj\Debug\net5.0\VraagInt.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagInt\obj\Debug\net5.0\VraagInt.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagInt\obj\Debug\net5.0\ref\VraagInt.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagInt\obj\Debug\net5.0\VraagInt.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\DPA\VraagInt\obj\Debug\net5.0\VraagInt.genruntimeconfig.cache

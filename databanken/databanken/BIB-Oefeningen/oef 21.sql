@@ -1,0 +1,1 @@
+select * from uitleen ui where year(ui.datum) = year(now())

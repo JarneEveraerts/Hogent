@@ -211,6 +211,7 @@ namespace Roman_Arabic_Converter
                         keuzeCheck = true;
                         Console.WriteLine("geef een romeinse waarde in (I - MMMCMXCIX)");
                         invoer = Console.ReadLine().ToUpper().Trim();
+                        int m = 0;
                         while (doorgaan)
                         {
                             while (invoer.Length > 0)
@@ -218,8 +219,16 @@ namespace Roman_Arabic_Converter
                                 switch (invoer[0])
                                 {
                                     case 'M':
-                                        uitvoerArabisch += 1000;
+                                        if (m < 3)
+                                        {
+                                            m++;
+                                            uitvoerArabisch += 1000;
                                         invoer = invoer.Substring(1);
+                                        }
+                                        else
+                                        {
+                                            goto error;
+                                        }
                                         break;
 
                                     case 'D':
@@ -233,8 +242,8 @@ namespace Roman_Arabic_Converter
                                             switch (invoer[1])
                                             {
                                                 case 'M':
-                                                    uitvoerArabisch += 900;
-                                                    invoer = invoer.Substring(2);
+                                                        uitvoerArabisch += 900;
+                                                        invoer = invoer.Substring(2);
                                                     break;
 
                                                 case 'D':
@@ -322,6 +331,8 @@ namespace Roman_Arabic_Converter
                                         break;
 
                                     default:
+                                    error:;
+                                        m = 0;
                                         Console.WriteLine("gelieve een echt romeins cijfer in te vullen");
                                         invoer = Console.ReadLine().ToUpper();
                                         uitvoerArabisch = 0;

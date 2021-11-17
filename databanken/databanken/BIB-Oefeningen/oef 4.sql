@@ -1,0 +1,1 @@
+select a.naam from auteur a order by a.naam asc

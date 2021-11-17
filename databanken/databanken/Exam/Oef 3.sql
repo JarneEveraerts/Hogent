@@ -1,0 +1,1 @@
+select * from orders o where o.paid_date is null;
