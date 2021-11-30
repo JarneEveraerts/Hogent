@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Frequentie\Frequentie\bin\Debug\net5.0\Frequentie.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Frequentie\Frequentie\bin\Debug\net5.0\Frequentie.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Frequentie\Frequentie\bin\Debug\net5.0\Frequentie.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Frequentie\Frequentie\bin\Debug\net5.0\Frequentie.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Frequentie\Frequentie\bin\Debug\net5.0\Frequentie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Frequentie\Frequentie\bin\Debug\net5.0\ref\Frequentie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Frequentie\Frequentie\bin\Debug\net5.0\Frequentie.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Frequentie\Frequentie\obj\Debug\net5.0\Frequentie.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Frequentie\Frequentie\obj\Debug\net5.0\Frequentie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Frequentie\Frequentie\obj\Debug\net5.0\Frequentie.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Frequentie\Frequentie\obj\Debug\net5.0\Frequentie.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Frequentie\Frequentie\obj\Debug\net5.0\Frequentie.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Frequentie\Frequentie\obj\Debug\net5.0\Frequentie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Frequentie\Frequentie\obj\Debug\net5.0\ref\Frequentie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Frequentie\Frequentie\obj\Debug\net5.0\Frequentie.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Frequentie\Frequentie\obj\Debug\net5.0\Frequentie.genruntimeconfig.cache

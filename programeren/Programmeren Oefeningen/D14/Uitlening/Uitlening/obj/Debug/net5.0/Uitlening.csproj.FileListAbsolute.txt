@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Uitlening\Uitlening\bin\Debug\net5.0\Uitlening.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Uitlening\Uitlening\bin\Debug\net5.0\Uitlening.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Uitlening\Uitlening\bin\Debug\net5.0\Uitlening.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Uitlening\Uitlening\bin\Debug\net5.0\Uitlening.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Uitlening\Uitlening\bin\Debug\net5.0\Uitlening.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Uitlening\Uitlening\bin\Debug\net5.0\ref\Uitlening.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Uitlening\Uitlening\bin\Debug\net5.0\Uitlening.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Uitlening\Uitlening\obj\Debug\net5.0\Uitlening.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Uitlening\Uitlening\obj\Debug\net5.0\Uitlening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Uitlening\Uitlening\obj\Debug\net5.0\Uitlening.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Uitlening\Uitlening\obj\Debug\net5.0\Uitlening.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Uitlening\Uitlening\obj\Debug\net5.0\Uitlening.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Uitlening\Uitlening\obj\Debug\net5.0\Uitlening.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Uitlening\Uitlening\obj\Debug\net5.0\ref\Uitlening.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Uitlening\Uitlening\obj\Debug\net5.0\Uitlening.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Uitlening\Uitlening\obj\Debug\net5.0\Uitlening.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MWsZhzc9cbaspYErek3sDvAPePSqPXYb9/WUlu/obhUSCQ0Ta/H53H7bhtld62HByfAsVqp7OCBmdGu0Uy/aBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\programeren\\Programmeren Oefeningen\\D13\\Morse\\Morse\\Morse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\GemeenteRaad\GemeenteRaad\bin\Debug\net5.0\GemeenteRaad.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\GemeenteRaad\GemeenteRaad\bin\Debug\net5.0\GemeenteRaad.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\GemeenteRaad\GemeenteRaad\bin\Debug\net5.0\GemeenteRaad.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\GemeenteRaad\GemeenteRaad\bin\Debug\net5.0\GemeenteRaad.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\GemeenteRaad\GemeenteRaad\bin\Debug\net5.0\GemeenteRaad.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\GemeenteRaad\GemeenteRaad\bin\Debug\net5.0\ref\GemeenteRaad.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\GemeenteRaad\GemeenteRaad\bin\Debug\net5.0\GemeenteRaad.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\GemeenteRaad\GemeenteRaad\obj\Debug\net5.0\GemeenteRaad.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\GemeenteRaad\GemeenteRaad\obj\Debug\net5.0\GemeenteRaad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\GemeenteRaad\GemeenteRaad\obj\Debug\net5.0\GemeenteRaad.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\GemeenteRaad\GemeenteRaad\obj\Debug\net5.0\GemeenteRaad.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\GemeenteRaad\GemeenteRaad\obj\Debug\net5.0\GemeenteRaad.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\GemeenteRaad\GemeenteRaad\obj\Debug\net5.0\GemeenteRaad.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\GemeenteRaad\GemeenteRaad\obj\Debug\net5.0\ref\GemeenteRaad.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\GemeenteRaad\GemeenteRaad\obj\Debug\net5.0\GemeenteRaad.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\GemeenteRaad\GemeenteRaad\obj\Debug\net5.0\GemeenteRaad.genruntimeconfig.cache

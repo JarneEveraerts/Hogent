@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W7hA2lhA/NNfPzSVy1IbLh5bFLf7FEFDuV64UIc4nDjYAFYgfITps5p1OYMpofRWoY60aZA39UeuHzIcNhFClg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\programeren\\Programmeren Oefeningen\\D14\\Artikel\\Artikel\\Artikel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

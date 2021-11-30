@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ztyHNeQ19OOGzj2xvsL92MRPNRgyg3ZNUGyQKnNkZvwxThbE7X/n8ULVKeLEj5Jw7I25FumvFL2LnKx7pjmIfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\programeren\\Programmeren Oefeningen\\D13\\Frequentie\\Frequentie\\Frequentie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

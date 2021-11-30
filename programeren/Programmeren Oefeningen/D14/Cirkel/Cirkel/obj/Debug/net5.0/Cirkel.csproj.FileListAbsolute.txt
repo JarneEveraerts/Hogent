@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Cirkel\Cirkel\bin\Debug\net5.0\Cirkel.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Cirkel\Cirkel\bin\Debug\net5.0\Cirkel.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Cirkel\Cirkel\bin\Debug\net5.0\Cirkel.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Cirkel\Cirkel\bin\Debug\net5.0\Cirkel.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Cirkel\Cirkel\bin\Debug\net5.0\Cirkel.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Cirkel\Cirkel\bin\Debug\net5.0\ref\Cirkel.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Cirkel\Cirkel\bin\Debug\net5.0\Cirkel.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Cirkel\Cirkel\obj\Debug\net5.0\Cirkel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Cirkel\Cirkel\obj\Debug\net5.0\Cirkel.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Cirkel\Cirkel\obj\Debug\net5.0\Cirkel.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Cirkel\Cirkel\obj\Debug\net5.0\Cirkel.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Cirkel\Cirkel\obj\Debug\net5.0\Cirkel.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Cirkel\Cirkel\obj\Debug\net5.0\ref\Cirkel.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Cirkel\Cirkel\obj\Debug\net5.0\Cirkel.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Cirkel\Cirkel\obj\Debug\net5.0\Cirkel.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i48JDLtl739Dttu+5OEsl6Lx+43VyoeCzdIRRraAO9NcrZeGDx/aXJhB6BHOu34zu5lVZ+89Z0wLc5qSZTJePw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\programeren\\Programmeren Oefeningen\\D14\\Persoon\\Persoon\\Persoon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

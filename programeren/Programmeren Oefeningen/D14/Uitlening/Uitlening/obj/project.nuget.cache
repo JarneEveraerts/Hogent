@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CJ5N294RH84x/O2rQb62BVk08N/+KZlUUwJS4ds+Dkkvry+z908EHNaKKU2osVKaMOxlt0Lf0m1v//ibY5INdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\programeren\\Programmeren Oefeningen\\D14\\Uitlening\\Uitlening\\Uitlening.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

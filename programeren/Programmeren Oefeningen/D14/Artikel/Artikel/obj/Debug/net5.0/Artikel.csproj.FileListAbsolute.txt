@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Artikel\Artikel\bin\Debug\net5.0\Artikel.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Artikel\Artikel\bin\Debug\net5.0\Artikel.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Artikel\Artikel\bin\Debug\net5.0\Artikel.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Artikel\Artikel\bin\Debug\net5.0\Artikel.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Artikel\Artikel\bin\Debug\net5.0\Artikel.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Artikel\Artikel\bin\Debug\net5.0\ref\Artikel.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Artikel\Artikel\bin\Debug\net5.0\Artikel.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Artikel\Artikel\obj\Debug\net5.0\Artikel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Artikel\Artikel\obj\Debug\net5.0\Artikel.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Artikel\Artikel\obj\Debug\net5.0\Artikel.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Artikel\Artikel\obj\Debug\net5.0\Artikel.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Artikel\Artikel\obj\Debug\net5.0\Artikel.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Artikel\Artikel\obj\Debug\net5.0\ref\Artikel.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Artikel\Artikel\obj\Debug\net5.0\Artikel.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Artikel\Artikel\obj\Debug\net5.0\Artikel.genruntimeconfig.cache

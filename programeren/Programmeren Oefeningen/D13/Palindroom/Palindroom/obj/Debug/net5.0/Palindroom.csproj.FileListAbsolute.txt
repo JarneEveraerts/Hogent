@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Palindroom\Palindroom\bin\Debug\net5.0\Palindroom.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Palindroom\Palindroom\bin\Debug\net5.0\Palindroom.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Palindroom\Palindroom\bin\Debug\net5.0\Palindroom.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Palindroom\Palindroom\bin\Debug\net5.0\Palindroom.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Palindroom\Palindroom\bin\Debug\net5.0\Palindroom.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Palindroom\Palindroom\bin\Debug\net5.0\ref\Palindroom.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Palindroom\Palindroom\bin\Debug\net5.0\Palindroom.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Palindroom\Palindroom\obj\Debug\net5.0\Palindroom.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Palindroom\Palindroom\obj\Debug\net5.0\Palindroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Palindroom\Palindroom\obj\Debug\net5.0\Palindroom.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Palindroom\Palindroom\obj\Debug\net5.0\Palindroom.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Palindroom\Palindroom\obj\Debug\net5.0\Palindroom.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Palindroom\Palindroom\obj\Debug\net5.0\Palindroom.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Palindroom\Palindroom\obj\Debug\net5.0\ref\Palindroom.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Palindroom\Palindroom\obj\Debug\net5.0\Palindroom.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Palindroom\Palindroom\obj\Debug\net5.0\Palindroom.genruntimeconfig.cache

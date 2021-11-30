@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "007ZmYcxio7S0PijjnNRI/Q13Z9EQ74/1zjehmUmxzY24z0rwfcp7P4VFzfi9sFxBCfSfv/os+aF3IYNXfaD4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\programeren\\Programmeren Oefeningen\\D14\\SelecteerWinnaar\\SelecteerWinnaar\\SelecteerWinnaar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

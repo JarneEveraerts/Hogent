@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\SelecteerWinnaar\SelecteerWinnaar\bin\Debug\net5.0\SelecteerWinnaar.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\SelecteerWinnaar\SelecteerWinnaar\bin\Debug\net5.0\SelecteerWinnaar.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\SelecteerWinnaar\SelecteerWinnaar\bin\Debug\net5.0\SelecteerWinnaar.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\SelecteerWinnaar\SelecteerWinnaar\bin\Debug\net5.0\SelecteerWinnaar.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\SelecteerWinnaar\SelecteerWinnaar\bin\Debug\net5.0\SelecteerWinnaar.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\SelecteerWinnaar\SelecteerWinnaar\bin\Debug\net5.0\ref\SelecteerWinnaar.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\SelecteerWinnaar\SelecteerWinnaar\bin\Debug\net5.0\SelecteerWinnaar.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\SelecteerWinnaar\SelecteerWinnaar\obj\Debug\net5.0\SelecteerWinnaar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\SelecteerWinnaar\SelecteerWinnaar\obj\Debug\net5.0\SelecteerWinnaar.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\SelecteerWinnaar\SelecteerWinnaar\obj\Debug\net5.0\SelecteerWinnaar.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\SelecteerWinnaar\SelecteerWinnaar\obj\Debug\net5.0\SelecteerWinnaar.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\SelecteerWinnaar\SelecteerWinnaar\obj\Debug\net5.0\SelecteerWinnaar.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\SelecteerWinnaar\SelecteerWinnaar\obj\Debug\net5.0\ref\SelecteerWinnaar.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\SelecteerWinnaar\SelecteerWinnaar\obj\Debug\net5.0\SelecteerWinnaar.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\SelecteerWinnaar\SelecteerWinnaar\obj\Debug\net5.0\SelecteerWinnaar.genruntimeconfig.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\SelecteerWinnaar\SelecteerWinnaar\obj\Debug\net5.0\SelecteerWinnaar.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Doorsnede\Doorsnede\bin\Debug\net5.0\Doorsnede.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Doorsnede\Doorsnede\bin\Debug\net5.0\Doorsnede.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Doorsnede\Doorsnede\bin\Debug\net5.0\Doorsnede.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Doorsnede\Doorsnede\bin\Debug\net5.0\Doorsnede.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Doorsnede\Doorsnede\bin\Debug\net5.0\Doorsnede.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Doorsnede\Doorsnede\bin\Debug\net5.0\ref\Doorsnede.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Doorsnede\Doorsnede\bin\Debug\net5.0\Doorsnede.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Doorsnede\Doorsnede\obj\Debug\net5.0\Doorsnede.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Doorsnede\Doorsnede\obj\Debug\net5.0\Doorsnede.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Doorsnede\Doorsnede\obj\Debug\net5.0\Doorsnede.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Doorsnede\Doorsnede\obj\Debug\net5.0\Doorsnede.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Doorsnede\Doorsnede\obj\Debug\net5.0\Doorsnede.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Doorsnede\Doorsnede\obj\Debug\net5.0\ref\Doorsnede.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Doorsnede\Doorsnede\obj\Debug\net5.0\Doorsnede.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Doorsnede\Doorsnede\obj\Debug\net5.0\Doorsnede.genruntimeconfig.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D13\Doorsnede\Doorsnede\obj\Debug\net5.0\Doorsnede.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Bankrekening\Bankrekening\bin\Debug\net5.0\Bankrekening.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Bankrekening\Bankrekening\bin\Debug\net5.0\Bankrekening.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Bankrekening\Bankrekening\bin\Debug\net5.0\Bankrekening.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Bankrekening\Bankrekening\bin\Debug\net5.0\Bankrekening.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Bankrekening\Bankrekening\bin\Debug\net5.0\Bankrekening.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Bankrekening\Bankrekening\bin\Debug\net5.0\ref\Bankrekening.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Bankrekening\Bankrekening\bin\Debug\net5.0\Bankrekening.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Bankrekening\Bankrekening\obj\Debug\net5.0\Bankrekening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Bankrekening\Bankrekening\obj\Debug\net5.0\Bankrekening.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Bankrekening\Bankrekening\obj\Debug\net5.0\Bankrekening.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Bankrekening\Bankrekening\obj\Debug\net5.0\Bankrekening.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Bankrekening\Bankrekening\obj\Debug\net5.0\Bankrekening.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Bankrekening\Bankrekening\obj\Debug\net5.0\ref\Bankrekening.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Bankrekening\Bankrekening\obj\Debug\net5.0\Bankrekening.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Bankrekening\Bankrekening\obj\Debug\net5.0\Bankrekening.genruntimeconfig.cache

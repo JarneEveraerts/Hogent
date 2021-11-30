@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AHp3E5+qKGWoWUKmdnpWbsGXbU8fKzQQgbitlcVdATeGxKEHtY39S5eFa9nfkGY0OpFPaY8hH63mUPfudTr2cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\programeren\\Programmeren Oefeningen\\D14\\Rechthoek\\Rechthoek\\Rechthoek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

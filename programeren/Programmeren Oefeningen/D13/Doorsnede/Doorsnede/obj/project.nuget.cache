@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lkyWxQmdV8NixJgVIt5KoucgDYEcMT4GnPmOjDTILpvaqnhW2CmVBD8ITVxw7Ug0WwAxpfb6ufzltwBD1IDQhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\programeren\\Programmeren Oefeningen\\D13\\Doorsnede\\Doorsnede\\Doorsnede.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jeUBDeM6/02BregbBYjBF5wvWmzHqkAOTx3qdIVVjnpQNoWsy14E2zJDGeAgGZh3ypC4FN/nZGqUtUuj/zM/hQ==",
+  "dgSpecHash": "RGWg3tBRr1hQOR9i4uj2OVVY3WHntP4Zk2zC30Q3U9rHjg5FaQUwwAYn6P/QeQBmZw/UgFJW1lyGbojSczzlZA==",
   "success": true,
   "projectFilePath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\programeren\\Programmeren Oefeningen\\D05\\15\\15.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\evera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

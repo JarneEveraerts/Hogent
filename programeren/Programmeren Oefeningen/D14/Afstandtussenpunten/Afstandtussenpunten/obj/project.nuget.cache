@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wfzQl2l14jbMwWx3iRhxF5rDq/omK0O4TdM3EXhXlU5aq0mqR16eaetqnGDQweKTpqIIWoN1b5SDBjRdonTXuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\programeren\\Programmeren Oefeningen\\D14\\Afstandtussenpunten\\Afstandtussenpunten\\Afstandtussenpunten.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

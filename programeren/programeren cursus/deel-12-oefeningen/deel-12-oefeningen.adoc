@@ -1,0 +1,437 @@
+= Programmeren Basis - Deel 12 - Oefeningen
+Yanic Inghelbrecht
+v2021.10.04.19.30
+// toc and section numbering
+:toc: preamble
+:toclevels: 4
+// geen auto section numbering voor oefeningen (handigere titels en toc)
+//:sectnums:  
+:sectlinks:
+:sectnumlevels: 4
+// source code formatting
+:prewrap!:
+:source-highlighter: rouge
+:source-language: csharp
+:rouge-style: github
+:rouge-css: class
+// inject css for highlights using docinfo
+:docinfodir: ../common
+:docinfo: shared-head
+// folders
+:imagesdir: images
+:url-verdieping: ../{docname}-verdieping/{docname}-verdieping.adoc
+:deel-12-oplossingen: ../deel-12-oplossingen/deel-12-oplossingen.adoc
+// experimental voor kdb: en btn: macro's van AsciiDoctor
+:experimental:
+
+//preamble
+[.text-right]
+versie {revnumber}
+ 
+ 
+ 
+== Documentatie
+
+
+
+=== Oefening D12.documentatie
+
+Zoek de webpagina met de officiële .Net API documentatie over
+
+* De `Sleep()` method waarmee we ons programma konden laten wachten
+* De `ReadKey()` method met een `bool` parameter
+
+
+
+== Kommagetallen en afronden
+
+
+
+=== Oefening D12.soortenafrondingen
+
+Voorspel *eerst* wat de verschillende afgeronde waarden voor getal `g` zijn in onderstaande tabel.
+
+[%autowidth]
+|===
+| `g` | `Math.Ceiling(g)` | `Math.Floor(g)` | `Math.Round(g)` | `Math.Round(g, MidpointRounding.AwayFromZero)`
+
+| `7.4` ||||
+| `7.5` ||||
+| `7.6` ||||
+| `-7.4` ||||
+| `-7.5` ||||
+| `-7.6` ||||
+|===
+
+Schrijf *daarna* een programma dat deze waarden voor je berekent.
+
+
+=== Oefening D12.gasmaatschappij
+
+Een gasmaatschappij installeert meters die terug naar nul springen eenmaal ze 999999 kubieke meter passeren. 
+
+Schrijf een programma dat toelaat om de begin- en eindstand van de meter voor een facturatieperiode in te lezen (gehele getallen) en daarna de totale kostprijs weergeeft voor het verbruik (afgerond tot 2 cijfers na de komma).
+
+De berekening is als volgt :
+
+* voor de eerste 1000 kubieke meter is de kostprijs 0.34 Euro per kubieke meter
+* alle verbruik boven 1000 kubieke meter kost 0.31 Euro per kubieke meter
+
+Hou er rekening mee dat de meter terug naar nul kan springen middenin een facturatieperiode! 
+
+Je mag ervan uit gaan dat men nooit meer dan 999999 kubieke meter verbruikt in dezelfde periode.
+
+****
+[.underline]#Voorbeeld#
+
+Bijvoorbeeld, bij een beginstand van 8900 kubiek en een eindstand van 14783 kubiek, zal de totale kost 1853,73 bedragen. 
+
+Het verbruik is dan immers 5883 kubiek waarvan 1000 aan 0.34Eur per kubiek (=340 Eur) en 4883 aan 0.31Eur per kubiek (=1513,73 Eur).
+
+De uitvoering voor deze meterstanden ziet er zo uit :
+
+[source,shell]
+----
+Geef de beginstand : 8900
+Geef de eindstand : 14783
+De totale kostprijs is 1853,73 Eur
+----
+****
+
+****
+[.underline]#Voorbeeld#
+Een uitvoering waarbij de teller terug naar nul sprong tijdens de facturatieperiode :
+
+[source,shell]
+----
+Geef de beginstand : 999920
+Geef de eindstand : 120
+De totale kostprijs is 68,00 Eur
+----
+Het totale verbruik is 80+120 = 200 kubiek :
+
+* 80 kubiek werd verbruikt totdat de teller terug op nul sprong (omdat 999999 werd overschreden)
+* 120 kubiek werd verbruikt nadat de teller terug op nul sprong
+****
+
+
+=== Oefening D12.kapitaalnietafgerond
+// Y2.12
+
+Schrijf een programma dat de gebruiker om het startkapitaal vraagt en een intrestvoet (in %).  Je mag ervan uitgaan dat de gebruiker braafjes de gevraagde waarden invoert.
+
+Daarna toont het op de console hoeveel kapitaal er is in de eerste 20 jaar.
+
+Ga ervan uit dat de bank de bedragen intern niet afrondt, maar enkel de getallen in de output afrondt. De bank rekent dus elk jaar verder met het niet-afgeronde kapitaal.
+
+De uitvoering voor 100Eur en 5% intrest ziet er zo uit :
+
+[source,shell]
+----
+Geef een bedrag : 100
+Geef de intrestvoet (in %) : 5
+jaar 0 : 100.00
+jaar 1 : 105.00
+jaar 2 : 110.25
+jaar 3 : 115.76
+jaar 4 : 121.55
+jaar 5 : 127.63
+jaar 6 : 134.01
+jaar 7 : 140.71
+jaar 8 : 147.75
+jaar 9 : 155.13
+jaar 10 : 162.89
+jaar 11 : 171.03
+jaar 12 : 179.59
+jaar 13 : 188.56
+jaar 14 : 197.99
+jaar 15 : 207.89
+jaar 16 : 218.29
+jaar 17 : 229.20
+jaar 18 : 240.66
+jaar 19 : 252.70
+jaar 20 : 265.33
+----
+
+
+
+=== Oefening D12.kapitaalwelafgerond
+// Y2.12
+
+Herschrijf het programma uit de vorige oefening zodat de bank dit keer wel voor elk jaar verder rekent met het afgeronde kapitaal.
+
+De uitvoering voor 100Eur en 5% intrest ziet er zo uit :
+
+[source,shell]
+----
+Geef een bedrag : 100
+Geef de intrestvoet (in %) : 5
+jaar 0 : 100.00
+jaar 1 : 105.00
+jaar 2 : 110.25
+jaar 3 : 115.76
+jaar 4 : 121.55
+jaar 5 : 127.63
+jaar 6 : 134.01
+jaar 7 : 140.71
+jaar 8 : 147.75
+jaar 9 : 155.14
+jaar 10 : 162.90
+jaar 11 : 171.04
+jaar 12 : 179.59
+jaar 13 : 188.57
+jaar 14 : 198.00
+jaar 15 : 207.90
+jaar 16 : 218.30
+jaar 17 : 229.22
+jaar 18 : 240.68
+jaar 19 : 252.71
+jaar 20 : 265.35
+----
+
+[IMPORTANT]
+====
+Merk op dat er na 20 jaar `0.02` Euro verschil is naargelang of de bank wel/niet tussenresultaten afrondt!
+====
+
+
+
+=== Oefening D12.kortingplusbtw
+// Y2.13
+
+Schrijf een programma dat de gebruiker vraagt om een prijs excl. BTW, een kortingspercentage en een BTW-percentage. Je mag ervan uitgaan dat de gebruiker braafjes de gevraagde waarden invoert.
+
+Het programma toont de bedragen excl. BTW, korting, BTW en incl. BTW. De BTW wordt berekend nadat de korting al is afgetrokken. Je mag ervan uitgaan dat de bedragen altijd positief zijn en onder de 1000000 Euro blijven.
+
+Toon de bedragen netjes rechts uitgelijnd zoals op een kassaticket en gebruik bij het afronden `MidpointRounding.AwayFromZero`.
+
+Bv. als de gebruiker 123,45Eur met 10,25% korting en 21% btw ingeeft, verschijnt er
+
+[source,shell]
+----
+Geef een bedrag excl. BTW (2 cijfers na de komma) : 123.45
+Geef de korting (in %) : 10.25
+Geef het BTW-tarief (in %) : 21
+
+excl. BTW : ..123.45 // <1>
+  korting : ...12.65 // <1>
+      BTW : ...23.27 // <1>
+incl. BTW : ..134.07 // <1>
+----
+<1> In dit document worden hier puntjes `.` getoond i.p.v. spaties zodat je het aantal spaties kunt tellen voor het rechts uitlijnen van de getallen. Je programma toont natuurlijk spaties, geen puntjes.
+
+Naargelang je taalinstellingen kan het zijn dat je de getallen met een komma moet schrijven (bv. `123,45` i.p.v. `123.45`).
+
+[WARNING]
+====
+LET OP : als je programma voor `incl. BTW` op `134,06` uitkomt klopt er iets niet!
+====
+
+
+
+== DateTime
+
+
+
+=== Oefening D12.tonenmetonderdelen
+// Y2.01
+
+Schrijf een programma dat de huidige datum toont, gebruik hierbij de verschillende onderdelen van een `DateTime` waarde opvraagt zoals `.Month` en `.Hour`. Het aantal seconden en fractie van een seconde laat je achterwege.
+
+Bijvoorbeeld als het vandaag 12 november 2019 is om 10:49:50,567 toont het programma 
+
+[source,shell]
+----
+De datum van vandaag is 12/11/2019 en het is nu 10u49.
+----
+
+
+
+=== Oefening D12.tonenmetformaatstring
+// Y2.02
+
+Dit is een (betere) variant van de vorige oefening.
+
+Schrijf weer een programma dat de huidige datum toont, maar gebruik dit keer de `ToString()` method om de tekst op te bouwen a.d.h.v. een formaat string. Dit is natuurlijk een veel makkelijkere manier om de tekstvoorstelling te bekomen dan de individuele onderdelen aaneen te plakken!
+
+Het aantal seconden en fractie van een seconde laat je weerom achterwege.
+
+Bijvoorbeeld als het vandaag 12 november 2019 is om 10:49:50,567 toont het programma 
+
+[source,shell]
+----
+De datum van vandaag is 12/11/2019 en het is nu 10u49.
+----
+
+
+
+=== Oefening D12.seizoen
+// Y2.06
+
+Schrijf een programma dat de gebruiker om een datum vraagt en aangeeft in welk weerkundig(!) seizoen deze datum valt.
+
+Ter info : elk jaar begint de de lente op 01/03, de zomer op 01/06, de herfst op 01/09 en de winter op 01/12. 
+
+Enkele mogelijke uitvoeringen :
+
+[source,shell]
+----
+Geef een datum : 09/04
+Lente
+----
+
+[source,shell]
+----
+Geef een datum : 01/07
+Zomer
+----
+
+[source,shell]
+----
+Geef een datum : 01/02
+Winter
+----
+
+
+
+=== Oefening D12.verjaardagen
+// Y2.03
+
+Schrijf een programma dat de gebruiker om 10 geboortedata vraagt en toont hoeveel verjaardagen er elke maand zijn. 
+
+Je mag ervan uitgaan dat de gebruiker altijd een correct datum invoert. Maanden zonder verjaardagen worden niet getoond.
+
+
+Een mogelijke uitvoering :
+
+[source,shell]
+----
+Geef een geboortedatum : 23/12/1997
+... (stuk niet getoond)
+Geef een geboortedatum : 12/01/1993
+In maand 1, 2 verjaardag(en)
+In maand 4, 6 verjaardag(en)
+In maand 7, 4 verjaardag(en)
+----	
+	
+	
+	
+=== Oefening D12.bertbeverzondertimespan
+// Y2.04
+
+Schrijf een programma dat de gebruiker vraagt om zo snel mogelijk 2x na elkaar op de dezelfde toets te duwen. 
+
+Het programma toont hoeveel milliseconden er tussen de 2 toetsaanslagen zaten. 
+
+Zorg ervoor dat je programma ook werkt indien de eerste net voor en de tweede net na middernacht gebeuren (tip : denk aan `.Ticks`).
+
+We zullen deze oefening verderop met `TimeSpan` oplossen, doe het deze keer zonder.
+
+Een mogelijke uitvoering waarbij de gebruiker 2x op dezelfde toets drukte :
+
+[source,shell]
+----
+Druk 2x na elkaar op dezelfde toets, zo snel mogelijk..
+De tijd ertussen bedroeg 87ms
+----
+
+Een mogelijke uitvoering waarbij de gebruiker op verschillende toetsen drukte :
+
+[source,shell]
+----
+Druk 2x na elkaar op dezelfde toets, zo snel mogelijk..
+Dat waren 2 verschillende toetsen
+----
+	
+
+
+=== Oefening D12.feestdagen
+// Y2.05
+
+Schrijf een programma dat de gebruiker om een datum vraagt en aangeeft of die datum dit jaar een feestdag is. 
+
+* indien het een feestdag is, wordt de naam van de feestdag getoond tussen aanhalingstekens
+* indien het geen feesdag is toont het programma `Dat is geen feestdag`
+* indien het geen geldige datum is, toont het programma `Ongeldige datum`
+
+Baseer je hiervoor op link:https://www.wettelijke-feestdagen.be/[de lijst met feestdagen,window="_blank"] en werk met arrays (dus geen ellenlange if/elseif structuur!)
+
+**Het programma vraagt om een datum zonder jaartal** en zowel het dag- als het maandgedeelte moet uit 2 cijfers bestaan. 
+
+
+Enkele mogelijke uitvoeringen :
+
+[source,shell]
+----
+Geef een datum : 25/12
+Dat is "Kerstmis" <1>
+----
+<1> let op de aanhalingstekens in de output!
+
+[source,shell]
+----
+Geef een datum : 39/65
+Ongeldige datum
+----
+
+[source,shell]
+----
+Geef een datum : 05/02
+Dat is geen feestdag
+----
+
+[source,shell]
+----
+Geef een datum : 01/05
+Dat is "Dag van de Arbeid" <1>
+----
+<1> let op de aanhalingstekens in de output!
+
+
+
+=== Oefening D12.leeftijdinjaren
+
+Schrijf een programma dat de geboortedatum van de gebruiker vraagt en vervolgens de huidige datum en de leeftijd van de gebruiker toont.
+
+Een mogelijke uitvoering op 12 november 2020 :
+
+[source,shell]
+Geef uw geboortedatum (dd/mm/jjjj) : 23/11/2000
+Vandaag is het 12/11/2020, dus u bent 19 jaar oud
+----
+
+Als je klaar bent, kijk eens op 
+
+* link:https://stackoverflow.com/questions/9/in-c-how-do-i-calculate-someones-age-based-on-a-datetime-type-birthday[,window="_blank"]
+
+om te zien waar je zoal rekening mee had kunnen/moeten houden ;)
+
+
+
+== TimeSpan
+
+
+
+=== Oefening D12.bertbevermettimespan
+
+Neem link:{deel-12-oplossingen}#_oplossing_d12_bertbeverzondertimespan[de oplossing van D12.bertbeverzondertimespan] erbij. Dit was de oefening waarin de tijd gemeten werd tussen twee toetsdrukken van de gebruiker.
+
+Herwerk de oplossing en probeer de `TimeSpan` mogelijkheden optimaal te benutten.
+
+
+
+=== Oefening D12.leeftijdindagen
+
+Schrijf een programma dat de geboortedatum van de gebruiker vraagt en toont hoeveel dagen oud de gebruiker is.
+
+Je kan het eerste gedeelte van link:{deel-12-oplossingen}#_oplossing_d12_leeftijdinjaren[de oplossing van D12.leeftijdinjaren] overnemen, zodat je enkel nog de berekening moet schrijven. Gebruik hierbij een `TimeSpan` waarde.
+
+De uitvoering op 14/11/2020 als de gebruiker `23/11/2000` invoert :
+
+[source,shell]
+----
+Geef uw geboortedatum (dd/mm/jjjj) : 23/11/2000
+U bent 7296 dagen oud
+----
+
+

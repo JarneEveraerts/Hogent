@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f4521973-45d2-4a40-aebb-b46a0561a1c8": {
+      "ProjectGuid": "f4521973-45d2-4a40-aebb-b46a0561a1c8",
+      "DisplayName": "Morse",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Rechthoek\Rechthoek\bin\Debug\net5.0\Rechthoek.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Rechthoek\Rechthoek\bin\Debug\net5.0\Rechthoek.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Rechthoek\Rechthoek\bin\Debug\net5.0\Rechthoek.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Rechthoek\Rechthoek\bin\Debug\net5.0\Rechthoek.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Rechthoek\Rechthoek\bin\Debug\net5.0\Rechthoek.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Rechthoek\Rechthoek\bin\Debug\net5.0\ref\Rechthoek.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Rechthoek\Rechthoek\bin\Debug\net5.0\Rechthoek.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Rechthoek\Rechthoek\obj\Debug\net5.0\Rechthoek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Rechthoek\Rechthoek\obj\Debug\net5.0\Rechthoek.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Rechthoek\Rechthoek\obj\Debug\net5.0\Rechthoek.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Rechthoek\Rechthoek\obj\Debug\net5.0\Rechthoek.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Rechthoek\Rechthoek\obj\Debug\net5.0\Rechthoek.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Rechthoek\Rechthoek\obj\Debug\net5.0\ref\Rechthoek.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Rechthoek\Rechthoek\obj\Debug\net5.0\Rechthoek.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Rechthoek\Rechthoek\obj\Debug\net5.0\Rechthoek.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Afstandtussenpunten\Afstandtussenpunten\bin\Debug\net5.0\Afstandtussenpunten.exe
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Afstandtussenpunten\Afstandtussenpunten\bin\Debug\net5.0\Afstandtussenpunten.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Afstandtussenpunten\Afstandtussenpunten\bin\Debug\net5.0\Afstandtussenpunten.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Afstandtussenpunten\Afstandtussenpunten\bin\Debug\net5.0\Afstandtussenpunten.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Afstandtussenpunten\Afstandtussenpunten\bin\Debug\net5.0\Afstandtussenpunten.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Afstandtussenpunten\Afstandtussenpunten\bin\Debug\net5.0\ref\Afstandtussenpunten.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Afstandtussenpunten\Afstandtussenpunten\bin\Debug\net5.0\Afstandtussenpunten.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Afstandtussenpunten\Afstandtussenpunten\obj\Debug\net5.0\Afstandtussenpunten.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Afstandtussenpunten\Afstandtussenpunten\obj\Debug\net5.0\Afstandtussenpunten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Afstandtussenpunten\Afstandtussenpunten\obj\Debug\net5.0\Afstandtussenpunten.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Afstandtussenpunten\Afstandtussenpunten\obj\Debug\net5.0\Afstandtussenpunten.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Afstandtussenpunten\Afstandtussenpunten\obj\Debug\net5.0\Afstandtussenpunten.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Afstandtussenpunten\Afstandtussenpunten\obj\Debug\net5.0\Afstandtussenpunten.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Afstandtussenpunten\Afstandtussenpunten\obj\Debug\net5.0\ref\Afstandtussenpunten.dll
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Afstandtussenpunten\Afstandtussenpunten\obj\Debug\net5.0\Afstandtussenpunten.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\programeren\Programmeren Oefeningen\D14\Afstandtussenpunten\Afstandtussenpunten\obj\Debug\net5.0\Afstandtussenpunten.genruntimeconfig.cache
