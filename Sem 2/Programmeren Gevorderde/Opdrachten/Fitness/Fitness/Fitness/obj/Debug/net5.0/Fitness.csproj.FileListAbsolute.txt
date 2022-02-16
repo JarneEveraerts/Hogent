@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Fitness\Fitness\Fitness\bin\Debug\net5.0\Fitness.exe
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Fitness\Fitness\Fitness\bin\Debug\net5.0\Fitness.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Fitness\Fitness\Fitness\bin\Debug\net5.0\Fitness.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Fitness\Fitness\Fitness\bin\Debug\net5.0\Fitness.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Fitness\Fitness\Fitness\bin\Debug\net5.0\Fitness.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Fitness\Fitness\Fitness\bin\Debug\net5.0\ref\Fitness.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Fitness\Fitness\Fitness\bin\Debug\net5.0\Fitness.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Fitness\Fitness\Fitness\obj\Debug\net5.0\Fitness.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Fitness\Fitness\Fitness\obj\Debug\net5.0\Fitness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Fitness\Fitness\Fitness\obj\Debug\net5.0\Fitness.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Fitness\Fitness\Fitness\obj\Debug\net5.0\Fitness.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Fitness\Fitness\Fitness\obj\Debug\net5.0\Fitness.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Fitness\Fitness\Fitness\obj\Debug\net5.0\Fitness.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Fitness\Fitness\Fitness\obj\Debug\net5.0\ref\Fitness.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Fitness\Fitness\Fitness\obj\Debug\net5.0\Fitness.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Fitness\Fitness\Fitness\obj\Debug\net5.0\Fitness.genruntimeconfig.cache

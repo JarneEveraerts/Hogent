@@ -1,0 +1,112 @@
+Fred apples 20
+Susy oranges 5
+Mark watermellons 12
+Robert pears 4
+Roboberrrt peeeaaaars 4
+Brad pears 5
+Terry lemons 9
+Fr.d oranges 33
+Lisa peaches 7
+Mr Freddy mELloN8
+Suzy.oranges
+oranges+ Suzy
+Mark grapes 39
+Anne mangoes 7
+Greg pineapples 3
+Oliver rockmellons 2
+betty	limes	14
+iiXii ooXoo iiXoo ioXio abXba
+bla \1 bla
+!"#$%&'()*+,-./0123456789:;<=>?@
+ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`
+abcdefghijklmnopqrstuvwxyz{|}~
+¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿
+ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞß
+àáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ
+
+0.0.0.0
+1.2.3.4
+8.8.8.8
+127.0.0.1
+192.168.1.35
+123.123.123.123
+100.123.123.123
+123.123.0.123
+255.255.255.255
+
+299.299.299.299
+999.999.999.999
+
+5555555555.5555555555555555.555555555.55555555555555
+192.16..1.35
+192.161.35
+123.123.023.123
+123.123.03.123
+192.168.1.35.7
+aa192.168.1.35
+192.168.1.35aa
+
+76-19-84-54-BA-83
+D4-54-8B-E3-FC-FF
+00-50-56-C0-00-08
+
+00-50-56-C0-0d-08
+D@-54-8B-E3-FC-FF
+D4-5:-8B-E3-FC-FF
+D|-53-8B-E3-FC-FF
+ZZ-53-8B-E3-FC-FF
+76-1_-84-54-BA-83
+1\-53-8B-E3-FC-FF
+00-5-56-C0-00-08
+0050-56-C0-00-08
+00.50-56-C0-00-08
+00-50-56-C0-00-08a
+-50-56-C0-00-08
+50-56-C0-00-08
+
+ab-c@cde.fgh
+ab.c2@cde.fgh
+1abc@cde.fgh
+aB.c2@cde.fgh
+-aB.c2@cde.fgh
+jan.desmet@stadhuis.antwerpen
+bla bla abc@cde.fgh en ggg@cde.fgh.
+bla bla (abc@cde.fgh, ggg@cde.fgh)
+
+http://RegExr.com
+http://RegExr.com/
+http://RegExr.com/aa
+http://RegExr.com/aa/
+http://RegExr.com/aa/b.html
+https://google.us.edi?34535/534534?dfg=g&fg
+http://RegExr.com?2rjl6
+www.google.com
+regexr.com
+gskinner.com
+adobe.com/go/flex
+gskinner.com/products/spl
+
+Ik vind het leuk om te lopen.
+Ik vind het saai om te slapen.
+Ik vind het de max om te programmeren.
+Ik vind het xxx om te yyy.
+
+Ik vind lopen leuk.
+Ik vind slapen saai.
+Ik vind programmeren de max.
+Ik vind yyy xxx.
+
+Oef 1:
+Vervang in één keer alle letters “e” en “i” door een punt.
+Voor: “Als je de klinkers e en i verwijdert, blijft deze tekst nog redelijk goed leesbaar”
+Na: “Als j. d. kl.nk.rs . .n . v.rw.jd.rt, bl.jft d.z. t.kst nog r.d.l.jk go.d l..sbaar”
+
+Oef 2:
+Verwissel iedere 2 woorden onderling van plaats.
+Voor: “Ook als je de woorden verwisselt, lukt het nog min of meer.”
+Na: “als Ook de je verwisselt woorden, het lukt min nog meer of.”
+
+Oef 3:
+Vervang in één keer alle woorden die starten met “www.” door een hyperlink.
+Voor: “Meer info vind je op www.gamma.be en www.hubo.be!”
+Na: “Meer info vind je op <a href="http://www.gamma.be/">www.gamma.be</a> en <a href="http://www.hubo.be/">www.hubo.be</a>!”
