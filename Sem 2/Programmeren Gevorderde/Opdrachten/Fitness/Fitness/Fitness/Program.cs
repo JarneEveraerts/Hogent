@@ -31,23 +31,30 @@ namespace Fitness
                 {
                     switch (invoer)
                     {
-                        case "1": KlantNr(); break;
-                        case "2": Date(sessions); break;
+                        case "1": Console.Clear(); KlantNr(sessions); break;
+                        case "2": Console.Clear(); Date(sessions); break;
                     }
                     invoer = Input();
                 }
             }
         }
 
-        private static void KlantNr()
+        private static void KlantNr(List<string> values)
         {
+            string nr = checkKlant();
+            checkData(values, nr);
         }
 
         private static void Date(List<string> values)
         {
-            List<Session> session = new List<Session>();
             string date = checkDate();
-            IEnumerable<string> query = values.Where(value => value.Contains(date));
+            checkData(values, date);
+        }
+
+        private static void checkData(List<string> values, string data)
+        {
+            List<Session> session = new List<Session>();
+            IEnumerable<string> query = values.Where(value => value.Contains(data));
             int currentSesh = 0;
             int i = -1;
             foreach (string value in query)
@@ -64,14 +71,46 @@ namespace Fitness
                     session.Add(new Session(value));
                 }
             }
-            foreach (Session sesh in session)
+            displayData(session);
+        }
+
+        private static void displayData(List<Session> session)
+        {
+            if (session.Count != 0)
             {
-                Console.WriteLine($"Sessie: {sesh.SessieNr}, Date: {sesh.Date}, Klant: {sesh.KlantId}, Snelheid: {sesh.AVGSpeed} Duur: {sesh.TotTime}, Intervals: {sesh.Seqnr.Count}");
-                for (int j = 0; j < sesh.Seqnr.Count; j++)
+                foreach (Session sesh in session)
                 {
-                    Console.WriteLine($"   SeqNr: {sesh.Seqnr[j]}, Snelheid: {sesh.SeqSpeed[j]} , Duur:");
+                    Console.WriteLine($"Sessie: {sesh.SessieNr}, Date: {sesh.Date}, Klant: {sesh.KlantId}, Snelheid: {sesh.AVGSpeed} Duur: {sesh.TotTime}, Intervals: {sesh.Seqnr.Count}");
+                    for (int j = 0; j < sesh.Seqnr.Count; j++)
+                    {
+                        Console.WriteLine($"   SeqNr: {sesh.Seqnr[j]}, Snelheid: {sesh.SeqSpeed[j]} , Duur:");
+                    }
                 }
             }
+            else
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Geen sessie gevonden");
+                Console.ForegroundColor = ConsoleColor.Green;
+            }
+        }
+
+        private static string checkKlant()
+        {
+            bool check = false;
+            string input = "";
+            while (!check)
+            {
+                Console.WriteLine("Geef een klantnr in");
+                input = Console.ReadLine().Trim();
+                check = int.TryParse(input, out int output);
+                if (!check)
+                {
+                    ErrorInput();
+                }
+            }
+            input = "'," + input;
+            return input;
         }
 
         private static string checkDate()

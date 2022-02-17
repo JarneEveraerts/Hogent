@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2bae7a2e-355c-43c7-8d0a-8cac3fe2224f": {
+      "ProjectGuid": "2bae7a2e-355c-43c7-8d0a-8cac3fe2224f",
+      "DisplayName": "Cui",
+      "ColorIndex": 0
+    },
+    "a3f9e455-8da0-488e-bbf9-d890753a7e3d": {
+      "ProjectGuid": "a3f9e455-8da0-488e-bbf9-d890753a7e3d",
+      "DisplayName": "CuiMet3Subklasses",
+      "ColorIndex": 1
+    },
+    "c4e76b84-16fc-4248-81ce-f46c1c2d7c48": {
+      "ProjectGuid": "c4e76b84-16fc-4248-81ce-f46c1c2d7c48",
+      "DisplayName": "CuiMetPolymorfisme",
+      "ColorIndex": 2
+    },
+    "e1351e1a-bb8f-4ab1-ae51-5b4acd47f264": {
+      "ProjectGuid": "e1351e1a-bb8f-4ab1-ae51-5b4acd47f264",
+      "DisplayName": "Domein",
+      "ColorIndex": 3
+    },
+    "58c466d7-c0be-4ca6-b69e-099622604172": {
+      "ProjectGuid": "58c466d7-c0be-4ca6-b69e-099622604172",
+      "DisplayName": "ZonderOvererving",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

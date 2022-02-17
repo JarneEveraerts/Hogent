@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Domein/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Domein.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domein.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Domein/1.0.0": {
+      "type": "project",
+      "path": "../Domein/Domein.csproj",
+      "msbuildProject": "../Domein/Domein.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Domein >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\evera\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 2\\Programmeren Gevorderde\\Voorbeeld\\HondEnKat\\Cui\\Cui.csproj",
+      "projectName": "Cui",
+      "projectPath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 2\\Programmeren Gevorderde\\Voorbeeld\\HondEnKat\\Cui\\Cui.csproj",
+      "packagesPath": "C:\\Users\\evera\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 2\\Programmeren Gevorderde\\Voorbeeld\\HondEnKat\\Cui\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\evera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 2\\Programmeren Gevorderde\\Voorbeeld\\HondEnKat\\Domein\\Domein.csproj": {
+              "projectPath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 2\\Programmeren Gevorderde\\Voorbeeld\\HondEnKat\\Domein\\Domein.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
