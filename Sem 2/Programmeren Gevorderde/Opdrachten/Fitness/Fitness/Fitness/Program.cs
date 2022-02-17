@@ -83,7 +83,7 @@ namespace Fitness
                     Console.WriteLine($"Sessie: {sesh.SessieNr}, Date: {sesh.Date}, Klant: {sesh.KlantId}, Snelheid: {sesh.AVGSpeed} Duur: {sesh.TotTime}, Intervals: {sesh.Seqnr.Count}");
                     for (int j = 0; j < sesh.Seqnr.Count; j++)
                     {
-                        Console.WriteLine($"   SeqNr: {sesh.Seqnr[j]}, Snelheid: {sesh.SeqSpeed[j]} , Duur:");
+                        Console.WriteLine($"   SeqNr: {sesh.Seqnr[j]}, Snelheid: {sesh.SeqSpeed[j]} , Duur: {sesh.SeqTime[j]}");
                     }
                 }
             }
@@ -170,7 +170,7 @@ namespace Fitness
 
         private static string Input()
         {
-            Menu();
+            PrintMenu();
             bool checkInt = false;
             string input = "";
             bool check = false;
@@ -211,7 +211,7 @@ namespace Fitness
             Console.ForegroundColor = ConsoleColor.Green;
         }
 
-        private static void Menu()
+        private static void PrintMenu()
         {
             Console.WriteLine("****************************************");
             Console.WriteLine("* hoe wilt u de sessies opzoeken (NR): *");
