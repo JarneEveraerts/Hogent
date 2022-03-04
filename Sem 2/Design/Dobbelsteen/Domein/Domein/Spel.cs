@@ -26,6 +26,7 @@ namespace Domein
                 d.Rol();
                 huidigeworp += d.AantalOgen;
             }
+            BepaalScore(huidigeworp);
             BepaalEersteWorp(huidigeworp);
         }
 
@@ -64,7 +65,13 @@ namespace Domein
 
         public int GeefAantalOgenWorp()
         {
-            throw new System.NotImplementedException("Not implemented");
+            int huidigeWorp = 0;
+            foreach (Dobbelsteen d in _dobbelStenen)
+            {
+                huidigeWorp += d.AantalOgen;
+            }
+
+            return huidigeWorp;
         }
 
         public int GeefScore()
