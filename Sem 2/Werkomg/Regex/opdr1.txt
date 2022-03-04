@@ -1,0 +1,79 @@
+                 ==================
+                 OPDRACHT 1 : REGEX
+                 ==================
+        (persoonlijke opgave met code 09ef9b)
+
+Instructies:
+============
+- Download dit bestand en sla het op onder de naam "opdr1.txt".
+- Open het bestand met een TEKST-editor (NIET met Word).
+- Vul de antwoorden in op de lijnen die starten met "ANTW1", "ANTW2", enz.
+  (Enkel de tekst op de voorziene lijnen zal verwerkt worden, de rest wordt genegeerd.)
+- Upload het bestand "opdr1.txt" VOOR zaterdag 26 februari om 22u
+  via Chamilo >> Dig.Werkomg.WS2 >> Opdrachtende >> opdr1-regex.
+
+Tips:
+=====
+- Bekijk eerst nog eens '1-regex-cursus.pdf' (en '1-regex-demofile.txt').
+- CONTROLEER alle antwoorden die je hieronder ingeeft met Visual Studio Code !!!
+
+Vraag 1:
+========
+Geef 3 strings die matchen met onderstaande reguliere expressie.
+De 3 strings moeten verschillend zijn EN ze moeten zo kort mogelijk zijn.
+
+REGEX1=^d[pm]?n$
+
+ANTW1a=dpn
+ANTW1b=dmn
+ANTW1c=dn
+
+Vraag 2:
+========
+Geef 3 strings die matchen met onderstaande reguliere expressie.
+De 3 strings moeten verschillend zijn EN ze moeten zo kort mogelijk zijn.
+
+REGEX2=^z(u?)\1ae+$
+zuuaee
+ANTW2a=zae
+ANTW2b=zuuae
+ANTW2c=zuuaee
+
+Vraag 3:
+========
+Geef 3 strings die matchen met onderstaande reguliere expressie.
+De 3 strings moeten verschillend zijn EN ze moeten zo kort mogelijk zijn.
+
+REGEX3=^[c^]|v$
+
+ANTW3a=v
+ANTW3b=c
+ANTW3c=
+
+Vraag 4:
+========
+Geef 1 enkele reguliere expressie voor het vinden van onderstaande 2 strings.
+De reguliere expressie mag met GEEN ENKELE andere string matchen.
+STRING1=pppkmnnnnn
+STRING2=pppnnnnn
+
+Opgelet:
+Het is de bedoeling dat je in de RegEx verschillende dingen uit de cheat sheet toepast.
+De oplossing ^pppkmnnnnn|pppnnnnn$ zal daarom NIET goedgekeurd worden, wegens te eenvoudig.
+(In 'het echte leven' is deze eenvoudige oplossing voldoende goed, maar als oefening op REs niet.)
+
+ANTW4=^p{3}(|km)n{5}
+
+Vraag 5:
+========
+Geef een find/replace-expressie die in 1 keer alle strings die met "www" beginnen en uit 3 delen bestaan
+(bvb. "www.blabla.blabla") vervangt door een hyperlink (in HTML). Vervang bijvoorbeeld:
+"Meer info vind je op www.gamma.be en www.hubo.be!" door
+"Meer info vind je op <a href="http://www.gamma.be/">www.gamma.be</a> en <a href="http://www.hubo.be/">www.hubo.be</a>!"
+
+ANTW5-FIND=w{3}[\.][a-z]*[\.][a-z]*
+ANTW5-REPLACE=<a href="http://"$&">$&</a>
+
+
+Veel succes,
+en verlies de deadline niet uit het oog.

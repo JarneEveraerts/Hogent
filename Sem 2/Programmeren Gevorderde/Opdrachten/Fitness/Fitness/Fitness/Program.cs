@@ -17,12 +17,8 @@ namespace Fitness
                 {
                     var line = reader.ReadLine();
                     line = line.Replace("insert into runningsession values(", "");
-                    line = line.Replace(")", "");
-                    var values = line.Split(';');
-                    foreach (var value in values)
-                    {
-                        sessions.Add(value);
-                    }
+                    line = line.Replace(");", "");
+                    sessions.Add(line);
                 }
                 string invoer = "";
                 invoer = Input();

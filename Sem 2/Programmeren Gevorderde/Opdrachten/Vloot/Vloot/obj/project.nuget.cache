@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Le3E3sDCOdoDFjV2kvgFh4ALJECpDAV4Asqgau5F9cFn2LkqDInFLBQde1L3RU+NArKv4bcdYX1F24DHMs67Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 2\\Programmeren Gevorderde\\Opdrachten\\Fitness\\Vloot\\Vloot\\Vloot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

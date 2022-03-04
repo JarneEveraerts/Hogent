@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\OI\Straatnamen\obj\Debug\net6.0\Straatnamen.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\OI\Straatnamen\obj\Debug\net6.0\Straatnamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\OI\Straatnamen\obj\Debug\net6.0\Straatnamen.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\OI\Straatnamen\obj\Debug\net6.0\Straatnamen.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\OI\Straatnamen\obj\Debug\net6.0\Straatnamen.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\OI\Straatnamen\bin\Debug\net6.0\Straatnamen.exe
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\OI\Straatnamen\bin\Debug\net6.0\Straatnamen.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\OI\Straatnamen\bin\Debug\net6.0\Straatnamen.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\OI\Straatnamen\bin\Debug\net6.0\Straatnamen.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\OI\Straatnamen\bin\Debug\net6.0\ref\Straatnamen.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\OI\Straatnamen\bin\Debug\net6.0\Straatnamen.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\OI\Straatnamen\obj\Debug\net6.0\Straatnamen.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\OI\Straatnamen\obj\Debug\net6.0\ref\Straatnamen.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\OI\Straatnamen\obj\Debug\net6.0\Straatnamen.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\OI\Straatnamen\obj\Debug\net6.0\Straatnamen.genruntimeconfig.cache
