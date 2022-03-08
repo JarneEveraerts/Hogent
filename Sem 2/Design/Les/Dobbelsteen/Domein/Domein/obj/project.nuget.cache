@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8UTZeS6LeXvdWIS2jO9aH3qqK0QBc0tNZhQ4iUM2ErYqOMbPPWh63NIRrT7AEUbjWdqoySXxPb5Ka5LAcHQqaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 2\\Design\\Dobbelsteen\\Domein\\Domein\\Domein.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
