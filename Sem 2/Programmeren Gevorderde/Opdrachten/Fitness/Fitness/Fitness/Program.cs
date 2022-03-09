@@ -2,6 +2,8 @@
 using System.IO;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
+using System.Runtime.Serialization;
 
 namespace Fitness
 {
@@ -9,17 +11,27 @@ namespace Fitness
     {
         private static void Main(string[] args)
         {
+            File.Delete("error.txt");
             List<string> sessions = new List<string>();
+            List<string> error = new List<string>();
             Console.ForegroundColor = ConsoleColor.Green;
-            using (var reader = new StreamReader(@"C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Fitness\fitness_data.sql"))
+            using (var reader = new StreamReader("fitness_data.sql"))
             {
                 while (!reader.EndOfStream)
                 {
                     var line = reader.ReadLine();
                     line = line.Replace("insert into runningsession values(", "");
                     line = line.Replace(");", "");
-                    sessions.Add(line);
+                    if (check(line))
+                    {
+                        sessions.Add(line);
+                    }
+                    else
+                    {
+                        error.Add(line);
+                    }
                 }
+                ignore(error.ToArray());
                 string invoer = "";
                 invoer = Input();
 
@@ -136,22 +148,25 @@ namespace Fitness
             return input;
         }
 
-        private bool Check(string[] split)
+        private static bool check(string line)
         {
+            string[] split = line.Split(",");
+            split[4] = split[4].Replace(".", ",");
+            split[7] = split[7].Replace(".", ",");
             bool check = false;
             if (int.Parse(split[0]) > 0)
             {
                 if (int.Parse(split[2]) > 0)
                 {
-                    if (int.Parse(split[3]) > 5 && int.Parse(split[3]) < 180)
+                    if (int.Parse(split[3]) > 5 & int.Parse(split[3]) < 181)
                     {
-                        if (int.Parse(split[4]) > 5 && int.Parse(split[4]) < 22)
+                        if (double.Parse(split[4]) > 5 & double.Parse(split[4]) < 22)
                         {
                             if (int.Parse(split[5]) > 0)
                             {
-                                if (int.Parse(split[6]) > 5 && int.Parse(split[6]) < 10800)
+                                if (int.Parse(split[6]) > 5 & int.Parse(split[6]) < 10800)
                                 {
-                                    if (int.Parse(split[7]) > 5 && int.Parse(split[7]) < 22)
+                                    if (double.Parse(split[7]) > 5 & double.Parse(split[7]) < 22)
                                     {
                                         check = true;
                                     }
@@ -162,6 +177,21 @@ namespace Fitness
                 }
             }
             return check;
+        }
+
+        private static void ignore(string[] line)
+        {
+            // Create a file to write to.
+            using (StreamWriter sw = File.CreateText("error.txt"))
+            {
+                sw.WriteLine("All lines that got ignored");
+                sw.WriteLine();
+                sw.WriteLine();
+                foreach (string error in line)
+                {
+                    sw.WriteLine(error);
+                }
+            }
         }
 
         private static string Input()
