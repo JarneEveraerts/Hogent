@@ -1,0 +1,16 @@
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Design\Opdrachten\Jackpot\jackpot\jackpot\bin\Debug\net5.0\jackpot.exe
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Design\Opdrachten\Jackpot\jackpot\jackpot\bin\Debug\net5.0\jackpot.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Design\Opdrachten\Jackpot\jackpot\jackpot\bin\Debug\net5.0\jackpot.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Design\Opdrachten\Jackpot\jackpot\jackpot\bin\Debug\net5.0\jackpot.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Design\Opdrachten\Jackpot\jackpot\jackpot\bin\Debug\net5.0\jackpot.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Design\Opdrachten\Jackpot\jackpot\jackpot\bin\Debug\net5.0\ref\jackpot.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Design\Opdrachten\Jackpot\jackpot\jackpot\bin\Debug\net5.0\jackpot.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Design\Opdrachten\Jackpot\jackpot\jackpot\obj\Debug\net5.0\jackpot.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Design\Opdrachten\Jackpot\jackpot\jackpot\obj\Debug\net5.0\jackpot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Design\Opdrachten\Jackpot\jackpot\jackpot\obj\Debug\net5.0\jackpot.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Design\Opdrachten\Jackpot\jackpot\jackpot\obj\Debug\net5.0\jackpot.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Design\Opdrachten\Jackpot\jackpot\jackpot\obj\Debug\net5.0\jackpot.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Design\Opdrachten\Jackpot\jackpot\jackpot\obj\Debug\net5.0\jackpot.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Design\Opdrachten\Jackpot\jackpot\jackpot\obj\Debug\net5.0\ref\jackpot.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Design\Opdrachten\Jackpot\jackpot\jackpot\obj\Debug\net5.0\jackpot.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Design\Opdrachten\Jackpot\jackpot\jackpot\obj\Debug\net5.0\jackpot.genruntimeconfig.cache

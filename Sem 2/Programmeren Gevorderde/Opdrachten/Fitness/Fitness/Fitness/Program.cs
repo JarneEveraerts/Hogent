@@ -117,7 +117,7 @@ namespace Fitness
                     ErrorInput();
                 }
             }
-            input = "'," + input;
+            input = "'," + input + ",";
             return input;
         }
 

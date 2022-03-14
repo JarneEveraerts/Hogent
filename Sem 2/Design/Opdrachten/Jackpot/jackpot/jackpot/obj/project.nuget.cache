@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bf9Yc7pgLnTSnhT3E+CTATWZRjyLlavFLOob8b7ggpmpdBhDqQRJkD4P6KSHScho6Gg/NCpMXa/zjeSzGCrDWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 2\\Design\\Opdrachten\\Jackpot\\jackpot\\jackpot\\jackpot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
