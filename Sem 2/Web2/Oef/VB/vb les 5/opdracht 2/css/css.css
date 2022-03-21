@@ -1,0 +1,10 @@
+p {
+  padding: 30px;
+  background-color: gray;
+}
+.belangrijk {
+  font-weight: bold;
+}
+.opvallend {
+  color: red;
+}

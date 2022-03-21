@@ -1,0 +1,36 @@
+.colorDemo {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  background-color: white;
+}
+.slider {
+  width: 255px;
+  border: 1px solid black;
+  background-color: gray;
+  -webkit-appearance: none; /* Override default CSS styles */
+  border-radius: 25px;
+  background: #d3d3d3; /* Grey background */
+  outline: none; /* Remove outline */
+  opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
+  -webkit-transition: 0.2s; /* 0.2 seconds transition on hover */
+  transition: opacity 0.2s;
+}
+.slider::-webkit-slider-thumb {
+  border-radius: 25px;
+  -webkit-appearance: none; /* Override default look */
+  appearance: none;
+  width: 25px; /* Set a specific slider handle width */
+  height: 25px; /* Slider handle height */
+  background: #04aa6d; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}
+#red::-webkit-slider-thumb {
+  background: red; /* Green background */
+}
+#green::-webkit-slider-thumb {
+  background: green; /* Green background */
+}
+#blue::-webkit-slider-thumb {
+  background: blue; /* Green background */
+}
