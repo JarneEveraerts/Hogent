@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "26586852-0698-42db-a5ee-407f3bef0581": {
+      "ProjectGuid": "26586852-0698-42db-a5ee-407f3bef0581",
+      "DisplayName": "Palindroom.Domain",
+      "ColorIndex": 0
+    },
+    "0d196f94-deab-4c99-9508-c86aa2106306": {
+      "ProjectGuid": "0d196f94-deab-4c99-9508-c86aa2106306",
+      "DisplayName": "Palindroom.XTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

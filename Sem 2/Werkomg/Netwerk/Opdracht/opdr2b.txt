@@ -1,0 +1,59 @@
+               ======================
+               OPDRACHT 2 : SUBNETTEN
+                      2de kans
+               ======================
+        (persoonlijke opgave met code 09ef9b)
+
+Instructies:
+============
+- Download dit bestand en sla het op onder de naam "opdr2b.txt".
+- Open het bestand met een TEKST-editor (NIET met Word).
+- Vul de antwoorden in op de lijnen die starten met "ANTW1", "ANTW2", enz.
+  (Enkel de tekst op de voorziene lijnen zal verwerkt worden, de rest wordt genegeerd.)
+- Upload het bestand "opdr2b.txt" VOOR donderdag 24 maart om 22u
+  via Chamilo >> Dig.Werkomg.WS2 >> Opdrachten >> opdr2b-subnet.
+
+Tip:
+====
+- Bekijk eerst nog eens '2-netwerken-cursus.pdf' (sectie 3.1 en 3.2).
+
+Opgave 1:
+========
+Het IP-adres van een host is 10.232.181.197.
+De host zit in een subnet waarbij het HOST-gedeelte uit 12 bits bestaat.
+(Er zijn dus 4094 (= 2^12 - 2) verschillende IP-adressen beschikbaar in dit subnet.)
+
+a) Geef de subnet mask die bij dit subnet hoort.
+ANTW1a=	255.255.240.0
+
+b) Geef het netwerk-adres (de naam van het subnet) in CIDR-notatie.
+ANTW1b=	10.232.176.0/20
+
+c) Geef het broadcast-IP-adres voor dit subnet.
+ANTW1c=	10.232.191.255
+
+d) Zit 10.232.165.197 in hetzelfde subnet? (ja/nee)
+ANTW1d= ja
+
+
+Opgave 2:
+========
+Het IP-adres van een host is 10.190.176.181.
+De host zit in een subnet waarbij het HOST-gedeelte uit 5 bits bestaat.
+(Er zijn dus 30 (= 2^5 - 2) verschillende IP-adressen beschikbaar in dit subnet.)
+
+a) Geef de subnet mask die bij dit subnet hoort.
+ANTW2a=	255.255.255.128
+
+b) Geef het netwerk-adres (de naam van het subnet) in CIDR-notatie.
+ANTW2b=	10.190.176.128/25
+
+c) Geef het broadcast-IP-adres voor dit subnet.
+ANTW2c=	10.190.176.255
+
+d) Zit 10.190.176.165 in hetzelfde subnet? (ja/nee)
+ANTW2d= ja
+
+
+Veel succes,
+en verlies de deadline niet uit het oog.

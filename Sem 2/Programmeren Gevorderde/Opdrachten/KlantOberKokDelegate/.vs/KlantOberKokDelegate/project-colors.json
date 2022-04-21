@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bd57a55c-6623-4788-a436-34224975678f": {
+      "ProjectGuid": "bd57a55c-6623-4788-a436-34224975678f",
+      "DisplayName": "KlantOberKok",
+      "ColorIndex": 0
+    },
+    "df45b136-a57f-49ab-b63d-9e94072681a0": {
+      "ProjectGuid": "df45b136-a57f-49ab-b63d-9e94072681a0",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "2aa50688-95a4-43e3-bfb8-88f3471f4ce9": {
+      "ProjectGuid": "2aa50688-95a4-43e3-bfb8-88f3471f4ce9",
+      "DisplayName": "DomainTests",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

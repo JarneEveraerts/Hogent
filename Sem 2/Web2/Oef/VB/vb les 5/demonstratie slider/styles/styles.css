@@ -3,6 +3,7 @@
   height: 100px;
   border: 1px solid black;
   background-color: white;
+  align-self: flex-end;
 }
 .slider {
   width: 255px;
@@ -33,4 +34,18 @@
 }
 #blue::-webkit-slider-thumb {
   background: blue; /* Green background */
+}
+#wrap {
+  width: 500px;
+  border: 5px;
+  border-style: solid;
+  border-color: lightgray;
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1em;
+  gap: 30px;
+}
+#rgb {
+  align-self: flex-end;
 }

@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Winkelbeheer\Winkelbeheer\bin\Debug\net6.0\Winkelbeheer.exe
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Winkelbeheer\Winkelbeheer\bin\Debug\net6.0\Winkelbeheer.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Winkelbeheer\Winkelbeheer\bin\Debug\net6.0\Winkelbeheer.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Winkelbeheer\Winkelbeheer\bin\Debug\net6.0\Winkelbeheer.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Winkelbeheer\Winkelbeheer\bin\Debug\net6.0\ref\Winkelbeheer.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Winkelbeheer\Winkelbeheer\bin\Debug\net6.0\Winkelbeheer.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Winkelbeheer\Winkelbeheer\obj\Debug\net6.0\Winkelbeheer.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Winkelbeheer\Winkelbeheer\obj\Debug\net6.0\Winkelbeheer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Winkelbeheer\Winkelbeheer\obj\Debug\net6.0\Winkelbeheer.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Winkelbeheer\Winkelbeheer\obj\Debug\net6.0\Winkelbeheer.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Winkelbeheer\Winkelbeheer\obj\Debug\net6.0\Winkelbeheer.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Winkelbeheer\Winkelbeheer\obj\Debug\net6.0\Winkelbeheer.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Winkelbeheer\Winkelbeheer\obj\Debug\net6.0\ref\Winkelbeheer.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Winkelbeheer\Winkelbeheer\obj\Debug\net6.0\Winkelbeheer.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Winkelbeheer\Winkelbeheer\obj\Debug\net6.0\Winkelbeheer.genruntimeconfig.cache

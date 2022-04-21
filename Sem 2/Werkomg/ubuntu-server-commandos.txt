@@ -1,0 +1,68 @@
+exit = log u uit
+poweroff = proper afsluiten
+reboot = proper reboten
+apt = laat alle commandos zien
+apt list = laat alles van packages zien
+apt list | wc = telt de woorden lijnen en characters van apt list. wc = word count
+| => het eerste output naar de 2de output brengen
+
+|more = laat hij de eerste regels zien op het scherm + axtra lijenen
+  van de volgende inputs. enter/spatie/q q betekend stop
+
+|less = zelfde als more maar je kan omhoog en omlaag met pijltjes en links en rechts
+ ctrl + f = vooruit. ctrl + b = achteruit
+ / + zoekpatroon = opzoeken, 'n' is voor volgende, 'N' is voor vorige
+
+ctrl + c = onderbreekt de running code
+ctrl + a = 1ste pos van ingave
+ctrl + e = laatste pos van ingave
+
+apt list --installed = laat al het installed zien
+
+pijltjes omhoog en omlaag
+
+!TAB zeer handig
+2x tab laat al de keuzes zien van de invoer
+
+|grep + zoekpatroon = laat al de gegevens ineens zien met het zoekpatroon
+ -P =>
+ -i => p en i voor regex
+
+apt update = update en download van u computer
+sudo <commando> = suddo betekend supper user (nooit altijd sudo gebruiken. of alles word sudo)
+apt upgrade = past de software aan dat gedownload is van de update
+
+ssh-server installeren
+sudo apt install openssh-server
+
+ip a = voor ip zoeken
+
+windows:
+netstat -n -a
+
+ubuntu:
+nestat -n -l -t => -t betekend enkel TCP connecties en geen UDP 
+			 -u enkel UDP
+
+
+om in te loggen in cmd
+ssh -p2 nick@127.0.0.1 
+(-p2 is voor de poort 2 te nemen)
+
+rechter muisklik voor copy paste in cmd/sshµ
+
+{commando} --help = laat info zien van de command
+man {commando} = laat manual zien      ==> /{zoekword} = zoeken in de manual
+
+tldr is man maar ingekort en versimpeld
+
+
+
+
+
+
+pwd => working directory te laten zien
+cd => change directory
+ls => list van files en directorys 
+less => inhoud van bestanden zien
+

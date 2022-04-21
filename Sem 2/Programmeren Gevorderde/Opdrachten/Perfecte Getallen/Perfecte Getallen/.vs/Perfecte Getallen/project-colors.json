@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4be3c46c-b74f-4f7c-b84d-a1d95a1bac2d": {
+      "ProjectGuid": "4be3c46c-b74f-4f7c-b84d-a1d95a1bac2d",
+      "DisplayName": "Perfecte Getallen",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

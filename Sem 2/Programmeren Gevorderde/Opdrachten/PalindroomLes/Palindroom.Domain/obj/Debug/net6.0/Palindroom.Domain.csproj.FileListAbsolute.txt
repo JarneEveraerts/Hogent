@@ -1,0 +1,12 @@
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\PalindroomLes\Palindroom.Domain\bin\Debug\net6.0\Palindroom.Domain.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\PalindroomLes\Palindroom.Domain\bin\Debug\net6.0\Palindroom.Domain.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\PalindroomLes\Palindroom.Domain\bin\Debug\net6.0\ref\Palindroom.Domain.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\PalindroomLes\Palindroom.Domain\bin\Debug\net6.0\Palindroom.Domain.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\PalindroomLes\Palindroom.Domain\obj\Debug\net6.0\Palindroom.Domain.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\PalindroomLes\Palindroom.Domain\obj\Debug\net6.0\Palindroom.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\PalindroomLes\Palindroom.Domain\obj\Debug\net6.0\Palindroom.Domain.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\PalindroomLes\Palindroom.Domain\obj\Debug\net6.0\Palindroom.Domain.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\PalindroomLes\Palindroom.Domain\obj\Debug\net6.0\Palindroom.Domain.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\PalindroomLes\Palindroom.Domain\obj\Debug\net6.0\Palindroom.Domain.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\PalindroomLes\Palindroom.Domain\obj\Debug\net6.0\ref\Palindroom.Domain.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\PalindroomLes\Palindroom.Domain\obj\Debug\net6.0\Palindroom.Domain.pdb

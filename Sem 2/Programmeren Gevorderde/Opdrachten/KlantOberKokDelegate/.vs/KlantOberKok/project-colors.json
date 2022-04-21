@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "df45b136-a57f-49ab-b63d-9e94072681a0": {
+      "ProjectGuid": "df45b136-a57f-49ab-b63d-9e94072681a0",
+      "DisplayName": "BusinessLayer",
+      "ColorIndex": 0
+    },
+    "2aa50688-95a4-43e3-bfb8-88f3471f4ce9": {
+      "ProjectGuid": "2aa50688-95a4-43e3-bfb8-88f3471f4ce9",
+      "DisplayName": "BusinessLayerTests",
+      "ColorIndex": 1
+    },
+    "bd57a55c-6623-4788-a436-34224975678f": {
+      "ProjectGuid": "bd57a55c-6623-4788-a436-34224975678f",
+      "DisplayName": "KlantOberKok",
+      "ColorIndex": 2
+    },
+    "5bff9726-5132-4e3a-be4a-1b24d4b68c26": {
+      "ProjectGuid": "5bff9726-5132-4e3a-be4a-1b24d4b68c26",
+      "DisplayName": "LambdaExamples",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
