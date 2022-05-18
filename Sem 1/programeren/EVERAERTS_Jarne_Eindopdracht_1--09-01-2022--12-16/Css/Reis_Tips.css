@@ -1,0 +1,17 @@
+.Mid_Content {
+  height: 100px;
+  width: 100%;
+  margin: 1%;
+  border: #df9b6d 1px solid;
+  border-radius: 25px;
+}
+.Mid_Content_Title {
+  height: 25px;
+  margin-top: 1%;
+  margin-left: 1%;
+}
+.Mid_Content_Text {
+  height: 25px;
+  margin-bottom: 1%;
+  margin-left: 1%;
+}

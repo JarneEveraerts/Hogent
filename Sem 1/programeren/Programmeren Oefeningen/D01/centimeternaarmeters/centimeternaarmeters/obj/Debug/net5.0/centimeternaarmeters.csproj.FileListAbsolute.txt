@@ -14,3 +14,19 @@ C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\centim
 C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\obj\Debug\net5.0\ref\centimeternaarmeters.dll
 C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\obj\Debug\net5.0\centimeternaarmeters.pdb
 C:\Users\evera\OneDrive\Documents\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\obj\Debug\net5.0\centimeternaarmeters.genruntimeconfig.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 1\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\bin\Debug\net5.0\centimeternaarmeters.exe
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 1\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\bin\Debug\net5.0\centimeternaarmeters.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 1\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\bin\Debug\net5.0\centimeternaarmeters.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 1\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\bin\Debug\net5.0\centimeternaarmeters.runtimeconfig.dev.json
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 1\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\bin\Debug\net5.0\centimeternaarmeters.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 1\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\bin\Debug\net5.0\ref\centimeternaarmeters.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 1\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\bin\Debug\net5.0\centimeternaarmeters.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 1\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\obj\Debug\net5.0\centimeternaarmeters.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 1\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\obj\Debug\net5.0\centimeternaarmeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 1\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\obj\Debug\net5.0\centimeternaarmeters.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 1\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\obj\Debug\net5.0\centimeternaarmeters.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 1\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\obj\Debug\net5.0\centimeternaarmeters.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 1\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\obj\Debug\net5.0\centimeternaarmeters.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 1\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\obj\Debug\net5.0\ref\centimeternaarmeters.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 1\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\obj\Debug\net5.0\centimeternaarmeters.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 1\programeren\Programmeren Oefeningen\D01\centimeternaarmeters\centimeternaarmeters\obj\Debug\net5.0\centimeternaarmeters.genruntimeconfig.cache

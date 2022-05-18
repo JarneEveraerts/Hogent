@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\programeren\\Programmeren Oefeningen\\Roman-Arabic Converter\\Roman-Arabic Converter.csproj",
+      "projectUniqueName": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 1\\programeren\\Programmeren Oefeningen\\Roman-Arabic Converter\\Roman-Arabic Converter.csproj",
       "projectName": "Roman-Arabic Converter",
-      "projectPath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\programeren\\Programmeren Oefeningen\\Roman-Arabic Converter\\Roman-Arabic Converter.csproj",
+      "projectPath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 1\\programeren\\Programmeren Oefeningen\\Roman-Arabic Converter\\Roman-Arabic Converter.csproj",
       "packagesPath": "C:\\Users\\evera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\programeren\\Programmeren Oefeningen\\Roman-Arabic Converter\\obj\\",
+      "outputPath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 1\\programeren\\Programmeren Oefeningen\\Roman-Arabic Converter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\evera\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

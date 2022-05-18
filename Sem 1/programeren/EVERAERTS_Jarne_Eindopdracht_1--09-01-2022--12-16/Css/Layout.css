@@ -1,0 +1,222 @@
+html {
+  min-height: 100vh;
+}
+body {
+  color: #efc69b;
+  margin: 0;
+  min-height: 100vh;
+  background-color: #473144;
+}
+.Wrap {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  overflow: visible;
+}
+.Mid_Wrap {
+  width: 80%;
+  font-family: Gogoia;
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  vertical-align: middle;
+  justify-content: center;
+  flex-grow: 1;
+}
+.Head_Wrap {
+  border: #df9b6d 1px solid;
+  border-top: 0px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  background-color: none;
+  position: relative;
+  width: 80%;
+  height: 150px;
+  display: block;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: auto;
+  order: 0;
+}
+.Head_Wrap img {
+  margin-left: 20%;
+  width: 25%;
+  height: 150px;
+  object-fit: fill;
+  align-self: center;
+}
+.Head_Menu {
+  top: -100px;
+  left: 1.5%;
+  align-self: flex-end;
+  position: relative;
+  display: inline-block;
+  border: #df9b6d 1px solid;
+  border-radius: 25px;
+}
+.Head_Menu_Dropdown {
+  color: #efc69b;
+  background: none;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  min-width: 160px;
+}
+.Head_Menu_Dropdown_Content {
+  text-align: center;
+  display: none;
+  position: absolute;
+  border-left: #df9b6d 1px solid;
+  border-right: #df9b6d 1px solid;
+  border-bottom: #df9b6d 1px solid;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  overflow: hidden;
+}
+.Head_Menu_Dropdown_Content a {
+  color: #efc69b;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.Head_Menu:hover {
+  border-bottom: none;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  background: #473144;
+}
+.Head_Menu_Dropdown:hover {
+  color: #df9b6d;
+}
+.Head_Menu_Dropdown_Content a:hover {
+  color: #df9b6d;
+}
+.Head_Menu:hover .Head_Menu_Dropdown_Content {
+  display: block;
+  margin: -1px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  background: #473144;
+}
+.Footer_Wrap {
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border: #df9b6d 1px solid;
+  border-bottom: 0px;
+  width: 80%;
+  height: 150px;
+  display: block;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: center;
+  margin-top: auto;
+  justify-self: flex-end;
+  order: 0;
+}
+.Footer_Left {
+  overflow: hidden;
+  color: #efc69b;
+  display: inline-block;
+  font-family: Gogoia;
+  height: 100%;
+  width: 50%;
+}
+.Footer_Left li {
+  overflow: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  vertical-align: middle;
+  font-size: 110%;
+  list-style: none;
+  margin-left: 10%;
+  height: 33.3%;
+}
+.Footer_Left li img {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  vertical-align: middle;
+  padding-right: 5%;
+  height: 25px;
+  padding-top: 0.83%;
+}
+.Footer_Left li a {
+  text-decoration: none;
+  color: #efc69b;
+}
+.Footer_Left li a:hover {
+  color: #df9b6d;
+}
+.Footer_Right {
+  overflow: hidden;
+  display: inline-block;
+  color: #efc69b;
+  font-family: Gogoia;
+  height: 100%;
+  width: 49%;
+}
+.Footer_Right_Titel {
+  font-size: 100%;
+  margin-top: 1%;
+  height: 10%;
+  width: 60%;
+  margin-left: 20%;
+}
+.Footer_Right_Text {
+  font-size: 65%;
+  margin-top: 1%;
+  height: 50%;
+  width: 60%;
+  margin-left: 20%;
+}
+.Footer_Right_Links {
+  height: 30%;
+  width: 60%;
+  margin-left: 20%;
+}
+.Footer_Right_Links a {
+  height: 100%;
+}
+.Footer_Right_Links img {
+  display: flexbox;
+  align-items: center;
+  height: 25px;
+  padding-top: 2.5%;
+}
+
+@media (min-width: 1200px) {
+  .Footer_Right_Text {
+    font-size: 80%;
+  }
+}
+@font-face {
+  font-family: Gogoia;
+  src: url(../Font/GOGOIA-Regular.ttf);
+}
+@font-face {
+  font-family: GogoiaDeco;
+  src: url(../Font/GOGOIA-Deco.ttf);
+}
+
+/* --hookers-green: #5a716aff;
+--caribbean-green: #DF9B6Dff;
+--isabelline: #f4ebe8ff;
+--english-violet: #453750ff;
+--xiketic: #0c0910ff;
+--dark-purple: #401f3eff;
+--french-bistre: #8c7051ff;
+--dark-sienna: #3b0d11ff; */

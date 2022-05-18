@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\evera\\OneDrive\\Documents\\programeren\\Programmeren Oefeningen\\D01\\centimeternaarmeters\\centimeternaarmeters\\centimeternaarmeters.csproj",
+      "projectUniqueName": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 1\\programeren\\Programmeren Oefeningen\\D01\\centimeternaarmeters\\centimeternaarmeters\\centimeternaarmeters.csproj",
       "projectName": "centimeternaarmeters",
-      "projectPath": "C:\\Users\\evera\\OneDrive\\Documents\\programeren\\Programmeren Oefeningen\\D01\\centimeternaarmeters\\centimeternaarmeters\\centimeternaarmeters.csproj",
+      "projectPath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 1\\programeren\\Programmeren Oefeningen\\D01\\centimeternaarmeters\\centimeternaarmeters\\centimeternaarmeters.csproj",
       "packagesPath": "C:\\Users\\evera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\evera\\OneDrive\\Documents\\programeren\\Programmeren Oefeningen\\D01\\centimeternaarmeters\\centimeternaarmeters\\obj\\",
+      "outputPath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 1\\programeren\\Programmeren Oefeningen\\D01\\centimeternaarmeters\\centimeternaarmeters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\evera\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

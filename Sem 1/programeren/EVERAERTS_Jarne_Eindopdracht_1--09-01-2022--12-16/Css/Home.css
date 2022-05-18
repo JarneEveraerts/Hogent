@@ -1,0 +1,87 @@
+#Mid_Welcome {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../Img/Banner.jpg);
+  width: 100%;
+  height: 200px;
+  margin: 1% 0;
+  border-radius: 25px;
+  overflow: hidden;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#Mid_Welcome_Text {
+  margin-top: 50px;
+  height: 100px;
+  text-align: center;
+  font-size: 1rem;
+}
+#Mid_Welcome_Text b {
+  font-family: GogoiaDeco;
+  font-size: 2rem;
+}
+.Mid_Content {
+  height: 80%;
+  display: flex;
+  flex: 1 0 80%;
+  margin: 1%;
+  flex-direction: column;
+  border-radius: 25px;
+  overflow: hidden;
+  align-items: center;
+  vertical-align: middle;
+  justify-content: center;
+}
+
+.Mid_Content img {
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  height: 200px;
+  width: 80%;
+}
+.Mid_Content_Text {
+  border: #df9b6d 1px solid;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  height: 100px;
+  width: calc(80% - 1px);
+  overflow: hidden;
+}
+.Mid_Content_Text b {
+  left: 2%;
+  top: 1%;
+  position: relative;
+}
+.Mid_Content_Text p {
+  bottom: 3%;
+  left: 2%;
+  position: relative;
+}
+@media (min-width: 890px) {
+  .Mid_Content {
+    flex: 1 0 40%;
+  }
+  #Mid_Welcome_Text {
+    font-size: 1.5rem;
+  }
+  #Mid_Welcome_Text b {
+    font-size: 2.5rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .Mid_Content {
+    flex: 1 0 23%;
+  }
+  #Mid_Welcome_Text {
+    font-size: 1.5rem;
+  }
+  #Mid_Welcome_Text b {
+    font-size: 3rem;
+  }
+}
+
+@font-face {
+  font-family: GogoiaDeco;
+  src: url(../Font/GOGOIA-Deco.ttf);
+}

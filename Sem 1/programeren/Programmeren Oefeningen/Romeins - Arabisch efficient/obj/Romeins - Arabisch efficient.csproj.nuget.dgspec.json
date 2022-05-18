@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\programeren\\Programmeren Oefeningen\\Romeins - Arabisch efficient\\Romeins - Arabisch efficient.csproj": {}
+    "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 1\\programeren\\Programmeren Oefeningen\\Romeins - Arabisch efficient\\Romeins - Arabisch efficient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\programeren\\Programmeren Oefeningen\\Romeins - Arabisch efficient\\Romeins - Arabisch efficient.csproj": {
+    "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 1\\programeren\\Programmeren Oefeningen\\Romeins - Arabisch efficient\\Romeins - Arabisch efficient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\programeren\\Programmeren Oefeningen\\Romeins - Arabisch efficient\\Romeins - Arabisch efficient.csproj",
+        "projectUniqueName": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 1\\programeren\\Programmeren Oefeningen\\Romeins - Arabisch efficient\\Romeins - Arabisch efficient.csproj",
         "projectName": "Romeins - Arabisch efficient",
-        "projectPath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\programeren\\Programmeren Oefeningen\\Romeins - Arabisch efficient\\Romeins - Arabisch efficient.csproj",
+        "projectPath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 1\\programeren\\Programmeren Oefeningen\\Romeins - Arabisch efficient\\Romeins - Arabisch efficient.csproj",
         "packagesPath": "C:\\Users\\evera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\programeren\\Programmeren Oefeningen\\Romeins - Arabisch efficient\\obj\\",
+        "outputPath": "C:\\Users\\evera\\OneDrive\\Documents\\Hogent\\Sem 1\\programeren\\Programmeren Oefeningen\\Romeins - Arabisch efficient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\evera\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

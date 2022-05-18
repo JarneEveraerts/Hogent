@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7c9b9a6e-3426-4bf8-bccb-61cbaf36f8b5": {
+      "ProjectGuid": "7c9b9a6e-3426-4bf8-bccb-61cbaf36f8b5",
+      "DisplayName": "Roman-Arabic Converter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

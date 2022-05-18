@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\SportCarApp\SportCarApp\bin\Debug\net6.0\SportCarApp.exe
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\SportCarApp\SportCarApp\bin\Debug\net6.0\SportCarApp.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\SportCarApp\SportCarApp\bin\Debug\net6.0\SportCarApp.runtimeconfig.json
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\SportCarApp\SportCarApp\bin\Debug\net6.0\SportCarApp.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\SportCarApp\SportCarApp\bin\Debug\net6.0\ref\SportCarApp.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\SportCarApp\SportCarApp\bin\Debug\net6.0\SportCarApp.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\SportCarApp\SportCarApp\obj\Debug\net6.0\SportCarApp.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\SportCarApp\SportCarApp\obj\Debug\net6.0\SportCarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\SportCarApp\SportCarApp\obj\Debug\net6.0\SportCarApp.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\SportCarApp\SportCarApp\obj\Debug\net6.0\SportCarApp.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\SportCarApp\SportCarApp\obj\Debug\net6.0\SportCarApp.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\SportCarApp\SportCarApp\obj\Debug\net6.0\SportCarApp.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\SportCarApp\SportCarApp\obj\Debug\net6.0\ref\SportCarApp.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\SportCarApp\SportCarApp\obj\Debug\net6.0\SportCarApp.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\SportCarApp\SportCarApp\obj\Debug\net6.0\SportCarApp.genruntimeconfig.cache

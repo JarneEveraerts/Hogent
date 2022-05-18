@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b413439-6b32-49c8-ac64-0f19bf85dcc4": {
+      "ProjectGuid": "0b413439-6b32-49c8-ac64-0f19bf85dcc4",
+      "DisplayName": "Domain",
+      "ColorIndex": 0
+    },
+    "f5a6dd8d-1364-4b92-8184-13d21e61c74b": {
+      "ProjectGuid": "f5a6dd8d-1364-4b92-8184-13d21e61c74b",
+      "DisplayName": "Gui",
+      "ColorIndex": 1
+    },
+    "f45d5b26-0af7-4bbb-af4a-6812115f4d5c": {
+      "ProjectGuid": "f45d5b26-0af7-4bbb-af4a-6812115f4d5c",
+      "DisplayName": "GarageTests",
+      "ColorIndex": 2
+    },
+    "7aeac890-9dce-4eb6-9ceb-dfa22a58c106": {
+      "ProjectGuid": "7aeac890-9dce-4eb6-9ceb-dfa22a58c106",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 3
+    },
+    "368ee6f6-6192-4a69-b6f0-9e9bcd908145": {
+      "ProjectGuid": "368ee6f6-6192-4a69-b6f0-9e9bcd908145",
+      "DisplayName": "Database",
+      "ColorIndex": 4
+    },
+    "2c85ee25-32b1-4dbc-8e00-21aef40fcf8c": {
+      "ProjectGuid": "2c85ee25-32b1-4dbc-8e00-21aef40fcf8c",
+      "DisplayName": "Startup",
+      "ColorIndex": 5
+    },
+    "52cdca58-2fd0-4e10-8ec2-093358213dc5": {
+      "ProjectGuid": "52cdca58-2fd0-4e10-8ec2-093358213dc5",
+      "DisplayName": "Cui",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

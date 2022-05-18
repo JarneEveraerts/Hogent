@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "52cdca58-2fd0-4e10-8ec2-093358213dc5": {
+      "ProjectGuid": "52cdca58-2fd0-4e10-8ec2-093358213dc5",
+      "DisplayName": "Cui",
+      "ColorIndex": 0
+    },
+    "0b413439-6b32-49c8-ac64-0f19bf85dcc4": {
+      "ProjectGuid": "0b413439-6b32-49c8-ac64-0f19bf85dcc4",
+      "DisplayName": "Domein",
+      "ColorIndex": 1
+    },
+    "7aeac890-9dce-4eb6-9ceb-dfa22a58c106": {
+      "ProjectGuid": "7aeac890-9dce-4eb6-9ceb-dfa22a58c106",
+      "DisplayName": "Persistentie",
+      "ColorIndex": 2
+    },
+    "2c85ee25-32b1-4dbc-8e00-21aef40fcf8c": {
+      "ProjectGuid": "2c85ee25-32b1-4dbc-8e00-21aef40fcf8c",
+      "DisplayName": "Startup",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

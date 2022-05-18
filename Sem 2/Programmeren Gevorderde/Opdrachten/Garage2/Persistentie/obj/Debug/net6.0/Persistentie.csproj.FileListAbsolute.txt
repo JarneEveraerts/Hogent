@@ -1,0 +1,15 @@
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Garage2\Persistentie\bin\Debug\net6.0\Persistentie.deps.json
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Garage2\Persistentie\bin\Debug\net6.0\Persistentie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Garage2\Persistentie\bin\Debug\net6.0\ref\Persistentie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Garage2\Persistentie\bin\Debug\net6.0\Persistentie.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Garage2\Persistentie\bin\Debug\net6.0\Domein.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Garage2\Persistentie\bin\Debug\net6.0\Domein.pdb
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Garage2\Persistentie\obj\Debug\net6.0\Persistentie.csproj.AssemblyReference.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Garage2\Persistentie\obj\Debug\net6.0\Persistentie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Garage2\Persistentie\obj\Debug\net6.0\Persistentie.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Garage2\Persistentie\obj\Debug\net6.0\Persistentie.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Garage2\Persistentie\obj\Debug\net6.0\Persistentie.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Garage2\Persistentie\obj\Debug\net6.0\Persistentie.csproj.CopyComplete
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Garage2\Persistentie\obj\Debug\net6.0\Persistentie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Garage2\Persistentie\obj\Debug\net6.0\ref\Persistentie.dll
+C:\Users\evera\OneDrive\Documents\Hogent\Sem 2\Programmeren Gevorderde\Opdrachten\Garage2\Persistentie\obj\Debug\net6.0\Persistentie.pdb

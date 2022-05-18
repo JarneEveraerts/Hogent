@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Css/Layout.css">
+    <link rel="stylesheet" href="Css/Contact.css">
+    <title>Contact</title>
+</head>
+<body>
+    <div class="Wrap">
+        <div class="Head_Wrap">
+            <div class="Head_Menu">
+                <button class="Head_Menu_Dropdown">Contact</button>
+                <div class="Head_Menu_Dropdown_Content">
+                    <a href="Home.html">Home</a>
+                    <a href="Onze_Reizen.html">Onze Reizen</a>
+                    <a href="Foto_Galerij.html">Fotogalerij</a>
+                    <a href="Reis_Tips.html">Reistips</a>
+                </div>
+            </div>
+            <img src="Img/Logo.png" class="Head_Graphic" alt="">
+    </div>
+        <div class="Mid_Wrap">
+            <form action="https://www.w3schools.com/action_page.php" id="Mid_Content"method="post">
+                <label for="First_Name" class="Label">First name*:</label>
+                <label for="Last_Name">Last name*:</label><br>
+                <input type="text" name="First_Name" id="First_Name" required class="Textbox">
+                <input type="text" name="Last_Name" id="Last_Name" required class="Textbox"><br><br>
+                <label for="Birthday"class="Label">Birthday:</label>
+                <label for="Species">Species:</label><br>
+                <input type="date" name="Birthdate" id="Birthday"class="Textbox">
+                <select name="Species" id="Species" required>
+                    <option value="Human">Human</option>
+                    <option value="Gallifreyans">Gallifreyans</option>
+                    <option value="Kryptonians">Kryptonians</option>
+                    <option value="Asogians">Asogians</option>
+                    <option value="Vulcans">Vulcans</option>
+                    <option value="Na'vi">Na'vi</option>
+                    <option value="Orc">Orc</option>
+                </select><br><br><br>
+                <label for="Email"class="Label">Email*:</label>
+                <label for="Phone">Contact:</label><br>
+                <input type="email" name="Email" id="Email" class="Textbox" required>
+                <input type="text" name="Phone" id="Phone" required class="Textbox"><br><br>
+                <label for="Subject" id="Mid_Subject_Label">Subject:</label><br>
+                <select name="Subject" id="Subject" required>
+                    <option value="Cancel">Cancel</option>
+                    <option value="Change Reservation">Change Reservation</option>
+                    <option value="Refund">Refund</option>
+                    <option value="Appointment">Appointment</option>
+                </select><br>
+                <button type="submit" value="Submit"id="Submit">Submit</button>
+            </form>
+            </form>
+        </div>
+        <div class="Footer_Wrap">
+            <div class="Footer_Left">
+                <li><img src="Img/Location.png" alt="">Arbeidstraat 14, 9300 Aalst</li>
+                <li><img src="Img/Contact.png" alt="">09 243 38 00</li>
+                <li><img src="Img/Email.png" alt=""><a href="mailto:jarne.everaerts@student.hogent.be">jarne.everaerts@student.hogent.be</a></li>
+            </div>
+            <div class="Footer_Right">
+                <div class="Footer_Right_Titel">About the company</div>
+                <div class="Footer_Right_Text">Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> Possimus voluptate voluptatem aliquam rem natus esse dolorum,<br> temporibus corporis consequuntur quod ducimus libero. <br> Sunt eligendi aliquam,<br> aperiam iste ipsum similique corporis.</div>
+                <div class="Footer_Right_Links">
+                    <a href="http://https://www.facebook.com/hogentofficial/"><img src="Img/facebook.png" alt=""></a>
+                    <a href="https://twitter.com/Hogeschool_Gent"><img src="Img/twitter.png" alt=""></a>
+                    <a href="https://www.youtube.com/HOGENT-Hogeschool-Gent"><img src="Img/youtube.png" alt=""></a>
+                    <a href="https://www.instagram.com/hogeschool_gent/"><img src="Img/instagram.png" alt=""></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
