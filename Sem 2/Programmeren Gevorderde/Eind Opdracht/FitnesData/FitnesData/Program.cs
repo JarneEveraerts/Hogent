@@ -27,7 +27,6 @@ using (var reader = new StreamReader("FitnessToestellen.txt"))
         toestellen.Add(reader.ReadLine());
     }
 }
-using ()
 using (SqlConnection connect = new SqlConnection(Services.Configurator.DbConnection))
 {
     string query = "";

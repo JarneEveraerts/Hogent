@@ -62,11 +62,14 @@ PRIMARY KEY CLUSTERED
 
 CREATE TABLE [dbo].[reservatie] (
   [R_Id] [int] NOT NULL UNIQUE,
-  [R_Name] [varchar](45) NOT NULL,
-  [T_Status] [int] NOT NULL
+  [R_Email] [varchar](45) NOT NULL,
+  [R_Toestel] [varchar](45) NOT NULL,
+  [R_ToestelId] [int] NOT NULL,
+  [R_Date] [DATE] NOT NULL,
+  [R_Slot] [int] NOT NULL
 PRIMARY KEY CLUSTERED
 (
-[T_Id] ASC
+[R_Id] ASC
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
 ) ON [PRIMARY];
 
